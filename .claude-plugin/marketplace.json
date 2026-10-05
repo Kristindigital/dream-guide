@@ -1,0 +1,15 @@
+{
+  "name": "kristins-classroom",
+  "description": "Kristin's Classroom: guides that help complete beginners create and sell their first digital product.",
+  "owner": {
+    "name": "Kristin Horsburgh",
+    "url": "https://kristindigital.com/classroom"
+  },
+  "plugins": [
+    {
+      "name": "dream-method",
+      "source": "./dream-method",
+      "description": "Kristin's DREAM Method as a guide that works with you: Define, Research, Execute, Apply, Market."
+    }
+  ]
+}
