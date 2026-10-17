@@ -4,7 +4,7 @@
 The goal of this step: *"There's proof people want this, and I know exactly who I'm making it for."*
 
 This step is Kristin's Research method.
-**You do the research. They don't.** They answer at most one quick question and help with at most two quick screenshots, then approve the result.
+**This step decides everything after it, so it's thorough** (Kristin, Oct 17): **at least 10 to 15 real examples** before you give a verdict. You do the searching. Where a site won't let you in (Etsy, Facebook groups, Reddit, YouTube comments), they become your eyes for a few short research trips ("Research trips" below), each with the exact link or words to type. Then they approve the result.
 
 Read `rules.md` again before you report anything. Every market fact needs a source.
 
@@ -31,17 +31,17 @@ Look where buyers shop, not only at what people search for:
 - Gumroad, Payhip, Stan Store and Creative Market pages that show up in search
 - Amazon, if it's a planner, journal or workbook
 
-For up to 8 similar products, note: the title, where it's sold, the price, any visible sign of sales (review count, "Bestseller" badge, "in X baskets") and the link.
+**Find at least 10 to 15 similar products,** from at least 2 places where buyers shop. For each, note the title, where it's sold, the price, any visible sign of sales (review count, "Bestseller" badge, "in X baskets") and the link. Count only real products you opened, or saw in their screenshots. If the market truly has fewer, that's a finding: say how many you found and where you looked (`rules.md`, rule 6).
 
 **Lots of similar products is good news.** It means people buy this. The student's job is to be the more specific one. Kristin's rule: *you stand out by doing something specific.*
 
-**If a site blocks you** (Etsy often does), say so plainly. Don't guess what's there. Use the Etsy check under "Screenshot checks" below.
+**If a site blocks you** (Etsy often does), say so plainly. Don't guess what's there. Use the Etsy trip under "Research trips" below.
 
 ### 2. Their buyer, in their own words
 
-Find real conversations: Reddit, public Facebook posts, YouTube comments, Pinterest, blogs, forums.
-Search first. Blogs, forums, hobby and parenting sites and newsletter comments often open when Reddit and YouTube don't. If you still have fewer than 3 real quotes, use check 2 under "Screenshot checks" below.
-Collect up to **10 exact phrases** real people use about this problem, each with its link.
+Find real conversations: Reddit, Facebook groups and public posts, YouTube comments, Pinterest, blogs, forums, and the reviews on the products you found.
+Search first. Blogs, forums, hobby and parenting sites and newsletter comments often open when Reddit and YouTube don't. If you still have fewer than 10 real quotes, use the trips under "Research trips" below (Facebook groups, reviews, Reddit or YouTube).
+Collect **10 to 15 exact phrases** real people use about this problem, from at least 3 different places, each with its link (or "your screenshot of {where}").
 Kristin's rule: *what does she actually say? Not what you think she says.*
 Copy each one word for word, in quotation marks, so the student can find it on the page. Say who said it (a parent's post, a buyer's review, a blogger retelling someone else's words).
 If you couldn't find real quotes, say so and list where you looked. Never quietly leave this part out.
@@ -55,7 +55,7 @@ From what you find, fill in their notes (keep each short):
 
 ### 3. The gaps
 
-From reviews and complaints about similar products: what's missing, confusing, too generic, too long, or too hard? Each gap is a way for the student's product to be better.
+From reviews and complaints about at least 5 similar products: what's missing, confusing, too generic, too long, or too hard? Each gap is a way for the student's product to be better.
 Only use a review you opened and can quote word for word, with its link. Prefer reviews on marketplaces (Etsy, Amazon) over reviews on a seller's own website, and say which one it is.
 
 ### 4. Search phrases (their keywords)
@@ -81,37 +81,44 @@ Base it on the real prices you found. Then recommend:
 Kristin's pricing beats: underpricing hurts (it lowers the value people see and attracts the wrong buyers). Most first products sit somewhere around $7 to $47. $9 feels easier than $10. Bundling and adding value lets them charge more with confidence.
 Use their country's currency.
 
-## Screenshot checks (at most two)
+## Research trips (their eyes, where you can't look)
 
-Some places won't let you in. Etsy often blocks you, Reddit usually does, YouTube comments never load for you, and search-bar suggestions usually aren't visible to you. If your tools can open a search engine's suggestion list, use it first and note where it came from.
-When that leaves a real gap, ask the student for a quick screenshot. If they're not sure how to take one, tell them how for their device in one line.
+Some places won't let you in. Etsy often blocks you, Reddit usually does, Facebook groups are private, YouTube comments never load for you, and search-bar suggestions usually aren't visible to you. If your tools can open a search engine's suggestion list, use it first and note where it came from.
+**Search everything you can yourself first.** Then, to reach 10 to 15 real examples, ask them for the trips that fill your real gaps. Tell them once why it matters, in their words:
 
-The limits:
-- **At most two screenshot checks in this whole step**, one per message. Do your own searching first, and only ask for what you truly couldn't get.
-- Always give them the exact link or the exact words to type, so it takes two minutes.
-- If they'd rather skip it, that's fine. Carry on with what you have, and say in the report which part is thinner because of it.
+> Research is the most important step, so I want at least 10 to 15 real examples before I tell you if this will sell. Some sites won't let me in, so I'll need your eyes for a few quick trips. Each one takes 2 or 3 minutes: I'll give you the exact link or words to type, you send me a screenshot, and I'll read it.
 
-**Check 1: Etsy, when it blocks you.** Proof of buying matters most, so this one comes first.
+How trips work:
+- **One trip per message,** then wait. Usually 3 to 5 trips in total, most important first. Never more than they need.
+- **Always give the exact link or the exact words to type,** and what to screenshot. If they're not sure how to take a screenshot, tell them how for their device in one line.
+- **If they'd rather skip one,** that's fine. Carry on, and say in the report which part is thinner because of it.
+- **On free Claude,** screenshots use up the usage limit quickly. Ask for the 2 or 3 most important trips first, and save the rest for after a pause (`free-plan.md`).
 
-> Etsy won't let me look directly, so can you help me with a quick one?
-> Search Etsy for **"{exact phrase}"**, take a screenshot of the first page of results, and drop it in here. I'll read it for you.
-
-**Check 2: the one biggest gap that's left.** Pick only one:
-- **Fewer than 3 real buyer quotes:** get comments where buyers talk.
-  - For problems people vent about (parenting, money, health, work, relationships), use Reddit:
-    > Reddit won't let me in, so can you grab one for me? Open this: {https://www.reddit.com/search/?q=their+phrase}, tap the post that sounds most like your buyer, and screenshot the comments.
-  - For how-to topics (Canva, cooking, crafts, fitness, organizing), use YouTube:
-    > I can't see YouTube comments, so can you grab some for me? Open this: {https://www.youtube.com/results?search_query=their+phrase}, open the video with the most views, scroll down to the comments and screenshot them.
-- **Enough quotes, but your search phrases are mostly your own guesses:** get search-bar suggestions. They show what real people type.
-  > Quick one: go to Etsy, slowly type **"{2 or 3 words}"** in the search bar without pressing enter, and screenshot the suggestions that pop up.
-  Use Google (google.com) instead if this isn't something people buy on Etsy.
-- **No real gap:** don't ask.
+**The trips, most important first** (pick only what fills a gap):
+1. **Etsy search results** (proof of buying matters most):
+   > Search Etsy for **"{exact phrase}"**, take a screenshot of the first page of results, and drop it in here. Then scroll down and screenshot the next row too.
+   A second search with a different phrase (the buyer's version) often finds 5 more products.
+2. **Reviews on the 2 or 3 best sellers** (for the gaps):
+   > Open this listing: {link}. Scroll to the reviews and screenshot them, especially any that mention something missing or confusing.
+3. **Facebook groups** (where moms, teachers and hobbyists talk):
+   > On Facebook, search **"{2 or 3 words}"** and tap **Groups**. If you're already in a group like this, open it, search the group for **"{word}"**, and screenshot 2 or 3 posts where people talk about it. (Only groups you're in or that are public. No need to join anything just for this.)
+   **Posts in groups stay private:** use them to learn how buyers talk, but never paste a group post word for word into a listing, page or post, and never copy anyone's name.
+4. **Google** (what else people find, and what they ask):
+   > Search Google for **"{phrase}"** and screenshot the first page, including the "People also ask" box if you see one.
+5. **Search-bar suggestions** (what real people type):
+   > Go to Etsy, slowly type **"{2 or 3 words}"** in the search bar without pressing enter, and screenshot the suggestions that pop up.
+   Use Google, Pinterest or Amazon instead if this isn't something people buy on Etsy.
+6. **Reddit or YouTube comments** (for problems people vent about, or how-to topics):
+   > Open this: {https://www.reddit.com/search/?q=their+phrase} (or {https://www.youtube.com/results?search_query=their+phrase}), open the post or video that sounds most like your buyer, and screenshot the comments.
+7. **Amazon or Pinterest**, if it's a planner, journal or workbook (Amazon) or something people save and plan with (Pinterest):
+   > Search {Amazon or Pinterest} for **"{phrase}"** and screenshot the first page.
 
 Reading their screenshots:
 - Read carefully: titles, prices, review counts, badges, comments, suggestions.
 - Copy quotes word for word. If text is cut off or blurry, say so. Never fill in what it probably says.
 - The source is "your screenshot of {where}, {date}", plus the link they opened.
 - Never copy usernames or people's names into their notes.
+- Count what you've got as you go ("That's 11 products so far"), so they see the research building.
 
 ## The verdict
 
@@ -132,6 +139,7 @@ The full detail goes in their notes. What they read stays short:
 > **My verdict: {Go / Tweak / Rethink}.** {One sentence why.}
 >
 > **What I found**
+> - I looked at **{number} similar products** on {places}, from {lowest price} to {highest price}. Say **Show my examples** for the full list.
 > - {evidence, linked}
 > - {evidence, linked}
 > - {evidence, linked}

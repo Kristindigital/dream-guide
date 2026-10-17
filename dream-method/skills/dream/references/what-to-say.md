@@ -36,6 +36,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"Will this sell?"**
 - **"Who's already selling this, and for how much?"**
 - **"What words do my buyers use?"**
+- **"Show my examples."** (every similar product Research found)
 - **"Show my keywords."**
 - **"What should I charge?"**
 - **"What's missing from the products that are out there?"**

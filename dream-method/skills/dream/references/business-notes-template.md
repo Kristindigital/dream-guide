@@ -47,7 +47,7 @@ Status: not started
 ## R: Research
 Status: not started
 - Verdict: (Go / Tweak / Rethink) and why
-- Proof people buy this (with links):
+- Proof people buy this (10 to 15 similar products: title, where, price, signs of sales, link):
 - My buyer in their own words (real quotes, with links):
 - Their struggles:
 - What they want:
