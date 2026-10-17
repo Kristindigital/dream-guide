@@ -11,7 +11,7 @@ Platform facts were checked on each platform's own pages in October 2026. Re-che
 
 ## Part 1: Add-ons and upsells (only with a real second product)
 
-An add-on lets a buyer who's already saying yes add one more thing that helps. Done honestly, it's a service, not a trick: the mom buying the dinner planner may be glad to add the lunchbox planner in one tap.
+An add-on lets a buyer who's already saying yes add one more thing that helps. Done honestly, it's a service, not a trick: the mom buying the budget planner may be glad to add the debt payoff tracker in one tap.
 
 **Only offer an add-on if:**
 - **It already exists.** Never sell a product that isn't made yet.
@@ -38,7 +38,7 @@ An add-on lets a buyer who's already saying yes add one more thing that helps. D
 
 1. **The box is never ticked for them.** The buyer ticks it.
 2. **The price is clear** before they tap, and the total shows before they pay. Some boxes (Systeme.io's, for one) only show the price in the total after ticking, so write it in the add-on's text: "Add it for $4."
-3. **"No thanks" is easy and plain.** No guilt lines like "No, I don't care about my kids' dinners".
+3. **"No thanks" is easy and plain.** No guilt lines like "No thanks, I'll keep stressing about money".
 4. **One add-on at a time,** never a chain of pop-ups.
 5. **No fake timers, "only today" or "spots left"** on add-on pages.
 6. **The add-on must be delivered as reliably as the main product,** in the delivery option chosen for it (Apply Round 8), to buyers who chose it, and only to them.
@@ -105,10 +105,10 @@ Plan the whole funnel before creating any step. **Steps can't be reordered with 
 ### The pieces
 
 1. **The freebie** solves one small, quick piece of the same problem, and leads naturally to the paid product.
-   - Example: "5 dinners my picky kids actually eat" (free), then the $7 meal planner.
+   - Example: "The 1-page payday checklist" (free), then the $7 budget planner.
    - Built in Canva in their look, one to five pages.
 2. **The opt-in page:** short, with no big promise, no long copy and no video.
-   - **Headline:** what they get, plus the result ("Free: 5 dinners picky kids will actually eat").
+   - **Headline:** what they get, plus the result ("Free: the 1-page payday checklist").
    - **A picture of the freebie,** and a line on why they made it.
    - **Name and email,** then the button.
    - Proof only if it's real and about the freebie itself.

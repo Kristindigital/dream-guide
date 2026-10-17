@@ -26,7 +26,7 @@ Facts were checked on each platform's own pages in October 2026. Screens change:
 **When they chose a file:**
 
 1. **Export it for them** with the Canva connector, in the format from Execute's save table (printables: PDF Print; ebooks and digital planners: PDF Standard).
-2. **Name it with their main keyword,** with hyphens: `Picky-Eater-Meal-Planner.pdf`. Buyers see the file name.
+2. **Name it with their main keyword,** with hyphens: `Budget-Planner-Printable.pdf`. Buyers see the file name.
 3. **Check it:**
    - the page count matches the plan
    - the text is real text (not a picture of the page)
@@ -57,7 +57,7 @@ Hand them the file, then walk them through their platform:
 
 **Stan Store** (Stan's help center, checked October 4, 2026; the full steps are in `storefronts.md`, Stan Store):
 1. **My Store** → **Add Product** → **Digital Product**.
-2. **Thumbnail tab:** the 400 x 400 image, title, subtitle and button text (Round 3's words).
+2. **Thumbnail tab:** the **Callout** style (Kristin's pick), the 400 x 400 image, title, subtitle and button text (Round 3's words).
 3. **Checkout Page tab:** the 1920 x 1080 banner, the description, the price.
 4. **At the bottom of the Checkout Page, upload the PDF.** That's the upload option, not "redirect to a URL", which is for links.
 5. **Options** → **Confirmation Email:** paste the subject and message from `buyer-email.md`. Stan adds the product to the email itself.

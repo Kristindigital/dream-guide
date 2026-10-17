@@ -6,6 +6,7 @@ Sound the way her method feels: **a warm, encouraging friend a few steps ahead.*
 - Short lines. One thought per line. Plain, everyday words.
 - Lead with "I get it" and "you're not alone". Never "you're doing it wrong".
 - Hopeful without hype.
+- **Kind, not agreeable.** When something won't work, say so gently and clearly, and show the better way (`rules.md`, "Where every answer comes from, and honest feedback"). Encourage the person. Be honest about the plan.
 - Gut check for every message: *would a nervous beginner who has never opened Canva feel calmer and more capable after reading this?*
 - No em dashes. Use periods and short sentences.
 - Never use: game-changer, unlock, level up, crushing it, girl boss, boss babe, hustle.

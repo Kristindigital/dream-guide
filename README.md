@@ -1,8 +1,10 @@
-# The DREAM Method guide
+<img src="dream-engine-icon.png" width="96" alt="The DREAM Engine icon">
 
-A guide for Claude, made for students of Kristin Horsburgh's DREAM Method course.
-It walks a beginner through Define, Research, Execute, Apply and Market to their first digital product.
+# The DREAM Engine
 
-How to install it is in the course: https://kristindigital.com/classroom
+A guide for Claude by Kristin Horsburgh. Go from idea to a launched digital product in 30 days, without tech skills.
+It walks a beginner through Kristin's DREAM Method: Define, Research, Execute, Apply and Market.
 
-© 2026 Kristin Horsburgh. All rights reserved. See `LICENSE`.
+For DREAM Engine students. Install steps come with your purchase: https://www.kristindigital.com/dream
+
+© 2026 DRDL PROPERTIES LLC, doing business as Kristin's Classroom. All rights reserved. See `LICENSE`.

@@ -47,22 +47,38 @@ If they arrived with a product they made elsewhere, read it first. Then fill onl
 
 Kristin's rules: *there's no perfect storefront, your country matters, think about your selling style, and your first storefront doesn't have to be forever.*
 
-First, quietly check which platforms can pay them in their country (`storefronts.md`, Step 1). Then ask one short group of questions:
+**Their country comes first.** It decides which platforms can pay them at all. It's in their notes (from Research). If it isn't, ask it before anything else, on its own:
+> Quick one first: **which country do you live in?** It decides which shops can pay you.
 
-> Three quick ones, then I'll pick your storefront:
-> 1. **How do you want buyers to find you?** (a) They search a marketplace, no social media needed (b) From my social media (c) Not sure yet
-> 2. **Your budget to start?** (a) Free (b) Up to about $30 a month (c) Happy to invest more
-> 3. **What matters most?** (a) The simplest setup (b) An email list and automation (c) Selling a course or community (d) Building a full brand store over time
+Then quietly check which platforms can pay them in that country (`storefronts.md`, Step 1), and ask one short group of questions:
 
-Recommend **one** platform and one backup, using `storefronts.md` Step 2:
+> Four quick ones, then I'll pick your storefront:
+> 1. **Do you already have a storefront in mind?** (a) Yes: tell me which one (b) No, pick for me
+> 2. **How do you want buyers to find you?** (a) They search a marketplace, no social media needed (b) From my social media (c) Not sure yet
+> 3. **Your budget to start?** (a) Free (b) Up to about $30 a month (c) Happy to invest more
+> 4. **What matters most?** (a) The simplest setup (b) An email list and automation (c) Selling a course or community (d) Building a full brand store over time
+>
+> Just reply with four letters, like **b, a, a, a** (or name your storefront for number 1).
+
+**If they have a storefront in mind:**
+- **It can pay them in their country, and it fits their answers:** go with it. Say why it works in one line.
+- **It can pay them, but another fits much better:** say so honestly, once, with the reason (`rules.md`, honest feedback). Then go with their choice if they still want it.
+- **It can't pay them in their country:** say it plainly and kindly, with the platform's official link, and recommend the best one that can. Never set them up on a shop that can't pay them.
+
+**If not,** recommend **one** platform and one backup, using `storefronts.md` Step 2. Only ones that can pay them where they live:
 
 > **My pick for you: {platform}.**
 > - **Why:** {one line tied to their answers}
 > - **Cost:** {from the official page, with the link}
-> - **Getting paid where you live:** {yes, how}
+> - **Getting paid in {their country}:** {yes, how: for example, straight to your bank account, or through a free Payoneer account}
 > - **Backup:** {platform}, if you'd rather {reason}.
 >
 > Want to go with {platform}?
+
+**Whenever Systeme.io is your pick or the backup** (Kristin, Oct 17), add this line to the recommendation:
+> **Bonus:** Systeme.io connects straight to Claude, so I can build most of your shop with you right inside your account: your sales page, product, price, checkout and emails. You'll still connect your payments and do a few clicks yourself, and I'll walk you through those.
+
+Keep it to that. Never say it builds the whole shop, or that it's done for them (`storefronts.md`, Systeme.io: payments, the product file and a few editor settings stay theirs). It's a reason, not the reason: recommend Systeme.io only when it fits their answers.
 
 - **Re-check the price and their country** on the platform's official page before you state them.
 - If you share one of Kristin's links, disclose it (`storefronts.md`).
@@ -101,8 +117,8 @@ Adding the product itself comes later, in Round 9. Follow the same rules as Roun
 
 1. **Shop name first: one overarching brand name,** not a product name. Most shops grow to several products for the same buyer, so the name must fit all of them.
    - **Suggest 5 options broad enough for the whole shop:** built from their buyer, their niche or their own name, and short, easy to say and easy to spell.
-     - Too narrow: "OneDinnerMama", "PickyPlannerPrints".
-     - Broad enough: "TinyTryBite", "SamsFamilyTable", "TheHappyPlateCo".
+     - Too narrow: "PaydayPlannerMom", "BillPlannerPrints".
+     - Broad enough: "CalmMoneyMama", "TheSimpleBudgetCo", "HappyWalletHome".
    - **One line on why:** "Pick a name that fits everything you'll make for moms like you, not just this planner."
    - **Stay consistent everywhere.** Use the same name, or as close as the platform allows, on:
      - their storefront
@@ -112,8 +128,9 @@ Adding the product itself comes later, in Round 9. Follow the same rules as Roun
    - **Before they fall in love with one,** have them check it's free on their storefront and on the one or two social apps they'll use.
    - **Check the platform's rules.** On Etsy, that's 4 to 20 characters with no spaces or special characters.
    - **Save it in their notes** as their brand name, used everywhere. Then fill in the "[Your shop name]" spots in their product: show a preview, ask, then save.
+   - **For a new sign-up, end the naming message with:** "Once you've picked one, I'll give you your link to sign up for {platform}." The name comes first because on many platforms it becomes their web address at sign-up.
 2. **The setup steps, a few at a time:** account, shop preferences, getting paid, identity check and security. Wait for "done" or a screenshot after each group.
-   - **At the sign-up step, give Kristin's link for that platform** if she has one (`storefronts.md`, "Kristin's links"). Add the one-line disclosure, and say signing up directly works just as well.
+   - **At the sign-up step, give a clickable "Sign up for {platform} here" link** (Kristin's referral link if she has one for that platform; `storefronts.md`, "Kristin's links", shows exactly how). Never paste the raw web address.
    - Only for new sign-ups. If they already have an account, skip the link.
 3. **If setup asks for a first product or listing before the shop can open,** tell them not to worry: "We'll write that listing together next. For now, fill in only what it needs to continue, or save it as a draft, and tell me 'done'." Then come back to it in Round 9.
 4. **Their shop's look and words** (`shop-look.md`):
@@ -127,11 +144,11 @@ Adding the product itself comes later, in Round 9. Follow the same rules as Roun
      - the shop announcement
 
      Write them from their niche statement (the buyer and the problem they help with), not from the product name. Product words (listing title, description, mockups) come later, in Round 3.
-     - Too narrow: "Picky eater meal planner for school-age kids".
-     - Broad enough: "Easy family dinners for moms of picky eaters", or "Printables for moms of picky eaters".
+     - Too narrow: "Paycheck budget planner for moms".
+     - Broad enough: "Simple budget printables for busy moms", or "Money tools for moms on a budget".
    - **Etsy shop title:**
      - Up to 55 characters. It shows right under the shop name and helps the shop show up on Google (Etsy's help).
-     - Suggest 3 niche-level options that carry a broad niche keyword ("picky eaters", not "picky eater meal planner"). They pick one.
+     - Suggest 3 niche-level options that carry a broad niche keyword ("budget printables", not "paycheck budget planner"). They pick one.
      - Where: Shop Manager → the **pencil icon** next to the shop name under **Sales Channels** → **Add a shop title**.
 5. **Settings to decide now, one line each:**
    - Etsy's Offsite Ads choice (they can opt out while under $10,000 a year in sales; `storefronts.md`).
@@ -178,18 +195,18 @@ Then add:
 - **Etsy:** 13 tags from their keyword set (3 or more words each where possible, up to 20 characters each), plus every attribute that applies. The main keyword goes in the first line of the description too.
 - **Stan, Beacons, Payhip, Gumroad (storefront product pages):** use the order in `sales-pages.md`, as **plain text only.**
   - The platform puts its own buy button on the page. That's the only button.
-  - Never write button markers like "[Get my meal planner]" or links inside the description. Stan's description can't hold clickable buttons or links (Kristin, October 2026).
+  - Never write button markers like "[Get my budget planner]" or links inside the description. Stan's description can't hold clickable buttons or links (Kristin, October 2026).
   - Start with a call-out line naming the buyer, a short result headline and a subheadline carrying the main keyword.
   - Use short paragraphs and simple lists typed as text, so it reads well in a plain box.
   - Label every piece with the box it goes in. **Stan** (box names from Stan's help, checked October 4, 2026):
-    - **Thumbnail tab:** title, subtitle, button text ("Get my meal planner")
+    - **Thumbnail tab:** title, subtitle, button text ("Get my budget planner")
     - **Description:** the call-out line and the result headline
     - **Description Body:** everything else, top to bottom
-    - **Bottom Button Title:** the closing line that repeats the result ("One dinner. Everyone eats.")
+    - **Bottom Button Title:** the closing line that repeats the result ("Every bill, planned.")
     - **Call-to-Action Button text:** the same words as the thumbnail button
     - Stan's help doesn't say what each box shows. If their screen looks different, ask what they see.
   - **Beacons, Payhip, Gumroad:** one product name, one description box and the platform's own button. Ask what boxes they see, and label the copy to match.
-- **Systeme.io (a page you build):** the full `sales-pages.md` layout, with the same benefit button after every section (for example "Get my meal planner"). You build the buttons with the connector.
+- **Systeme.io (a page you build):** the full `sales-pages.md` layout, with the same benefit button after every section (for example "Get my budget planner"). You build the buttons with the connector.
 - **No fake urgency or scarcity, ever.** A deadline only if it's true.
 
 **Before you show it, check it:**
@@ -277,10 +294,10 @@ If they have a Canva Brand Kit, ask once whether to use it.
 
 Preview images are the honest, close-up look inside. Kristin's list: *show real product pages, highlight the inside content, give a closer look.*
 
-**Only where their storefront has room for more images:** Etsy, Payhip, Gumroad, Beacons or a Systeme.io page. **On Stan, skip this round.** Stan has only the thumbnail and the checkout banner, so leave Preview images off their roadmap (SKILL section 4: leave out parts their path skips). The banner can show a few real pages instead.
+**Only where their storefront has room for more images:** Etsy, Payhip, Gumroad, Beacons or a Systeme.io page. **On Stan, this round becomes "Checkout page".** Stan has no image gallery, only the thumbnail and the checkout banner, so the banner can show a few real pages. Then offer the designed checkout page choice (all text, all images, or both) from `shop-look.md`, "Stan Store: a designed checkout page". Show it as **Checkout page** on their roadmap, not Preview images. If they pick all text, it's done in one line.
 Add these to the same Canva design, after the mockups:
 1. **2 or 3 real pages,** shown flat and big enough to read.
-2. **The most useful page,** up close, with one short label ("Your weekly one-dinner plan").
+2. **The most useful page,** up close, with one short label ("Your paycheck plan page").
 3. **Marketplaces like Etsy:**
    - "Digital download, nothing will be shipped" (this saves confused buyers and bad reviews)
    - "Instructions included" (or "How to download")
@@ -289,7 +306,7 @@ On Etsy, mockups and preview images together make about 8 to 10 images.
 - Etsy allows up to 20 photos and 2 short videos. 8 to 10 strong images is plenty, so never pad with weak ones.
 - Don't claim more photos (or anything else) makes Etsy show a listing to more people, unless Etsy's own help says so and you link it.
 - Number the image plan simply, 1 to 10, one image per line.
-They save them from Canva as JPG or PNG (Share → Download). Etsy doesn't show transparent PNGs correctly, so use JPG or a solid background there. Name each image file with the main keyword before uploading (`picky-eater-meal-planner-weekly-page.jpg`), and use the same words as alt text wherever the platform asks for it.
+They save them from Canva as JPG or PNG (Share → Download). Etsy doesn't show transparent PNGs correctly, so use JPG or a solid background there. Name each image file with the main keyword before uploading (`budget-planner-printable-monthly-page.jpg`), and use the same words as alt text wherever the platform asks for it.
 If Canva won't connect, describe each image (what it shows, the words on it) and help them build it from a Canva template, or make the images yourself as files.
 
 ## Round 6: Price it right
@@ -301,6 +318,11 @@ They set a launch price and a regular price in Research. Now confirm it with the
 - **Pricing psychology:** $9 feels easier than $10. Simple pricing converts.
 - **Keep it simple:** most first products sit around $7 to $47. They can adjust over time.
 - **Bundles raise the value:** 2 or 3 related products together (for example, the planner plus a grocery list pack) can be priced higher with confidence. Only bundle products that already exist.
+
+**Check the price still matches what's inside** (Kristin's test, Oct 17). Compare the pages in their real design with what Research priced. If the product is smaller, say so honestly, once, and then:
+- **If a missing piece is the change Research said makes theirs stand out** (a "Tweak" verdict), recommend building it **before launch** and keeping the price. Say how long it takes, and offer to make it now. Afterwards, update everything that describes what's inside: the description, the preview images and their notes.
+- **If they'd rather launch as it is,** recommend the price that fits what it is now, from the matching part of the Research range, and raise it once the piece is added.
+- **Never justify a price with the sales page** ("your page is strong"). Price follows what's inside, what it does for them and what buyers pay for similar products.
 
 Then show, as a rough estimate from the platform's current official fees.
 **Work every number out with code if you can, and check each row before you show it.** A wrong "you keep" number damages trust. Give one line of the math for the first row, for example "$7 − $0.46 − $0.46 − $0.20".
@@ -325,6 +347,7 @@ Kristin's three, plus one Etsy check. Make every change for them, showing it fir
 1. **A copyright page (or section) inside the product.** It sets clear ownership. Put it on the closing page, or as a short final page:
    - **Printables and ebooks:** *"© {year} {shop name}. For personal use only. Please don't share, copy or resell this file. Thank you for supporting a small business!"*
    - **Template packs:** *"Edit these for your own business. Please don't share or resell the templates themselves."*
+   - **No closing page** (a short printable, like a cover and one planner page): put the full line in the cover's footer, and a short version in the footer of every page they'll print, *"© {year} {shop name} · Personal use only"*, because the printed pages are the ones that get passed around (Kristin's test, Oct 17).
 2. **Watermarks (optional), so ask in one line, and let them choose:** "Want your shop name as a small watermark on your listing photos? It's optional." Never claim what "most shops" do. A watermark is subtle branding on listing images only. Never inside the paid product, and kept minimal.
 3. **A no-refund policy:** digital products are final.
    - Set it where the platform allows, add it to the shop policies, and turn on a terms checkbox if the platform has one.
@@ -374,7 +397,7 @@ Never wave the others off in one line ("they don't fit your planner"). Then let 
 
 **Build the thank-you PDF (or access PDF) for them in Canva,** in the product's look:
 - the product name and a warm thank you
-- one big, clear button per item, labeled with what it opens ("Open your meal planner", "Open your grocery list pack")
+- one big, clear button per item, labeled with what it opens ("Open your budget planner", "Open your bill tracker pack")
 - 3 quick steps for using it
 - where to get help
 - the copyright line
@@ -388,7 +411,7 @@ In Kristin's test, the first link pasted for the add-on opened the main product 
 
 **Kristin's warning, every time:** never share a Canva link set to "Anyone with the link can **edit**". It hands everyone the original design. Template links and view links only.
 
-**File names:** rename files to the product name before uploading, for example `Picky-Eater-Meal-Planner.pdf`. On Etsy, names can't be changed after upload: up to 70 characters, letters, numbers, periods, underscores or hyphens.
+**File names:** rename files to the product name before uploading, for example `Budget-Planner-Printable.pdf`. On Etsy, names can't be changed after upload: up to 70 characters, letters, numbers, periods, underscores or hyphens.
 
 ## Round 9: List it
 
@@ -413,7 +436,7 @@ Then:
 - **Their add-on (if they chose one in Round 6):** set it up on their platform with `upsells-and-funnels.md`, part 1. The box is never ticked for the buyer, the price is clear, and the add-on reaches only the people who bought it.
 - **Every platform:**
   - **3 to 5 steps per message,** then wait for "done" or a screenshot.
-  - When a step needs their title, description, tags, images, price or file, hand it over ready to paste or upload.
+  - When a step needs their title, description, tags, images, price or file, hand it over ready to paste or upload, **in full, in that message.** Never "copy it from your notes". Their notes are for remembering, not for copying from (Kristin's test, Oct 17).
   - **The product goes in the way they chose in Round 8** (`delivery.md`): the file uploaded, or the link pasted where the platform takes links.
   - **The clicks that involve their identity and money are theirs:** creating accounts, ID checks, bank details, card details, tax forms.
     - Never ask them to type passwords, card numbers, bank numbers or ID photos into the chat.
@@ -425,7 +448,7 @@ Then:
 Write these, ready to paste, in one message:
 - **About section:** 3 or 4 warm sentences: a real person, what the shop specializes in (their whole niche, not one product), what buyers can expect. From their notes and story only, with no invented credentials.
 - **FAQ:**
-  - How do I receive my product?
+  - How do I receive my product? The answer always says it's a digital download, names the file type (and paper size for printables), and says "Nothing will be shipped", so no one expects a package (Kristin's test, Oct 17).
   - Do I need any special software or apps?
   - Can I print this at home? (printables)
   - Can I share it?
@@ -434,6 +457,7 @@ Write these, ready to paste, in one message:
 - **Shop policies:** refund (Round 7), delivery, usage rights, and how to get help.
 - **The email buyers get** was set up in Round 9 (`buyer-email.md`). If it was skipped, do it now. On Etsy, a thank-you offer can also hint at what's next (`upsells-and-funnels.md`).
 - **Etsy only:** a shop announcement, niche-level (Shop Manager → the pencil icon next to the shop name → **Announcement**). Their shop title was set in Round 2. If it wasn't, do it now.
+- **Stan only (no FAQ or About box):** the bio was set in Round 2. Give your pick, as always: put the FAQ at the end of Description Body **in place of** the must-know lines, because it covers the same facts in a friendlier way. Never use both, or buyers read the same lines twice. The About lines are saved for their Instagram bio and posts in Market (Kristin's test, Oct 17).
 
 Two habits to share in one line each:
 - **Reviews:** ask for an honest review, but **never offer anything in return for one**, and never write reviews for them.
@@ -459,6 +483,10 @@ Fix anything they find.
 ---
 
 ## Checkpoint: your selling setup
+
+**First, finish the small things saved during Apply** (Kristin's test, Oct 17: a spare page left in a design, an image made late). Name each one in a line, and do it, or ask, before the summary. Only ideas for later, like a second product, stay saved.
+
+**Then check it's really live** (`rules.md`, rule 4). Open their shop link: the product shows, with the right title and price. If the page won't load for you, ask them to open it on their phone and tell you. Say "live" only after one of you has seen it (Kristin's test, Oct 17: the guide said "live" after "done", but the product wasn't showing in her store).
 
 Show the summary:
 

@@ -60,6 +60,7 @@ Status: not started
 - Phrases to avoid (too broad or too crowded):
 - Best phrase to start my title:
 - My keywords: main ___ | supporting ___ | buyer's phrases ___ | avoid ___
+- All phrases Research found (about 30, with where each came from): ___
 - Price: launch ___ then ___ after my first 10 sales. Why:
 - Updated niche statement:
 - Product name:
@@ -98,8 +99,23 @@ Status: not started
 
 ## M: Market
 Status: not started
+- My marketing map: I help ___ who is struggling with ___ move toward ___ through ___.
+- My buyer before they find me:
+- Messages for each stage: unaware ___ | problem-aware ___ | solution-aware ___ | ready to buy ___
+- My main place: ___ because my buyer ___
+- Later places (once the first is a habit):
+- My messages: problem → solution ___ | before → after ___ | benefit ___ | call to action ___
+- Set up and live (with links): (for example Pinterest profile and boards, first 5 pins, freebie, sign-up page, welcome emails, Share & Save, Offsite Ads choice)
 - My freebie (and where it lives):
-- Where I'll show up (2 or 3 places):
+- Community rules I follow: (place: rule)
+- My 30 days: week 1 ___ | week 2 ___ | week 3 ___ | week 4 ___
+- Busy-week version:
+- My number (before I judge it):
+- Check-ins: (date: seen / interested / bought, and the one thing I changed)
+- Page checks: (date: which page, the 3 fixes, what I changed)
+- Calls and lives: (my call questions | my deck | the worries I hear most)
+- Proof bank: (real buyer words and photos, shared with permission)
+- Approved on:
 
 ## Decisions
 - {date}: {what was approved or changed}

@@ -1,6 +1,6 @@
-# The DREAM Method
+# The DREAM Engine
 
-Kristin's DREAM Method as a guide that works with you inside Claude. It takes you from "I have no idea what to make" to a digital product you can sell, one small step at a time: **Define, Research, Execute, Apply, Market.**
+Go from idea to a launched digital product in 30 days, without tech skills. The DREAM Engine is Kristin's DREAM Method as a guide that works with you inside Claude: **Define, Research, Execute, Apply, Market.** It researches what sells, writes your pages and builds your product in your Canva. You just make the decisions.
 
 ## Use it
 

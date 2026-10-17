@@ -19,7 +19,7 @@ Every blueprint follows the same three ideas from `why-people-buy.md`:
   - where to find more from them
   This is often the reason a buyer trusts a brand new seller.
   **Never invent credentials, titles or experience** ("certified", "expert", "10 years"). Use only what's in their notes, and leave a marked spot for anything missing.
-  That includes their story. Feelings, struggles and results ("every dinner felt like a fight", "we got back to one dinner") must come from their own words. If a line would help but isn't in their notes, ask first: "Is it true that...? Want me to add it?"
+  That includes their story. Feelings, struggles and results ("the money was always gone by the 20th", "we finally paid every bill on time") must come from their own words. If a line would help but isn't in their notes, ask first: "Is it true that...? Want me to add it?"
   In a very short product (a 1 to 3 page checklist), fold it into 2 lines on the closing page instead. Mini-courses keep it as slide 3 (Kristin's order).
 - **A closing page:** "What's next" (one simple next step), their shop or social name, and a thank you.
 - **Their name** or shop name on the cover.
@@ -159,6 +159,8 @@ Interactive planners used on a tablet or phone, in apps like GoodNotes or Notabi
 ## 8. Mini-courses and workshops
 
 Short lessons on one skill, as slides, a PDF, or video.
+
+**Read `course-building.md` first:** right-size it, outline it with them in rounds, keep their words verbatim (they only teach what they've done), add action sheets only where there's a deliverable, and follow its slide rules.
 
 - **Build in:** Canva (a presentation).
 - **First version:** 3 to 5 lessons, each teaching one thing, with an action step after each.

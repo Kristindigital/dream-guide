@@ -63,7 +63,7 @@ Only use a review you opened and can quote word for word, with its link. Prefer 
 Build phrases from the real buyer language, the listings you found, and search-bar suggestions (theirs from a screenshot, or ones you could open yourself, with the source and date):
 - About 20 phrases written the way a real person types them
 - About 10 that show someone is ready to buy ("printable", "template", "planner", "for beginners", and so on)
-- 5 to avoid because they're too broad, too crowded for a new seller, or for the wrong buyer (for example "toddler" or "adults" when they sell for school-age kids)
+- 5 to avoid because they're too broad, too crowded for a new seller, or for the wrong buyer (for example "business budget" or "college budget" when they sell to moms)
 
 Then boil it down to their **keyword set**, which every title, page, image and post will use (`why-people-buy.md`, section 15):
 - **Main keyword:** the single best phrase to start their product name and title with
@@ -149,8 +149,16 @@ The full detail goes in their notes. What they read stays short:
 >
 > **Your price:** {launch} to start, then {regular} after your first 10 sales.
 > **Your product name:** {searchable name}
-> **Your keywords:** {main keyword}, plus {2 or 3 supporting phrases}
 > **Your promise:** {promise sentence}
+>
+> **Your keyword list** 🔑
+> These are the words your buyers type when they're looking for a product like yours. I'll use them everywhere from here on: your product name, your listing or sales page, your shop's tags, your images, your pins and your emails. That way, the people searching for it can find it.
+> - **Main keyword:** {main keyword}
+> - **Supporting:** {3 to 5 supporting phrases}
+> - **Your buyer's words:** {2 or 3 buyer's phrases}
+> - **We'll skip:** {2 or 3 phrases to avoid}, because {one short reason}
+>
+> Want the full list I found? Say **Show my keywords**.
 
 ## Checkpoint: build this?
 

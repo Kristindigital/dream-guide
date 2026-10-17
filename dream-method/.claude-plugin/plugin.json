@@ -1,10 +1,10 @@
 {
   "name": "dream-method",
-  "displayName": "The DREAM Method",
-  "version": "0.4.0",
-  "description": "Kristin's DREAM Method as a guide that works with you. Define your idea, Research whether it will sell, then Execute, Apply and Market. It does the heavy lifting and asks you only for the decisions that need you.",
+  "displayName": "The DREAM Engine",
+  "version": "0.5.0",
+  "description": "Go from idea to a launched digital product in 30 days, without tech skills. Kristin's DREAM Method (Define, Research, Execute, Apply, Market) as a guide that researches, writes and builds in your Canva with you. You just make the decisions.",
   "author": {
     "name": "Kristin Horsburgh",
-    "url": "https://kristindigital.com/classroom"
+    "url": "https://www.skool.com/kristinsclassroom/about"
   }
 }

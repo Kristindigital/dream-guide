@@ -26,14 +26,14 @@ The offer (who it's for, the problem, the promise, what's inside, the price) com
 
 Most visitors come from social media on their phone, so build for the phone first. Kristin's training puts it at 50 to 70% of traffic. The top must answer "is this for me, and what do I get?" in a few seconds:
 
-1. **A call-out line** above the headline, naming who it's for. For example: "For moms of picky school-age kids".
+1. **A call-out line** above the headline, naming who it's for. For example: "For moms whose money is gone before payday".
    It's a banner that qualifies the right buyer. Never a fake urgency banner, and a deadline only if it's true.
 2. **The headline: the result, short and specific.**
    - At most 3 lines on a phone and 2 on a computer, so about 4 to 10 words.
-   - It takes away their worst problem, in words they can picture. Write "One dinner your whole family will eat", not "A healthier family mealtime".
-   - Use a number only if it's true (7 dinners, 10 pages, 15 minutes).
+   - It takes away their worst problem, in words they can picture. Write "Every bill planned before payday", not "Better money habits".
+   - Use a number only if it's true (12 months, 10 pages, 15 minutes).
 3. **A subheadline** that says how, or how fast, and carries their **main keyword** (`why-people-buy.md`, section 15).
-   For example: "The picky eater meal planner for school-age kids. Plan a week of family dinners, with an easy swap for your picky one."
+   For example: "The budget planner printable for busy moms. Plan every paycheck in 15 minutes, with a bill calendar and a spending tracker."
 4. **One picture of the real product:** the hero mockup from Apply Round 4.
    If they film a short video instead, they should start full frame, looking at the camera, not as a tiny bubble in the corner of a screen recording. People need to see their face to trust them.
 5. **The button,** visible without scrolling on a phone (on a page you build). On a storefront, the platform places its button; keep the description tight so it isn't buried.
@@ -45,12 +45,12 @@ Most visitors come from social media on their phone, so build for the phone firs
 
 ## Then, top to bottom
 
-On a page you build, put the button after every major section, with **the same words every time** ("Get my meal planner"). On a storefront, skip this: its own button is the only one. Either way, one action only: no links to other pages, socials or products.
+On a page you build, put the button after every major section, with **the same words every time** ("Get my budget planner"). On a storefront, skip this: its own button is the only one. Either way, one action only: no links to other pages, socials or products.
 
-1. **Why trust them,** right under the top. Use their real credibility in one or two lines: their story, their own result, a real number. ("I'm a mom of two picky eaters, ages 6 and 9.")
+1. **Why trust them,** right under the top. Use their real credibility in one or two lines: their story, their own result, a real number. ("I'm a mom of two who used to run out of money before every payday.")
    - Real buyer quotes, only with permission, once they exist.
    - Never invented testimonials, results or numbers (`rules.md`, rule 3). Most page templates come with testimonial slots. Delete them rather than fill them.
-2. **The problem, in the buyer's own words.** Paint one real moment from their day, like a scene in a movie: "It's 5:30. Dinner is on the stove. Then your picky one sees it, and you start a second dinner." Then name the honest cost of staying stuck, once (`why-people-buy.md`, section 10).
+2. **The problem, in the buyer's own words.** Paint one real moment from their day, like a scene in a movie: "It's the 22nd. You check your bank app in the grocery line, and you're already counting the days to payday." Then name the honest cost of staying stuck, once (`why-people-buy.md`, section 10).
 3. **How it works:** the product as the bridge, in 3 simple steps or 3 cards.
 4. **What's inside:** benefit first, one line per part, the most wanted part first.
 5. **This is for you if... / This isn't for you if...** (`why-people-buy.md`, section 11).
@@ -60,7 +60,7 @@ On a page you build, put the button after every major section, with **the same w
    - No inflated "value" totals.
 7. **What to expect:** how they get it (instant download, the link also comes by email), the kind no-refund line, and where to get help if a file won't open.
 8. **Questions (FAQ):** 3 or 4 real worries, about fit, time, format and printing, answered in one or two lines each.
-9. **The last button,** with a headline that repeats the result ("One dinner. Everyone eats."). On Stan, that headline goes in the **Bottom Button Title**, just above Stan's own button.
+9. **The last button,** with a headline that repeats the result ("Every bill, planned."). On Stan, that headline goes in the **Bottom Button Title**, just above Stan's own button.
 
 ## Design that sells
 

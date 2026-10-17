@@ -12,8 +12,11 @@ Kristin recommends these, and some of her links are referral links:
 - Systeme.io: https://systeme.io/?sa=sa0258482603f4d41ede37d8be1389091e15be90aa
 - Skool: https://www.skool.com/signup?ref=7bd4197d34464126af6741d405733172
 
-When you share one, say once, plainly: *"This is Kristin's link. She may earn a small commission if you sign up, at no extra cost to you."*
-**When to share it:** at the moment they create their account (Apply, Round 2), and when you recommend the platform (Round 1). Never to someone who already has an account. The disclosure line goes the first time you share a link in a chat; at the sign-up step, always show the link again, so they don't have to scroll back. You don't need to repeat the whole disclosure ("Here's Kristin's link again: …"). If a platform isn't on this list, there's no Kristin link: send them to its official sign-up page.
+**How to show it (Kristin, Oct 17):** always as a clickable link that says what it does, never the raw web address, and never "Kristin's link" (that sounds like it opens Kristin's own page). Put the short disclosure right after it, the first time in a chat:
+> 👉 **[Sign up for {platform} here]({link})**
+> *(It's Kristin's referral link: she may earn a small commission, at no extra cost to you.)*
+
+**When to share it:** at the moment they create their account (Apply, Round 2), and when you recommend the platform (Round 1). Never to someone who already has an account. **If they picked the platform themselves,** the link comes at the sign-up step (Round 2), right after they say they don't have an account yet. The disclosure goes the first time you share a link in a chat. At the sign-up step, always show the link again, so they don't have to scroll back: just **[Sign up for {platform} here]({link})**, with no need to repeat the disclosure. If a platform isn't on this list, there's no Kristin link: link its official sign-up page the same way ("Sign up for {platform} here").
 Recommend a platform only because it fits the student. Never because of a link.
 **Kristin has no storefront setup videos or modules yet,** for any platform. You are their walkthrough, step by step. Never mention a setup video, module or tutorial from Kristin.
 
@@ -75,7 +78,7 @@ These come from Kristin's storefront guide ("built for" and "why this is for you
 | Want buyers to find them through search, without relying on social media | **Etsy** (if their country is supported). Otherwise **Gumroad** or **Payhip**. | Etsy has millions of buyers already searching. Fees per sale instead of a monthly bill. |
 | Want to sell from their social media (link in bio), spend nothing to start, and test ideas | **Beacons** (free plan) or **Payhip** (free plan) | Free to start; a small fee per sale (Beacons 9%, Payhip 5%). |
 | Have or are building a social audience, want the simplest setup, and are happy to pay monthly | **Stan Store** | Clean, fast, no Stan fee per sale. $29 a month after a 14-day trial. |
-| Want email marketing, funnels and everything in one place, and don't mind learning a little tech | **Systeme.io** | Free plan with email, funnels and digital delivery. No transaction fees. |
+| Want email marketing, funnels and everything in one place, and don't mind learning a little tech | **Systeme.io** | Free plan with email, funnels and digital delivery. No transaction fees. Your guide can build most of it with them through the Systeme.io connector. |
 | Want a community, a course or membership, or a free community that also sells their product inside | **Skool** (full guide: `skool.md`) | Community, classroom and calls in one place. A free group can sell their product as a one-time "Buy now" course. |
 | Want the fastest, no-tech start, or live where other platforms can't pay them | **Gumroad** | No monthly fee, pays out almost everywhere, handles worldwide sales tax. |
 | Want to build a full branded store for many products, long term | **Shopify** (later, not usually the first store) | Powerful and scalable, but more setup and a monthly fee. |
@@ -83,7 +86,7 @@ These come from Kristin's storefront guide ("built for" and "why this is for you
 Rules of thumb:
 - **Recommend one platform now**, plus one backup. Kristin's rule: *your first storefront doesn't have to be forever.*
 - **Search + social later is a great path.** Start on Etsy for search traffic and add a link-in-bio store when they start posting (Market).
-- **Product type matters.** Template packs need somewhere to hold a Canva link (all of these work, with their access PDF). Courses and memberships fit Skool, Systeme.io, Stan, Beacons Creator Plus, Payhip or Gumroad better than Etsy.
+- **Product type matters.** Template packs need somewhere to hold a Canva link (all of these work, with their access PDF). Courses and memberships fit Skool, Systeme.io, Stan, Beacons Creator Plus, Payhip or Gumroad better than Etsy. Build the course itself with `course-building.md`, whichever platform they pick.
 - **Some platforms let you build for them.** If Systeme.io's connector is connected, you can build much of their store directly (see Systeme.io). For the others, you write everything and they click.
 - **Etsy needs their own designs.** PLR content sold as-is breaks Etsy's rules (digital items must be made or designed by the seller).
 
@@ -163,7 +166,7 @@ Send these 3 to 5 at a time, then wait for "done" or a screenshot. Everything ha
 Then **Preview**, check everything, and **Publish**. It can take up to 48 hours to show in search.
 
 **Important details:**
-- **File names can't be changed after upload.** Up to 70 characters, letters, numbers, periods, underscores or hyphens. Rename the file before uploading (for example `Picky-Eater-Meal-Planner.pdf`).
+- **File names can't be changed after upload.** Up to 70 characters, letters, numbers, periods, underscores or hyphens. Rename the file before uploading (for example `Budget-Planner-Printable.pdf`).
 - The listing's web address is set by the title the first time it's published.
 - Over 20MB, or more than 5 files? Use a thank-you PDF with a Google Drive link (see delivery in `step-apply.md`).
 - Etsy won't let sellers buy from their own shop. Use **Preview** to check the listing.
@@ -195,18 +198,19 @@ Kristin's link: https://join.stan.store/KristinHorsburgh (disclose it).
 **Round 9, the product, then payments:**
 1. **My Store** → **Add Product** → **Digital Product**.
 2. **Thumbnail tab:**
-   - a style (**Button**, **Callout** or **Preview**)
+   - the style: **Callout** (Kristin's pick, Oct 17). It shows their image, title, subtitle and a big button, so all of Round 3's thumbnail words show up. Stan also offers Button and Preview; name Callout as the pick, never "whichever shows your image biggest".
    - the thumbnail image (**400 x 400**)
    - the title, subtitle and button text (Round 3's words)
 3. **Checkout Page tab:**
-   - **Banner image:** 1920 x 1080. Use the hero mockup, resized.
+   - **Banner image (the image spot at the top):** the 1920 x 1080 banner, the mini ad from `shop-look.md` (the hero mockup, the product name and 2 or 3 "what's inside" points). Only the banner goes here. **Check that it's made before you send this message.** If it isn't, make it first, then show a preview and save it, like any missing image (Kristin's test, Oct 17: it was never made, and the checkout still showed Stan's sample photo).
+   - **Designed checkout page** (if they chose all images, or images and text, in Apply Round 5): the section images go **inside Description Body**, using its image button, never in the banner spot. Give the exact order, piece by piece. For images and text: "Image 1 (hero), then the paragraph that starts 'This weekly dinner planner…', then Image 2 (the problem)…". For all images: the sections in order, then the must-know words as text below.
    - **The copy, as plain text:** Description, Description Body, the Bottom Button Title and the Call-to-Action Button text, each with Round 3's words for that box (`sales-pages.md`, Stan row). Stan's description can't hold clickable buttons or links, so there are no button markers in it. Stan's own button is the only one.
    - **The price.** Discount codes and limited quantity need Creator Pro.
 4. **At the bottom of the Checkout Page,** add the product in the way they chose in Round 8 (`delivery.md`):
    - **upload the file** (PDFs and most file types, up to 5 GB, ideally under 500 MB)
    - **or redirect to a URL,** for a Canva view link or template link
 5. **Options tab** → **Confirmation Email:** paste the subject and message from `buyer-email.md` (written and approved before this step). Stan adds the product to the email itself. Creator Pro adds Order Bumps, Email Flows and Affiliate Share (`upsells-and-funnels.md`).
-6. **Publish**, then open their store link on their phone to check it.
+6. **Publish**, then open their store link on their phone to check it. Ask them to paste **two links** for their notes: the store link, and the product's own link (tap the product, then copy the address from the browser; it has `/p/` in it). Market shares the product link, so buyers land right on it (Kristin's test, Oct 17: only the store link was saved).
 7. **Now connect payments:** **Settings** → **Payments** → the button next to Stripe (it may say **Register**, **Connect** or **Connect Your Bank Account**).
    1. Choose their home country → **Create My Stan Stripe Account**. It's a new Stripe account managed by Stan; an existing one can't be connected.
    2. Enter the phone number and email on their Stan account, then the SMS code. The phone must be from the country they chose.

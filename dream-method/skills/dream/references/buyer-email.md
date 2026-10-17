@@ -58,28 +58,28 @@ The same, with three changes:
 - **First line:** "Thank you for your order from {shop name}!", plus one warm line about their whole niche.
 - **The tip** must fit everything they sell, now and later. For printables: "Print at 100% (Actual size) on regular letter paper." For templates: "Make your own copy before you edit."
 
-### Sam's, filled in (an example of the product version on Stan)
+### An example, filled in (the product version on Stan)
 
-> **Subject:** Your Picky Eater Meal Planner is here
+> **Subject:** Your Budget Planner is here
 >
 > Hi there,
 >
-> Thank you for buying the Picky Eater Meal Planner! I made it because I was so tired of cooking two dinners every night, and I wanted one simple plan the whole family could eat.
+> Thank you for buying the Paycheck Budget Planner! I made it because our money was always gone before payday, and I wanted one simple plan for every paycheck.
 >
-> **Your download:** your planner is in this email. Save the PDF to your computer now, so you can print a fresh week any time.
+> **Your download:** your planner is in this email. Save the PDF to your computer now, so you can print a fresh month any time.
 >
-> **For the best start:** fill in "Foods My Kids Will Eat" first, then plan your week from that list.
+> **For the best start:** fill in the "Bills and due dates" page first, then plan your next paycheck from that list.
 >
 > **Need help?** If anything won't open, email me at {your email} and I'll make it right.
 >
-> I'd love to hear how your first week goes. Just email me.
+> I'd love to hear how your first month goes. Just email me.
 >
-> Happy dinners,
-> Sam, OneDinnerMama
+> Happy planning,
+> {Your name}, {Your shop name}
 
 ### Keep it honest
 
-- **No promised results** ("your kids will eat everything"). Say what the product does, not what it guarantees.
+- **No promised results** ("you'll never run out of money again"). Say what the product does, not what it guarantees.
 - **Reviews: ask for an honest one, never offer anything in return,** and never write one for them (`rules.md`, rule 3). On Etsy, this is also Etsy's rule.
 - **No fake urgency,** and no "what's next" hint unless it's real.
 - **Every link in it opens the right page.** Check each one before they save it.

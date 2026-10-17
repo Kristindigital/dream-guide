@@ -28,7 +28,7 @@ Never teach this page as a lesson.
 
 People don't pay for our passion. They pay to fix something they already know is a problem, and they describe it in their own words.
 - Build from what buyers say (Research collects it), not from what you or the student think buyers need.
-- If buyers say "I'm so tired of cooking two dinners", the product is about one dinner. Not about "a healthier relationship with food".
+- If buyers say "our money is gone before payday", the product is about a plan for every paycheck. Not about "a healthier relationship with money".
 - When the student's idea and the buyer's words don't match, side with the buyer's words, and say so kindly.
 
 ## 2. A result they can see beats a feeling
@@ -70,7 +70,7 @@ A product feels more valuable when:
 4. **It takes less effort.**
 
 Ways a digital product can turn each of these up:
-- Made for one specific buyer (a meal planner for moms of picky school-age kids, not "a meal planner").
+- Made for one specific buyer (a budget planner for moms whose money is gone before payday, not "a budget planner").
 - A filled-in example page next to each blank one.
 - A short "start here" page: how to use it in the first 10 minutes.
 - Parts done for them: pre-filled lists, sample scripts, ready-made captions.
@@ -85,14 +85,14 @@ Everything else (title, description, mockups, posts) is a version of it.
 
 In Define, it starts in Kristin's format: **Before my product, they ___. After using it, they ___.**
 In Research, sharpen it into their **promise sentence**, using the buyer's own words. Use at least three of these:
-- **Who:** their buyer, as specific as possible (moms of picky school-age kids, new Etsy sellers, brides on a budget).
+- **Who:** their buyer, as specific as possible (moms whose money is gone before payday, new Etsy sellers, brides on a budget).
 - **What they get:** something they can see (section 2).
 - **A number,** only if it's true. Numbers about the product and the time it takes are safest: 7 dinners, 30 posts, 1 page, 15 minutes.
 - **How long:** in one weekend, in 15 minutes a week.
 - **Without ___:** the thing they dread or think they have to do (cooking twice, starting from a blank page, hiring a designer). Research collects these.
 
 Examples:
-- One dinner the whole family will eat, planned in 15 minutes a week, without cooking twice.
+- Every bill planned before payday, in 15 minutes a month, without a spreadsheet.
 - Your first 30 Instagram posts planned in one weekend, without staring at a blank screen.
 - Your whole wedding budget on one page, without a spreadsheet.
 
@@ -120,15 +120,15 @@ What's inside is how the buyer gets to the promise. It's not the promise.
 ## 7. One promise, many places
 
 Once the promise sentence is approved, write a version of it for each place. Same promise, just shorter or longer.
-Where people search (Etsy, Pinterest), keep the buyer's search words first.
+Where people search (Etsy, Pinterest), keep the buyer's search words first. For hooks and opening lines, use the formulas in `hooks.md`.
 
 | Where | Shape | Example |
 |---|---|---|
-| Etsy title | {search phrase} for {who}, {what they get}, {format} | Picky Eater Meal Planner for School-Age Kids, One Family Dinner, Printable |
-| First line of the description | {what they get}, without {what they dread} | Plan one dinner the whole family will eat, without cooking twice. |
-| Main mockup headline | the result, in 5 words or fewer | One dinner. Everyone eats. |
-| Pinterest pin title | {search phrase}: {what they get} | Picky Eater Meal Plan: One Dinner for the Whole Family |
-| Instagram or TikTok hook | talk straight to {who} about {what's hard} | If you cook two dinners every night for one picky kid, this is for you. |
+| Etsy title | {search phrase} for {who}, {what they get}, {format} | Budget Planner Printable for Moms, Plan Every Paycheck, Monthly Bill Tracker |
+| First line of the description | {what they get}, without {what they dread} | Plan every bill before payday, without a spreadsheet. |
+| Main mockup headline | the result, in 5 words or fewer | Every bill, planned. |
+| Pinterest pin title | {search phrase}: {what they get} | Budget Planner Printable: Plan Every Paycheck in 15 Minutes |
+| Instagram or Facebook hook | talk straight to {who} about {what's hard} | If your money is gone before payday, this is for you. |
 | Email subject line | {what they get} in {how long} | Dinner, planned in 15 minutes |
 | The last line (what to do next) | short and plain | Get the planner |
 
@@ -141,14 +141,14 @@ Where people search (Etsy, Pinterest), keep the buyer's search words first.
 ## 9. The gap: where they are now, and where they want to be
 
 Every buyer is somewhere they don't want to be (stuck, tired, overwhelmed) and wants to be somewhere better. The product is the bridge. Selling is simply showing the bridge clearly.
-- **Where they are now:** say it in their own words from Research, so they feel seen. ("Cooking two dinners every night.")
-- **Where they want to be:** visible and specific (section 2). ("One dinner the whole family eats.")
+- **Where they are now:** say it in their own words from Research, so they feel seen. ("The money's gone before payday.")
+- **Where they want to be:** visible and specific (section 2). ("Every bill planned before payday.")
 - Kristin's Before/After promise is this gap in one sentence. Every title, description and image should make the gap and the bridge obvious.
 
 ## 10. Real urgency, never fake urgency
 
 People put off fixing things for months, even years. What moves them is seeing what staying the same is costing them, not pressure.
-- **Real urgency** is the honest cost of staying stuck, in their words: "another week of cooking two dinners", "another month of guessing what to post". Name it gently, once. Never shame them, and never exaggerate it.
+- **Real urgency** is the honest cost of staying stuck, in their words: "another month of running out before payday", "another month of guessing what to post". Name it gently, once. Never shame them, and never exaggerate it.
 - **Fake urgency** is pressure we invent: countdowns that reset, "only 3 left" on a download, a price that "goes up tonight" when it doesn't. It feels salesy, it leads to regret, and it's banned in our rules.
 - A real deadline is fine **only if it's true** (for example a launch price that really ends after the first 10 sales).
 
@@ -161,14 +161,14 @@ Being clear about who it isn't for makes the right buyer trust it more, and keep
 ## 12. Selling without feeling salesy
 
 Many beginners feel pushy the moment they share their product. Help them see it differently, in a line or two, when it comes up:
-- If the product truly helps, **sharing it is helping.** The mom cooking two dinners tonight would be glad to find it.
+- If the product truly helps, **sharing it is helping.** The mom checking her bank app in the grocery line tonight would be glad to find it.
 - That only works if the product is good. So we make it genuinely useful first (Execute), then share it with confidence.
 - Warm and real beats polished and perfect. Their own story, in their own voice, is what makes people trust them.
 
 ## 13. Their next product
 
 The best next product solves **the next problem for the same buyer**, not a new problem for a new audience.
-- After the meal planner works, the same mom might want lunchbox ideas or a picky-eater grocery guide. That's a natural next product, or a bundle.
+- After the budget planner works, the same mom might want a grocery budget tracker or a debt payoff tracker. That's a natural next product, or a bundle.
 - Keep the buyer the same until the first product sells. One buyer, one problem, one solution at a time.
 - Note next-product ideas in their Decisions when they come up. They belong in the product's "What's next" page later (on Etsy, pointing only to their Etsy shop).
 
@@ -191,25 +191,27 @@ Everything a buyer reads (titles, descriptions, pages, emails, posts) follows th
 ## 15. Keywords: one set, used everywhere it counts
 
 Their keywords are the words buyers actually type. Research collects them (`step-research.md`, part 4). Before writing anything a buyer will see, pull these from their notes:
-- **Main keyword:** the one phrase their product is named for ("picky eater meal planner").
-- **3 to 5 supporting phrases:** close variations buyers type ("picky eater meal plan", "meal plan for picky kids", "dinner ideas for picky kids").
-- **The buyer's phrases:** how they describe the problem in their own words ("cooking two dinners").
-- **Phrases to avoid:** too broad, or the wrong buyer (for Sam: "toddler", "adults", "weight loss").
+- **Main keyword:** the one phrase their product is named for ("budget planner printable").
+- **3 to 5 supporting phrases:** close variations buyers type ("monthly budget planner", "paycheck budget planner", "budget planner for moms").
+- **The buyer's phrases:** how they describe the problem in their own words ("the money's gone before payday").
+- **Phrases to avoid:** too broad, or the wrong buyer (for a budget planner for moms: "business budget", "college budget", "accounting").
 
 **Where each one goes:**
 
 | Place | What to put there |
 |---|---|
-| Product name and file name | The main keyword first: `Picky-Eater-Meal-Planner.pdf` |
-| Shop name, shop title, slogan, banner, About, bio | **The whole niche, never one product.** Use a broad niche word buyers use ("picky eater"), plus who it's for. For example: "Picky eater printables for moms of school-age kids". It has to fit every product they'll ever add. |
+| Product name and file name | The main keyword first: `Budget-Planner-Printable.pdf` |
+| Shop name, shop title, slogan, banner, About, bio | **The whole niche, never one product.** Use a broad niche word buyers use ("budget"), plus who it's for. For example: "Simple budget printables for busy moms". It has to fit every product they'll ever add. |
 | Listing or product title | Narrowed to the one product: the main keyword first, then who it's for and the result, in natural words. On Etsy, one or two supporting phrases too. |
 | First line of the description | The main keyword in a normal sentence, within the first two lines. Search engines and marketplaces show this part. |
 | Etsy tags (13) | The main keyword plus supporting and buyer phrases, up to 20 characters each, with no tag repeated word for word. |
 | Sales page | The call-out line names the buyer. The headline is the result in plain words. The main keyword goes in the subheadline and the first lines. |
-| Page settings (where the platform has them) | SEO title and description, and the web address (`.../picky-eater-meal-planner`). |
-| Images | File names and alt text that describe the picture with the keyword ("picky eater meal planner weekly page"). |
+| Page settings (where the platform has them) | SEO title and description, and the web address (`.../budget-planner-printable`). |
+| Images | File names and alt text that describe the picture with the keyword ("budget planner printable monthly page"). |
 | Mockup text | The result in 5 words or fewer. A keyword only if it fits naturally. |
 | Pins, posts and emails (Market) | Pins and pin descriptions start with the keyword. Captions and emails use the buyer's phrases more than keywords. |
+
+**Let them see the list at work.** The first time you use their keywords in a step (a title, tags, pins), say so in a few words, like "using your keyword list from Research". If they ask for their keywords ("Show my keywords"), show the set from their notes plus the full list Research found.
 
 **Rules:**
 - **Write for people first.** A keyword must read naturally, or it doesn't go in. Never a pile of keywords.

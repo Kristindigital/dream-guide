@@ -158,7 +158,7 @@ After merging, give them the one link. Tell them they can delete the separate pa
 **Never say it's built unless the Canva connector confirmed it** (`rules.md`, rule 4). If something fails, say so plainly and try once more in smaller parts. If it still fails, use "If Canva won't connect".
 
 **A preview isn't a saved page.** When you edit or add a page in Canva, the connector shows a preview first. Nothing is in their Canva until you save it. Every change, including fixes and new pages like About me, goes through all of these steps:
-1. Show the preview, and say plainly that it's a preview: "Here's a preview. Nothing is saved yet."
+1. Show the preview, and say plainly that it's a preview: "Here's a preview. Nothing is saved yet." A changed preview is still a preview: start with "Here's the updated preview", never "Done" or "Saved", until it's really saved (Kristin's test, Oct 17).
 2. Ask: "Save it to your planner?"
 3. On yes, save it.
 4. **A new page goes into their product file in its place in the plan** (About me just before "What's next"), with one more OK to combine it. It's never left as a separate design.
@@ -279,7 +279,7 @@ On a clear yes:
 | Graphics kit for Cricut and other cutting machines | SVG, alongside the PNGs (needs Canva Pro) | Share → Download → SVG |
 | Mini-course | PDF Standard, or PowerPoint to present it live | Share → Download → PDF Standard (or PPTX) |
 
-**Before they download, rename the design** to the product name (click the title at the top of Canva). Kristin's rule: buyers see the file name, so no "Untitled design". Use hyphens instead of spaces, for example `Picky-Eater-Meal-Planner`, so it's also ready for Etsy.
+**Before they download, rename the design** to the product name (click the title at the top of Canva). Kristin's rule: buyers see the file name, so no "Untitled design". Use hyphens instead of spaces, for example `Budget-Planner-Printable`, so it's also ready for Etsy.
 
 If what they see in Canva doesn't match these clicks, ask what they see and help from there. Canva moves things around sometimes.
 
@@ -289,5 +289,5 @@ Keep them moving. Never pretend a design exists.
 1. **If you can create files,** design it yourself as a PDF, following "As your own PDF" in Round 6.
    - **For a PDF product** (printable, ebook, workbook, prompt pack, swipe file), that PDF is ready to sell.
    - **To edit it in Canva later,** follow "If they want to edit their PDF in Canva" in Round 7.
-2. **If you can't create files,** give them the full content in the chat, a few pages at a time, ready to paste. Suggest a starting design: a Template Vault design, or a Canva template they find by searching Canva for their format (for example "meal planner printable").
+2. **If you can't create files,** give them the full content in the chat, a few pages at a time, ready to paste. Suggest a starting design: a Template Vault design, or a Canva template they find by searching Canva for their format (for example "budget planner printable").
 3. Offer to walk them through it one page at a time.
