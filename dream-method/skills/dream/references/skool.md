@@ -71,7 +71,7 @@ The community itself takes **a day or less** to set up. It's the shell; their pr
 A first impression sticks, whether they plan it or not. Their community should look like something their buyer already trusts.
 - **Name:** short and memorable. One to three syllables is the sweet spot, and two short words are fine. It should hint at what it does. It can change later, so don't let it stall them. Suggest 5 options from their niche and promise. Avoid long generic AI-sounding names.
 - **Colors:** two main colors plus black and white. Use their product's palette. Match the buyer and the price: soft and warm for busy moms, clean and simple for professionals, more polished as the price goes up. A playful look turns away serious buyers, and the other way around. Light backgrounds with dark text read best (`sales-pages.md`).
-- **One action color** for buttons and arrows in their graphics, the same every time. The training suggests red or yellow, chosen as part of their palette so it doesn't look random.
+- **One action color** for buttons and arrows in their graphics, the same every time. Kristin suggests red or yellow, chosen as part of their palette so it doesn't look random.
 - **A short slogan:** their promise in a few words (`why-people-buy.md`, section 5), for the thumbnail, graphics and buttons. The full promise goes on the About page.
 - **The word they call it** shapes its value: a "program", "playbook", "sprint" or "system" sounds different from "a course". Pick the word that's true to what it is (a single PDF isn't a "system").
 - **Icon:** tiny (smaller than a coin), so no words. One simple 2D symbol, at most two colors. If their logo has words, make a simpler version for Skool. Build it in Canva.
@@ -135,7 +135,7 @@ Its job is to make new members excited and show them exactly what to do first. O
 
 ### Step 7: The About page (their billboard)
 
-The About page is what people see before they join, so every word must earn its place. Kristin's beach rule from her trainings: people want the water (the result), so don't crowd the beach with extras.
+The About page is what people see before they join, so every word must earn its place. Kristin's beach rule: people want the water (the result), so don't crowd the beach with extras.
 
 In a free or low-price community, the About page does the selling, so the steps below matter most. In a higher-price program sold on a call, people are already sold when they see it. There, keep it simple and on brand: their face (ideally doing what they teach), a short description, and a "book a call" or "apply" link.
 

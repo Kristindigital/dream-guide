@@ -4,7 +4,7 @@ Read this:
 - **in Apply,** Round 6 (do they have a second product?) and Round 9 (set it up on their platform)
 - **in Market,** when they want a freebie, an email list, or a path from free to paid (part 2)
 
-It comes from Kristin's low ticket ascension funnel training and her Sales Page Basics, made simple for beginners.
+It's Kristin's funnel method, made simple for beginners.
 Platform facts were checked on each platform's own pages in October 2026. Re-check before you give clicks, because screens change.
 
 ---
@@ -31,7 +31,7 @@ An add-on lets a buyer who's already saying yes add one more thing that helps. D
 
 **Pricing, as a rule of thumb:**
 - An order bump is a small yes, usually priced below the main product.
-- An upsell can be bigger, but keep it a one-time price. Kristin's training: one-time offers are an easier decision than monthly ones.
+- An upsell can be bigger, but keep it a one-time price. Kristin's finding: one-time offers are an easier decision than monthly ones.
 - A discount only if it's real ("$4 today instead of $6" only if it's $6 everywhere else).
 
 ### Honesty rules for every add-on
@@ -91,7 +91,7 @@ Plan the whole funnel before creating any step. **Steps can't be reordered with 
 
 ---
 
-## Part 2: The free-to-paid path (Kristin's low ticket ascension funnel, made simple)
+## Part 2: The free-to-paid path (Kristin's way, made simple)
 
 **What it is:** a free resource (the freebie) → they give their name and email → they're shown the low-price product right away → thank-you page → later, the next step.
 **Why it works:**
@@ -122,7 +122,7 @@ Plan the whole funnel before creating any step. **Steps can't be reordered with 
    - When they open the email to get it, their inbox learns to trust the sender, so later emails are more likely to land in the main inbox.
    - A Canva public view link is a good way to deliver a free resource.
 6. **A short welcome email series:** each email with one purpose and one link, every claim true.
-   - People who already follow them (warm) need fewer emails: Kristin's training uses about 5 to 10.
+   - People who already follow them (warm) need fewer emails: Kristin uses about 5 to 10.
    - Strangers from ads (cold) need more: about 20 to 30.
    - **For a beginner:** start with 3 to 5 and add more later.
 

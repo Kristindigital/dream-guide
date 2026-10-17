@@ -31,7 +31,7 @@ Etsy shoppers arrive already searching. For an Etsy seller, **the listing is the
 
 ## 2. Pinterest
 
-People use Pinterest like a search engine for ideas and plans. A pin links straight to their listing, and Kristin's DREAM in 7 Days notes that a good pin can keep sending people to a product for months. It fits printables, planners, templates and guides especially well, and it needs no filming.
+People use Pinterest like a search engine for ideas and plans. A pin links straight to their listing, and in Kristin's experience a good pin can keep sending people to a product for months. It fits printables, planners, templates and guides especially well, and it needs no filming.
 
 **Set up (once):** if they ask for pins first ("Make 5 Pinterest pins for my product"), make the pins. Then, before they post, ask in one line: "Do you already have a Pinterest business account with boards?" If not, walk them through these steps (Kristin's test, Oct 17: the pins came with no account or boards).
 1. **A free Pinterest business account** (they sign up themselves at pinterest.com/business). Use the same brand name as their shop.
@@ -51,7 +51,7 @@ People use Pinterest like a search engine for ideas and plans. A pin links strai
 - **Pin description:** Kristin's shape: 150 to 300 characters, start with the main benefit, 2 or 3 keywords used naturally, and end by telling them what to do next ("Get the printable planner here.").
 - **Link:** the listing. Etsy sellers use their **Share & Save** link.
 
-**Their weekly activity:** a steady number of fresh pins they can keep up (Kristin's DREAM in 7 Days asks for a simple 30-day pinning plan; 3 to 5 a week is a realistic start). New designs for the same product count. Save each pin to the best-matching board.
+**Their weekly activity:** a steady number of fresh pins they can keep up (Kristin recommends a simple 30-day pinning plan; 3 to 5 a week is a realistic start). New designs for the same product count. Save each pin to the best-matching board.
 
 **Watch:** Pinterest's analytics: impressions (seen), saves and outbound clicks (interested), and then sales on their shop.
 
@@ -64,7 +64,7 @@ People use Pinterest like a search engine for ideas and plans. A pin links strai
 An email list belongs to them. No app can take it away or stop their messages from reaching people. A small list of the right people is a real start.
 
 **The pieces** (the freebie and its pages: `upsells-and-funnels.md`, part 2, including the platform table):
-1. **The freebie:** a small, quick piece of the same problem that leads to the paid product. Suggest 5 ideas they could make in Canva in under an hour (Kristin's prompt), each attracting the same person who'd buy the product. Build the one they pick in Canva (one to five pages, `execute-blueprints.md` for the shape).
+1. **The freebie:** a small, quick piece of the same problem that leads to the paid product. Suggest 5 ideas they could make in Canva in under an hour (Kristin's way), each attracting the same person who'd buy the product. Build the one they pick in Canva (one to five pages, `execute-blueprints.md` for the shape).
 2. **The sign-up page:** short. What they get, a picture of it, name and email, one button.
 3. **The delivery email:** the freebie arrives by email, never as a download on the page.
 4. **The welcome emails** (automated, one a day, 3 to 5 to start):
@@ -75,12 +75,12 @@ An email list belongs to them. No app can take it away or stop their messages fr
    5. **Reminder** (day 5): a short, kind reminder. A deadline or bonus only if it's real.
 5. **A launch email** (for their list when the product is new): 2 or 3 sentences on the struggle they're in right now → what life looks like once it's gone → the product as the bridge → 3 to 5 things inside, written as results → what to do, with the price and link → a P.S. with a real reason to act now, or none. Write 5 subject line options.
 
-**Rules for every email** (from Kristin's email trainings):
+**Rules for every email** (Kristin's findings):
 - Under 300 words, at a 4th or 5th grade reading level, in their tone. Read it out loud: if they wouldn't say it, rewrite it.
 - **Subject line:** under 40 characters, ideally 4 words or fewer. Natural, lowercase is fine. Avoid "$", "free", "now", "last chance" and "special deal" in the subject.
 - **Preview text:** under 30 characters. It adds curiosity; it never answers the subject.
 - The first line backs up the subject. One purpose per email. The P.S. is the call to action most of the time.
-- **At most one "$" in an email.** Kristin's training saw an email go to spam over two.
+- **At most one "$" in an email.** Kristin has seen an email go to spam over two.
 - Check each email at mailmeteor.com/spam-checker and fix what it flags.
 
 **Consent and deliverability:**

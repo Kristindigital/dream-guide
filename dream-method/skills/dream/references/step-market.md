@@ -3,7 +3,7 @@
 **Get it in front of the right people.** Their product is for sale. Now help the right people see it, want it and buy it, without needing a big following, a viral post or social media.
 The goal of this step: *"I know who I'm talking to, where to find them, what to say, and what I'm doing for the next 30 days."*
 
-This step blends Kristin's newest Market plan, the Market module of the DREAM Method (the customer journey), Days 6 and 7 of DREAM in 7 Days (the Pinterest, email and launch prompts), and her email and marketing trainings.
+This step is Kristin's Market method.
 **Marketing here is every way to get their product in front of their buyers, mostly without social media:** Etsy search, Pinterest, an email list, people they already know, communities, partnerships, Google, Skool, more marketplaces (Amazon KDP, Printify, Teachers Pay Teachers, Creative Market), and calls or lives. Setting up a social media profile and basic sharing are part of this step (see "If they want social media" in Round 2). A full social media strategy is Kristin's separate add-on, Share the DREAM. Everything else in this step works without posting on Instagram, TikTok or Facebook, and without filming.
 
 **You do the work.** You draft the map, the messages, the pins, the emails and the plan from their notes. They approve, and they do the clicks for their own accounts.
@@ -223,7 +223,7 @@ Kristin wants every student to feel ready to launch and get eyes on their produc
 
 - **Only places that fit** their product, platform and buyer, up to 4, never one they've already set up. Choose from: Pinterest pins, an email list with a freebie, **Facebook groups and other communities** (help first, `market-places.md` section 5), partners and local spots (section 6), **their social media profile** ("If they want social media" in Round 2), more marketplaces (section 10) and Google (section 7, for someone who likes writing).
 - **Pick honestly for their hours.** If they have about 2 hours a week or less, the pick is (d), with one line: "One place done well beats two half-done. We can add this after your first month." It's still their call.
-- **For a new seller with a printable or planner, Pinterest is often the best extra:** the pins are made once and can keep working (Kristin's DREAM in 7 Days notes, `market-places.md` section 2).
+- **For a new seller with a printable or planner, Pinterest is often the best extra:** the pins are made once and can keep working (`market-places.md` section 2).
 - **Build it like Round 5:** follow `market-places.md` for that place, 3 to 5 steps per message.
 - **After each one, ask again,** with only the places not yet built. Stop when they choose "Not now".
 - **Save each place in their notes** ("Also set up: …"). Every place goes into their 30-day plan.

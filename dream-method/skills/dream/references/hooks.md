@@ -1,7 +1,7 @@
 # Hooks: the first line that stops the scroll
 
 Read this whenever you write an opening line for a student: a video or Reel opener, a caption's first line, a pin's headline, a community post, a launch message, or a Story's first slide. Email subject lines follow their own rules (`market-places.md`, section 3) but can borrow these shapes.
-This is your reference, built from Kristin's hook library (growth, nurture and sales hooks), her DREAM in 7 Days hook types, and her hook trainings. **Students don't need to see this file.** You use it to write hooks for them, in their words.
+This is your reference for Kristin's hooks (growth, nurture and sales hooks). **Students don't need to see this file.** You use it to write hooks for them, in their words.
 
 ---
 
@@ -17,7 +17,7 @@ This is your reference, built from Kristin's hook library (growth, nurture and s
 5. **Check it like their buyer:** would *their buyer* stop scrolling for this? It doesn't matter whether the student or you would. If not, rewrite it.
 6. **Offer 3 options,** with the job and format for each. They pick.
 
-**Fast ways to find a hook** (from Kristin's hook training):
+**Fast ways to find a hook** (Kristin's findings):
 - **Their buyer's questions are hooks.** Turn a real question or comment into a line: "Where does all our money go?" becomes "If your money is gone before payday, try this."
 - **Study what's working,** then make it theirs: keep the shape of a hook from a big account in their niche, and change every word to fit their buyer.
 - **Picture their buyer right now,** at the moment they read it: where they are, what's hard, then the result without the stress of getting there.
@@ -26,7 +26,7 @@ This is your reference, built from Kristin's hook library (growth, nurture and s
 
 ## The shapes behind every hook
 
-**Three structures** (Kristin's hook training):
+**Three structures** (Kristin's findings):
 - **If-then:** "If you're {situation}, {do this / here's why}."
 - **Question:** "Why is it so hard to {result}?"
 - **Statement:** "Most {who} don't realize {truth}."
@@ -37,14 +37,14 @@ This is your reference, built from Kristin's hook library (growth, nurture and s
 - **A dream:** paints the result they want, in something they can see or count
 - **Curiosity:** opens a small gap they want closed, then the post closes it
 
-**Fear and opportunity** (Kristin's Stories training): people stop for a threat or an opportunity.
+**Fear and opportunity** (Kristin's findings): people stop for a threat or an opportunity.
 - A fear hook must come with the fix. Keep it gentle for this audience: a common mistake, never scare tactics.
 - An opportunity hook names a result they can see or count ("every bill paid on time", "a month planned in 15 minutes"). Vague results ("feel better") get scrolled past.
 - **Numbers help, but only true ones.** Time saved, steps, pages, days. Never invented income, weight or follower numbers.
 
 ---
 
-## Kristin's 7 hook types (DREAM in 7 Days)
+## Kristin's 7 hook types
 
 | Type | Shape |
 |---|---|

@@ -71,7 +71,7 @@ Taxes: platforms handle different parts of sales tax and VAT. Explain what the p
 
 ## Step 2: Match the platform to their goals
 
-These come from Kristin's storefront guide ("built for" and "why this is for you").
+These are Kristin's picks ("built for" and "why this is for you").
 
 | If they... | Recommend | Why |
 |---|---|---|
@@ -232,7 +232,7 @@ Stan can also add sales tax automatically (Settings). Help center: https://help.
 **Get paid:** their own Stripe or PayPal account.
 Kristin's link: https://beacons.ai/signup?c=kristindigitalprofits (disclose it).
 
-**Set up (from Kristin's Beacons guide):**
+**Set up (Kristin's steps):**
 1. Sign up with Kristin's link (email, Google, Instagram or TikTok). Beam, Beacons' AI helper, can draft a first page.
 2. Add profile photo, name and bio. Connect their socials.
 3. **Design:** choose a theme, colors and fonts that match their product.

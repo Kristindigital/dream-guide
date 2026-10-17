@@ -7,7 +7,7 @@ Read this in Apply (Rounds 3 and 9) whenever you write or lay out a page a buyer
 - a Skool About page (with `skool.md`, Step 7)
 - later in Market, a freebie (opt-in) page (`upsells-and-funnels.md`, part 2)
 
-It comes from Kristin's Sales Page Basics and Marketing Principles trainings, adapted for a beginner's first $5 to $50 product.
+It's Kristin's sales page method, adapted for a beginner's first $5 to $50 product.
 An Etsy listing has no page to lay out. Use Round 3's description structure there, plus the word rules in `why-people-buy.md`, sections 14 and 15.
 
 **Two kinds of page:**
@@ -24,7 +24,7 @@ The offer (who it's for, the problem, the promise, what's inside, the price) com
 
 ## The top of the page (what they see before scrolling, on a phone)
 
-Most visitors come from social media on their phone, so build for the phone first. Kristin's training puts it at 50 to 70% of traffic. The top must answer "is this for me, and what do I get?" in a few seconds:
+Most visitors come from social media on their phone, so build for the phone first. Kristin's findings put it at 50 to 70% of traffic. The top must answer "is this for me, and what do I get?" in a few seconds:
 
 1. **A call-out line** above the headline, naming who it's for. For example: "For moms whose money is gone before payday".
    It's a banner that qualifies the right buyer. Never a fake urgency banner, and a deadline only if it's true.
@@ -66,8 +66,8 @@ On a page you build, put the button after every major section, with **the same w
 
 - **Simple, not crowded.** Plenty of space, short paragraphs, few images. Every image shows the real product or the real result.
 - **No strangers' faces.** Page builders often drop stock photos of people into cards and sections. Remove any face that isn't the seller's own, or a real customer's shared with permission: next to the copy it reads like a testimonial.
-- **Dark text on a light background.** Kristin's training says people read it about 40% faster than light text on dark. Dark sections are fine for a short band, not for long copy.
-- **Buttons are bright and high contrast,** in a color that appears nowhere else on the page. In Kristin's training, red, yellow and green perform best; pick whichever stands out against their brand colors. The button doesn't have to be pretty. It has to be seen.
+- **Dark text on a light background.** In Kristin's findings, people read it about 40% faster than light text on dark. Dark sections are fine for a short band, not for long copy.
+- **Buttons are bright and high contrast,** in a color that appears nowhere else on the page. In Kristin's findings, red, yellow and green perform best; pick whichever stands out against their brand colors. The button doesn't have to be pretty. It has to be seen.
 - **Check gradients and dark backgrounds on a phone.** A gradient that looks fine on a computer can hide the headline on a phone.
 - **Fast pages sell more.** Use JPGs or compressed PNGs at the size the page needs, not huge originals. If a page loads slowly, the images are usually why.
 - **Check the phone view before calling it done.** Most builders have a phone preview (Systeme.io, Stan, Beacons and Payhip all do). Headline under 3 lines, nothing cut off, and (on a page you build) the button visible without scrolling.

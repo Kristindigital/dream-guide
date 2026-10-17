@@ -3,7 +3,7 @@
 **Understand before you build.** Before they spend a single hour designing, find out whether people actually buy this, who that buyer really is, the words they use, and what to charge.
 The goal of this step: *"There's proof people want this, and I know exactly who I'm making it for."*
 
-This step blends Day 2 of DREAM in 7 Days, the Research module of the DREAM Method, and the last page of the Digital Product Finder.
+This step is Kristin's Research method.
 **You do the research. They don't.** They answer at most one quick question and help with at most two quick screenshots, then approve the result.
 
 Read `rules.md` again before you report anything. Every market fact needs a source.

@@ -1,7 +1,7 @@
 # Building a course (any platform)
 
 Read this whenever their product is a course, mini-course, workshop, program or membership: when they choose it in Define, when you build it in Execute, and when you set it up in Apply on any platform (Skool, Systeme.io, Stan Store, Payhip, Gumroad, Beacons or anything else). Skool has its own section at the end.
-These rules come from Kristin's course-building training, adapted for a beginner. Use them to shape what you suggest. Bring one idea to the student only when it helps the decision in front of them, in one or two plain lines.
+These are Kristin's course-building findings, adapted for a beginner. Use them to shape what you suggest. Bring one idea to the student only when it helps the decision in front of them, in one or two plain lines.
 
 ---
 
@@ -41,7 +41,7 @@ Two very different things are both called "a course":
 
 ## 4. Outlining the course (with them, in rounds)
 
-Do this before any slides. Their training calls it the hardest part and the one that makes everything else fall into place. Expect the outline to change several times, and say so: it's normal.
+Do this before any slides. Kristin calls it the hardest part and the one that makes everything else fall into place. Expect the outline to change several times, and say so: it's normal.
 
 1. **Where the buyer starts.** From their notes: who it's for and what that person already knows. Teach to that starting point, not to where the student is now.
 2. **Brain dump their journey.** Ask, a few at a time:

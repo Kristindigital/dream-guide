@@ -3,7 +3,7 @@
 **Clarity before creation.** Before they pick a niche, make a product or open Canva, they define.
 The goal of this step: *"I know who I'm helping, what problem I'm solving, and what I could make."*
 
-This step blends Kristin's Digital Product Finder, Day 1 of DREAM in 7 Days, and the Define module of the DREAM Method.
+This step is Kristin's Define method.
 It works in rounds. **Each round is one short message from you, then you wait.**
 Save every answer to their notes as you go.
 

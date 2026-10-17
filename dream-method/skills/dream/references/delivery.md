@@ -65,7 +65,7 @@ Hand them the file, then walk them through their platform:
 
 **What the buyer gets on Stan:** a thank-you page with direct access to the file, plus a confirmation email with the product included.
 
-**Beacons** (from Kristin's Beacons guide):
+**Beacons** (Kristin's steps):
 1. **Store** → **Add New Item**.
 2. **Upload the PDF** (up to 6 files). Choose the upload, not the redirect link.
 3. Name, price, short description, thumbnail, then extra images.

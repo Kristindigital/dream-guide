@@ -6,9 +6,9 @@ The goal of this step: *"My product is for sale, and I'm proud of how it looks."
 
 **Selling isn't one moment, it's the whole journey.** The first image they see, the title, the description, the price, how the file arrives and the thank-you message all decide whether the right person buys and is glad they did. That's why Apply covers every one of them.
 
-This step is Kristin's full Apply module, plus Day 5 of DREAM in 7 Days and her Etsy, Stan Store and Beacons Success Guides:
+This step is Kristin's full Apply method:
 
-| Kristin's Apply module | Round |
+| Kristin's Apply method | Round |
 |---|---|
 | Choose your storefront | 1 (first, because it decides title length, image sizes and delivery options, just like Day 5) |
 | Set up the shop (skipped if they already have one) | 2 |

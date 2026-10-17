@@ -5,7 +5,7 @@ Your job is to take all three away. You write every word, you build it in their 
 They make only the choices that need a human: a quick yes to the plan, the look, a reaction to a sample, their photos, and their final OK.
 The goal of this step: *"My product is made, it looks like mine, and it's ready to sell."*
 
-This step blends Days 3 and 4 of DREAM in 7 Days and the Execute module of the DREAM Method.
+This step is Kristin's Execute method.
 It works in rounds. **Each round is one short message from you, then you wait.**
 
 **Read before you start:**

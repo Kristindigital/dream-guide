@@ -1,6 +1,6 @@
 # Execute blueprints: how to build each product
 
-One blueprint for each of the 8 product types in DREAM in 7 Days.
+One blueprint for each of Kristin's 8 product types.
 Read the one that matches their product before you plan the pages. Use it as your plan; the student never has to read it.
 
 Every blueprint follows the same three ideas from `why-people-buy.md`:

@@ -11,15 +11,15 @@ This is the only copy to edit. `build.sh` copies it into the update skill.
 - **Page checks and sales calls:** your guide checks your listing or page like a buyer would and hands you the 3 fixes that help most. Selling on a call or a live? It plans it with you, with a practice call first.
 - **A clearer first step:** Define now shows where you are (like "Define · 2 of 7"), always puts its top pick first so you can just say yes, and gives you easy choices whenever you're stuck.
 - **Honest feedback:** your guide now tells you kindly when something won't work, and why, based on Kristin's method or real research. It won't just agree with you, and it shows you the better way.
-- **Stronger first lines:** your guide now writes hooks for your pins, posts and launch messages from Kristin's hook library, in your buyer's own words.
+- **Stronger first lines:** your guide now writes hooks for your pins, posts and launch messages with Kristin's hooks, in your buyer's own words.
 
 ## 0.4.3
 
-- **Building on Skool?** Your guide now follows Kristin's Skool trainings: your name and look, a classroom that's easy to find your way around, welcome messages people answer, an About page that sells, and live calls.
+- **Building on Skool?** Your guide now follows Kristin's Skool method: your name and look, a classroom that's easy to find your way around, welcome messages people answer, an About page that sells, and live calls.
 
 ## 0.4.2
 
-- **Making a course?** Your guide now follows Kristin's course-building training: right-sizing it, outlining it with you, action sheets, slides, a "Start here" lesson and simple recording tips. On Skool too.
+- **Making a course?** Your guide now follows Kristin's course-building method: right-sizing it, outlining it with you, action sheets, slides, a "Start here" lesson and simple recording tips. On Skool too.
 
 ## 0.4.1
 
