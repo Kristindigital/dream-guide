@@ -139,7 +139,7 @@ Check the current screens. Names change.
 | **Beacons** | A free product that asks for an email before the download; Beacons adds them to their email list and sends the download by email. Then show the paid product next to it on their page. |
 | **Payhip, Gumroad** | A free product ($0, or "0+" pay what you want) collects the buyer's email. Then use the platform's email tools to send the next email. |
 
-### The launch order (from Kristin's Marketing Principles)
+### The launch order (Kristin's findings)
 
 This one belongs to Market: start warm, then go colder.
 1. Tell a handful of friends, followers and past customers first. An early-bird price is fine if it's real.

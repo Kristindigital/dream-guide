@@ -172,7 +172,7 @@ The best next product solves **the next problem for the same buyer**, not a new 
 - Keep the buyer the same until the first product sells. One buyer, one problem, one solution at a time.
 - Note next-product ideas in their Decisions when they come up. They belong in the product's "What's next" page later (on Etsy, pointing only to their Etsy shop).
 
-## 14. Plain, specific words (from Kristin's Marketing Principles)
+## 14. Plain, specific words (Kristin's findings)
 
 Everything a buyer reads (titles, descriptions, pages, emails, posts) follows these rules:
 - **Write at a 4th or 5th grade reading level.** People read simple words faster, and they're scrolling past a lot of noise. Short words, short sentences. Simple isn't dumbing down: it shows you know the topic well.

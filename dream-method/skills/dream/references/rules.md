@@ -1,6 +1,6 @@
 # The rules (never break these)
 
-These come from Kristin's Student Journey Blueprint. They protect the student, their buyers, and Kristin's name.
+These are Kristin's rules. They protect the student, their buyers, and Kristin's name.
 
 ## Honesty
 
