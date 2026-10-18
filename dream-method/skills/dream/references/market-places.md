@@ -55,6 +55,11 @@ People use Pinterest like a search engine for ideas and plans. A pin links strai
 
 **Watch:** Pinterest's analytics: impressions (seen), saves and outbound clicks (interested), and then sales on their shop.
 
+**Seasons and scheduling** (checked October 17, 2026):
+- Pinterest's creator advice is to launch seasonal content 4 to 6 weeks before big moments (https://create.pinterest.com/blog/leverage-seasonal-trends-moments/). Its business advice is to be ready a couple of months ahead (https://business.pinterest.com/blog/guide-top-pinterest-marketing-moments-2025/).
+- **Pinterest Trends** shows when searches for a keyword rise and fall, so they can see when a season starts (https://help.pinterest.com/en/business/article/pinterest-trends).
+- Business accounts can schedule a pin up to 30 days ahead, with up to 10 pins scheduled at a time (https://help.pinterest.com/en/business/article/schedule-pins).
+
 **Rules:** no "bestseller", review counts or results on a pin unless they're true and theirs. Pinterest ads are for later (section 9).
 
 ---
@@ -216,6 +221,19 @@ Official: https://printify.com/pricing/ · https://printify.com/integrations/ ·
 
 **The catch with Exclusive:** their digital educational resources must be sold only on TPT. If they also sell those resources on Etsy or their own shop, Basic is the honest fit.
 Official: https://help.teacherspayteachers.com/hc/en-us/articles/360044219891-Seller-Fees-and-Payout-Rates
+
+**Selling well on TPT** (TPT's help center, checked October 17, 2026). Use these whenever they sell on TPT:
+- **Keywords:** **Keyword Finder** (Seller Dashboard → **TPT Keywords**) shows how often buyers searched a keyword across TPT in the last 30 days, with related keywords and an Opportunity Score (Strong, Promising, Moderate, Challenging, Very Difficult). Basic Sellers get 3 searches a day; Exclusive Sellers get unlimited. TPT says keywords in the title and description help reach buyers who search for them. https://help.teacherspayteachers.com/hc/en-us/articles/52639259916692-What-is-TPT-s-Keyword-Finder
+- **Search Analytics** (Exclusive Sellers): the keywords that brought buyers to their products, with visits, conversions (a purchase within 24 hours) and earnings, back to January 1, 2025. It doesn't show rankings or impressions. https://help.teacherspayteachers.com/hc/en-us/articles/47576021987348-What-is-the-Search-Analytics-feature-and-how-does-it-work
+- **Product Insights Report:** each product's numbers over time, including Wish Listed, Saved for Later, and first-time vs repeat buyers. https://help.teacherspayteachers.com/hc/en-us/articles/43226030198804-How-is-the-Product-Insights-Report-different-from-the-Seller-Dashboard
+- **Linking:** the description editor's link tool links to their other resources. Don't link to or advertise stores outside TPT from TPT, and keep prices consistent if they sell elsewhere. https://help.teacherspayteachers.com/hc/en-us/articles/360043773292-How-do-I-link-to-another-resource-in-my-product-description · https://help.teacherspayteachers.com/hc/en-us/articles/360044219551-Guidelines-around-utilizing-other-sites
+- **Their buyers:** TPT doesn't show who downloads free products, and unsolicited contact outside TPT counts as spam. The **Note to Followers** is a weekly message to their store's followers (banner 1200 x 150). https://help.teacherspayteachers.com/hc/en-us/articles/37924778680852-What-is-a-Note-to-Followers
+- **Exclusive Sellers off TPT:** they can promote their resources anywhere, and offer free resources (for example to grow an email list that points to TPT), but paid digital educational resources are sold only on TPT, and they can't charge on TPT for something free elsewhere. https://help.teacherspayteachers.com/hc/en-us/articles/53904743536276-Exclusive-Seller-FAQs-for-New-Sellers-and-Basic-Sellers
+- **Bundles:** a TPT Bundle holds 2 to 500 resources and updates itself when they change. A growing bundle must say clearly, at the top, what's in it now and what comes when. https://help.teacherspayteachers.com/hc/en-us/articles/360042191412-What-is-the-TPT-Bundle-feature-and-how-is-it-different-from-traditional-bundles · https://help.teacherspayteachers.com/hc/en-us/articles/360042198892-Can-I-offer-a-growing-bundle-or-progressive-bundle
+- **No duplicates:** the same resource can't be posted twice (for another grade or keyword). Bundles are the exception. https://help.teacherspayteachers.com/hc/en-us/articles/360042429692-Can-I-post-the-same-resource-more-than-once
+- **Sales:** sellers can throw a sale of 5, 10, 15 or 20% off, for one resource or the whole store, and choose whether they join TPT's sitewide sales automatically. TPT announces sitewide sales by email and social media. https://help.teacherspayteachers.com/hc/en-us/articles/360042885551-How-do-I-throw-a-sale · https://help.teacherspayteachers.com/hc/en-us/articles/51910088960532-When-is-the-next-sitewide-sale
+- **Promotion:** paid promotion slots were retired on July 31, 2026. The free tools are Search Analytics, Product Insights, Seller Discounts (for example for followers or abandoned carts) and Collaborative Sales, plus the TPT Newsletter (submit from the **Marketing** tab; mostly single resources, not bundles). https://help.teacherspayteachers.com/hc/en-us/articles/360042429932-Are-promotion-slots-available-for-purchase-on-TPT · https://help.teacherspayteachers.com/hc/en-us/articles/35735089698324-How-do-I-submit-a-resource-for-the-TPT-Newsletter
+- **Retiring a listing:** inactivate it (it can be edited or reused later) or delete it (permanent). Past buyers can still download it either way. When a file changes, **Notify Buyers** shows past buyers a note on their My Purchases page. https://help.teacherspayteachers.com/hc/en-us/articles/360042429472-How-do-I-delete-a-product-from-my-store · https://help.teacherspayteachers.com/hc/en-us/articles/360042472592-How-do-I-notify-Buyers-when-I-update-or-revise-a-resource
 
 ### Creative Market
 

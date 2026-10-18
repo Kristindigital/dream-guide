@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.1
+
+- **Selling on Teachers Pay Teachers?** Your guide now knows TPT's own tools and rules: the Keyword Finder, Search Analytics, bundles, sales, your weekly Note to Followers, and what you can and can't link to.
+- **Pinterest timing:** your guide plans seasonal pins 4 to 6 weeks ahead, and shows you how to schedule pins up to 30 days in advance.
+
 ## 0.5.0
 
 - **Market is here.** Your guide now helps you get your product in front of the right people, without social media: your marketing map, where to market (Etsy search, Pinterest, an email list, people you know, communities and partners, plus more marketplaces like Amazon KDP, Printify, Teachers Pay Teachers and Creative Market), what to say, the setup built in your Canva, and your first 30 days.
