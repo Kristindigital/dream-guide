@@ -4,6 +4,10 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.2
+
+- **Getting a new version:** go to Customize › Plugins, click the ⋮ next to The DREAM Engine and choose Check for updates. Then click The DREAM Engine and Update. Your guide tells you what's new the first time you use it after.
+
 ## 0.5.1
 
 - **Selling on Teachers Pay Teachers?** Your guide now knows TPT's own tools and rules: the Keyword Finder, Search Analytics, bundles, sales, your weekly Note to Followers, and what you can and can't link to.
@@ -35,4 +39,4 @@ This is the only copy to edit. `build.sh` copies it into the update skill.
 - **Stan Store, Beacons, Payhip and Gumroad:** the words for your product page now come ready for each box, as plain text.
 - **Only the pictures your shop can use:** 2 on Stan, 8 to 10 on Etsy, all made in your Canva.
 - **The email buyers get after they pay:** written for you, with the clicks to set it up on your platform.
-- **Updates:** your guide now updates by itself, and tells you what's new the first time you use it after an update.
+- **Updates:** after you update your guide, it tells you what's new the first time you use it.

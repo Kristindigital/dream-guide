@@ -15,7 +15,7 @@ Everything you decide is kept in one file, `my-dream-business.md`, so you never 
 
 ## Updates
 
-Your guide updates by itself. The first time you use it after an update, it tells you what's new. Type **/update** any time to see what's new.
+When there's a new version, update it in **Customize › Plugins**: click the **⋮** next to The DREAM Engine, choose **Check for updates**, then click **The DREAM Engine** and **Update**. The first time you use it after, it tells you what's new. Type **/update** any time to see what's new.
 
 ## Data
 
