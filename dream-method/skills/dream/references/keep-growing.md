@@ -72,7 +72,7 @@ Once there's a second product: add-ons, bundles and upsells (`upsells-and-funnel
 
 ## Social media
 
-If they ask about posting on social media, follow `step-market.md`, "If they want social media": hand off to Share the DREAM, Kristin's social media add-on, if it's available in this chat (`dream-content`), or mention it honestly, once.
+If they ask about posting on social media, follow `step-market.md`, "If they want social media": hand off to Kristin's social media add-on if it's available in this chat (`dream-content`), or mention it honestly, once.
 
 ---
 

@@ -4,7 +4,7 @@ Read this whenever they ask you to check, review or audit a page a buyer sees ("
 The goal: *the 3 fixes that will help most, ready to use.* Never a 30-point report card.
 
 **What you can check here:** an Etsy listing, their Etsy shop page, a sales or product page (Systeme.io, Stan Store, Beacons, Payhip, Gumroad), their storefront home page, a freebie sign-up page and its thank-you page, their Pinterest profile and pins, and an email. Their Skool About page: use `skool.md`.
-**Instagram, Facebook or YouTube profiles** belong to Share the DREAM. If it's available in this chat (`dream-content`), hand off. If not, follow `step-market.md`, "If they want social media".
+**Instagram, Facebook or YouTube profiles** belong to Kristin's social media add-on. If it's available in this chat (`dream-content`), hand off. If not, follow `step-market.md`, "If they want social media".
 
 ---
 
@@ -17,7 +17,7 @@ Check only what you can actually see. Never fill a gap from memory or from what 
    - **The page opened with its words:** check it.
    - **Little or no text came back** (some page builders load their words with scripts): don't guess. Ask for screenshots.
    - **Etsy usually blocks automated visits.** If it won't open, say so in one line and ask for screenshots. Don't retry.
-   - **If the Apify connector is on in this chat** (some students connect it for Share the DREAM), its official web browser tool (`apify/rag-web-browser`) can sometimes open a page that blocked you. It uses a little of their Apify credit, so ask first.
+   - **If the Apify connector is on in this chat** (some students connect it for the social media add-on), its official web browser tool (`apify/rag-web-browser`) can sometimes open a page that blocked you. It uses a little of their Apify credit, so ask first.
 3. **Screenshots: ask for everything in one message, at most 4,** taken on their **phone** (most buyers shop on a phone), from the top of the page down. Tell them how in one line for their device (iPhone: the side button and volume up together; Android: power and volume down).
    - **Etsy listing:** (1) the top of the listing, (2) after one scroll, (3) the start of the description. Plus a 4th if they're up for it: search Etsy for their main keyword and screenshot the results where their listing shows, or the first row if it doesn't.
    - **Words are easier pasted than photographed.** For tags (buyers can't see them), ask them to copy them from Shop Manager → **Listings** → their listing → **Tags**.

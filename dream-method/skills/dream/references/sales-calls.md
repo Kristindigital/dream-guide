@@ -134,7 +134,7 @@ A worry isn't a no. It's a question they haven't asked yet. Stay warm and curiou
 
 ## 6. Selling on a live (one to many)
 
-The same shape, out loud for a group. Use it for an Instagram or Facebook Live, a Skool live call, or a free workshop. (Social media content and going live on Instagram are part of Share the DREAM, if they have it.)
+The same shape, out loud for a group. Use it for an Instagram or Facebook Live, a Skool live call, or a free workshop. (Social media content and going live on Instagram are part of Kristin's social media add-on, if they have it.)
 1. **Hello and the plan:** what you'll cover, how long it is, and (honestly) that you'll share how to join at the end.
 2. **Questions in the chat:** "Type 1, 2 or 3: where are you right now?", "What's the hardest part for you?" Read some answers out loud, by name. This is the group version of Step 2.
 3. **Teach one genuinely helpful thing.** Real help, not a tease. People should leave better off, whether they buy or not.

@@ -26,7 +26,7 @@ Students are beginners. Keep it short and warm, in plain words.
 
 If their business notes are in this chat and their "Guide version" is older, set it to this version with your next notes save.
 
-**Have Share the DREAM too?** It has its own /update. If two show up when they type /update, the DREAM Engine one shows this guide's news, and the Share the DREAM one shows the add-on's.
+**Have Kristin's social media add-on too?** It has its own /update. If two show up when they type /update, the DREAM Engine one shows this guide's news, and the add-on's one shows the add-on's.
 
 ## If they think they're missing an update
 

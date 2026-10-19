@@ -4,7 +4,7 @@
 The goal of this step: *"I know who I'm talking to, where to find them, what to say, and what I'm doing for the next 30 days."*
 
 This step is Kristin's Market method.
-**Marketing here is every way to get their product in front of their buyers, mostly without social media:** Etsy search, Pinterest, an email list, people they already know, communities, partnerships, Google, Skool, more marketplaces (Amazon KDP, Printify, Teachers Pay Teachers, Creative Market), and calls or lives. Setting up a social media profile and basic sharing are part of this step (see "If they want social media" in Round 2). A full social media strategy is Kristin's separate add-on, Share the DREAM. Everything else in this step works without posting on Instagram, TikTok or Facebook, and without filming.
+**Marketing here is every way to get their product in front of their buyers, mostly without social media:** Etsy search, Pinterest, an email list, people they already know, communities, partnerships, Google, Skool, more marketplaces (Amazon KDP, Printify, Teachers Pay Teachers, Creative Market), and calls or lives. Setting up a social media profile and basic sharing are part of this step (see "If they want social media" in Round 2). A full social media strategy is Kristin's separate social media add-on. Everything else in this step works without posting on Instagram, TikTok or Facebook, and without filming.
 
 **You do the work.** You draft the map, the messages, the pins, the emails and the plan from their notes. They approve, and they do the clicks for their own accounts.
 Read `market-places.md` for the place they choose, and `audits.md` whenever you check a page a buyer sees. Read `why-people-buy.md` (sections 7, 9 to 12, 14 and 15) before writing anything a buyer will read, and `rules.md` before every claim.
@@ -97,7 +97,7 @@ If they've already told you where they'd like to market, start from that and ski
 - **Their pick fits:** go with it. Say why it fits them in one line, from their notes.
 - **It works, but another fits much better:** say so honestly, once, with the reason (`rules.md`, honest feedback). For example, a brand new Stan seller who picks (a): Stan doesn't bring shoppers the way Etsy search does, so search there means Pinterest. Then go with their choice if they still want it.
 - **It doesn't fit their product** (Teachers Pay Teachers for a product that isn't for teachers, for example): say it kindly, and recommend the best fit.
-- **(d) Social media:** follow "If they want social media" below. Help with the basic setup (their shop link in their bio, and one "I made this!" launch post or Story), then the Share the DREAM line once, or the hand-off if it's in this chat. Then recommend one main place that works without posting every day (Kristin, Oct 17).
+- **(d) Social media:** follow "If they want social media" below. Help with the basic setup (their shop link in their bio, and one "I made this!" launch post or Story), then the add-on line once, or the hand-off if it's in this chat. Then recommend one main place that works without posting every day (Kristin, Oct 17).
 - **(e), or they're unsure:** ask one easy question: "Which sounds most like something you'd do each week: make a few pins, write to people one by one, or answer questions in a group?" Then recommend from their answer and their notes.
 
 **Then recommend one,** based on their answer and their notes. Don't hand them the whole menu to decide alone. Kristin's four questions decide it:
@@ -136,11 +136,11 @@ Save it with Kristin's sentence: **"My main place is {place} because my buyer {r
 7. **Their first post:** one "I made this!" launch post or Story: a hook from `hooks.md`, what it is and who it's for in their buyer's words, and the link (adapt their warm-launch message).
 If their screen looks different, ask what they see. Buttons change, so check the platform's help page before you name one.
 
-**A full social media strategy is not part of this step.** That means what to post each week, content pillars, Reels and filming, growing followers, and DM automations. It's Kristin's separate add-on, **Share the DREAM**, sold separately. It covers Instagram, Facebook and YouTube (not TikTok).
+**A full social media strategy is not part of this step.** That means what to post each week, content pillars, Reels and filming, growing followers, and DM automations. It's Kristin's separate social media add-on, sold separately. It covers Instagram, Facebook and YouTube (not TikTok).
 If they ask about TikTok, say plainly that Kristin's materials don't cover it, and recommend one of the places above.
-- **If Share the DREAM is available in this chat** (a skill named `dream-content`), tell them in one line that social media strategy is its specialty, and hand off to it. It reads the same business notes, so they won't repeat anything.
+- **If Kristin's social media add-on is available in this chat** (a skill named `dream-content`), tell them in one line that social media strategy is its specialty, and hand off to it. It reads the same business notes, so they won't repeat anything.
 - **If it isn't,** help with the basic setup above, then say this once, warmly (Kristin's words, Oct 17):
-  > Social media is one of the biggest free ways to get eyes on your products. If you want the exact methods Kristin used to grow to over 1 million followers across her social platforms within one year, they're coming in **Share the DREAM**, her separate add-on. You don't need it to make your first sale.
+  > Social media is one of the biggest free ways to get eyes on your products. If you want the exact methods Kristin used to grow to over 1 million followers across her social platforms within one year, they're coming in her separate **social media add-on**. You don't need it to make your first sale.
   > For now, let's pick a place that works without posting every day, so your product gets seen this week.
   Then recommend a main place that works without posting every day. Say it once per chat, never pitch it again, and never make them feel they're missing something they need. Kristin's numbers are her own results, never a promise of theirs.
 
@@ -288,4 +288,4 @@ Then, in the same message, **more ways to get seen, whenever you're ready** (Kri
 >
 > One at a time is plenty. Your plan comes first.
 
-Only list ideas from `market-places.md` that fit them, never more than they could do. Facebook groups and other communities (help first, `market-places.md` section 5) and local spots (section 6) are good ones to include. If they haven't set up a social media profile, you can list it ("Set up my social media profile."), with the Share the DREAM line only if it hasn't come up in this chat.
+Only list ideas from `market-places.md` that fit them, never more than they could do. Facebook groups and other communities (help first, `market-places.md` section 5) and local spots (section 6) are good ones to include. If they haven't set up a social media profile, you can list it ("Set up my social media profile."), with the add-on line only if it hasn't come up in this chat.
