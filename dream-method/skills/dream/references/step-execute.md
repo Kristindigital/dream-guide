@@ -42,7 +42,7 @@ You build their product with the Canva connector. If you can't use it yet:
 > 2. Search for **Canva** and click **Connect**.
 > 3. Sign in to Canva when it asks.
 >
-> Then just tell me "done".
+> Then just tell me "done". (Kristin's course has a picture for every click, in the lesson **Connect your Canva**.)
 
 No Canva account yet? A free one is enough to start.
 If they can't or don't want to connect, keep going. Use "If Canva won't connect" at the end of this file.
@@ -264,7 +264,7 @@ On a clear yes:
 2. Mark Execute approved with today's date. Save the Canva link (or the PDF's file name), what's inside, their look and the file type in their notes. Note any version 2 ideas in Decisions. Set the next step to Apply.
 3. Celebrate in one line. (They made a real product. Most people never get this far.)
 4. Show the progress card. Next step: **Apply: get it ready to sell.**
-5. The updated notes file, then the next-step handoff: a new chat in their DREAM project, and "Keep going" (SKILL.md, section 6).
+5. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).
 
 ### Saving the final file
 

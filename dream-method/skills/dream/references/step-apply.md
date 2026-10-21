@@ -248,7 +248,7 @@ Tested with Kristin on claude.ai in October 2026. It worked once Claude's networ
    > - On a Team plan, the owner turns it on in **Admin settings** → **Capabilities**.
    > - If it lets you list websites, add only **canva.com**.
    >
-   > Claude warns that network access comes with security risks, so only turn it on if you're comfortable. Afterwards, start a new chat in your project and type **Keep going**.
+   > Claude warns that network access comes with security risks, so only turn it on if you're comfortable. Afterwards, start a new chat in your project and type **Keep going**. (If you can't save their notes yourself, hand them their notes first, `SKILL.md` section 2.)
 4. **If they'd rather not,** use one of these:
    - **They upload, you place:**
      1. They download the pages as PNG.
@@ -504,4 +504,4 @@ On a clear yes:
 1. Mark Apply approved with today's date. Save the platform, shop link, listing link, title, price and delivery method in their notes. Set the next step to Market.
 2. Celebrate in one line. (Their product is for sale. That's a real business.)
 3. Show the progress card. Next step: **Market: get it in front of the right people.**
-4. The updated notes file, then the next-step handoff: a new chat in their DREAM project, and "Keep going" (SKILL.md, section 6).
+4. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).

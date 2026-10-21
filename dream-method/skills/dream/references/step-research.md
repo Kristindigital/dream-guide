@@ -176,6 +176,6 @@ On a clear yes:
 1. Mark Research approved with today's date. Save everything. Set the next step to Execute.
 2. Celebrate in one line. (Most people skip this step and guess. They didn't.)
 3. Show the progress card. Next step: **Execute: create it in Canva.**
-4. The updated notes file, then the next-step handoff: a new chat in their DREAM project, and "Keep going" (SKILL.md, section 6).
+4. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).
 
 If they choose another idea: keep the Define work they approved, research the new idea, and log the change in Decisions.

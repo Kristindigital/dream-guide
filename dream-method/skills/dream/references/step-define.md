@@ -166,4 +166,4 @@ On a clear yes:
 > That's how your idea goes from *"I think someone might want this"* to *"there's proof people are buying this."*
 
 4. Show the progress card. Next step: Research.
-5. The updated notes file, then the next-step handoff: a new chat in their DREAM project, and "Keep going" (SKILL.md, section 6).
+5. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).

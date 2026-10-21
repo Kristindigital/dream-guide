@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.3
+
+- **Fewer steps for your notes:** finished a section? Just keep going in the same chat. On free Claude, you only save your notes when you start a new chat, and your guide gives them to you right then.
+- **Pictures for every click:** your guide points you to the lessons **Save your notes** and **Connect your Canva** when it's time.
+
 ## 0.5.2
 
 - **Getting a new version:** go to Customize › Plugins, click the ⋮ next to The DREAM Engine and choose Check for updates. Then click The DREAM Engine and Update. Your guide tells you what's new the first time you use it after.
