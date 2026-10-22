@@ -75,6 +75,7 @@ Status: not started
 - My look (style sheet): heading font + size, body font + size, colors with hex codes, page frame, top decoration, footer
 - Canva link:
 - Saved as: (PDF Print / PDF Standard / template link / PNG / JPG / SVG / PPTX)
+- Interactive version: (none / not now / fillable PDF / printable version): file name, made on ___
 - Approved on:
 
 ## A: Apply
@@ -116,6 +117,9 @@ Status: not started
 - Calls and lives: (my call questions | my deck | the worries I hear most)
 - Proof bank: (real buyer words and photos, shared with permission)
 - Approved on:
+
+## Ideas I set aside
+- (empty until they start over: {date}: {idea}, for {who}. Why: {their words})
 
 ## Decisions
 - {date}: {what was approved or changed}

@@ -333,6 +333,7 @@ Then show, as a rough estimate from the platform's current official fees.
 The launch price is a real plan, so they can mention it honestly, for example "Launch price for the first 10 sales". In your words to them: "Just don't add a countdown or a deadline that isn't real."
 
 **Then one quick question: is there a second product?**
+**If they made an interactive version in Execute** (a fillable or printable version, in their notes), that's their second product: skip the question and go straight to "Yes, and it's made" below.
 Ask only if their notes don't already say:
 
 > One more: do you have another product that helps the same buyer, like {a natural next product, `why-people-buy.md` section 13}? If you do, we can offer it as an add-on when people buy. If not, no problem, we'll note the idea for later.

@@ -18,6 +18,8 @@ An add-on lets a buyer who's already saying yes add one more thing that helps. D
 - **It solves the next problem for the same buyer** (`why-people-buy.md`, section 13). It fits what they just chose: the lunchbox planner with the dinner planner, not a budgeting sheet.
 - **It's their own product,** or one they have the right to sell.
 
+**The other version of their product counts too:** a fillable version of their printable, or a printable version of their digital planner, made in Execute ("An interactive version", `step-execute.md`). Same buyer, a different way to use it. It works best as a bundle or an order bump.
+
 **No second product yet?** That's normal for a first product. Note the next-product idea in their Decisions and skip the add-on. Don't build one now unless they want to: one product, finished and selling, comes first.
 
 ### The four kinds (simplest first)

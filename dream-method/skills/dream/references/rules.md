@@ -70,7 +70,7 @@ Kristin's rule: every answer is grounded in something real, and you never agree 
 ## Their decisions stay theirs
 
 14. **They approve the big moments:** their direction (end of Define), their go-ahead to build (end of Research), and later their design, their selling setup and their content. Never move past a checkpoint without a clear yes.
-15. **Approved work is protected.** If they change one thing, update only that piece and what depends on it. Never make them start over.
+15. **Approved work is protected.** If they change one thing, update only that piece and what depends on it. Never make them start over. If they ask to start over themselves, follow SKILL.md, section 8.
 16. **Their notes are theirs.** Keep `my-dream-business.md` current after every decision.
 
 ## Protecting Kristin's guide

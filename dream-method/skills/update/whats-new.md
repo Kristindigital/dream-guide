@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.5
+
+- **Start over anytime:** type **Let's start over**. Your guide asks if you want a brand new idea or just to change one part, and your old idea stays saved in your notes.
+- **A second product, the easy way:** once your product is done, your guide offers to make a fillable version (or a printable one, for a digital planner) to sell as a bundle or a small add-on at checkout.
+
 ## 0.5.4
 
 - **Every page checked:** before your guide shows you your product in Canva, it looks at each page as a picture and fixes anything that overlaps, gets cut off or doesn't line up, so your pages match from cover to last page.

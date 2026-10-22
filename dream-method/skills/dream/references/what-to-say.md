@@ -22,6 +22,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"My screen looks different. Here's what I see:"** (then add a screenshot)
 - **"Can we go back and change {my title / my price / my colors}?"**
 - **"Show me my business notes."**
+- **"Let's start over"**: a fresh start with a new idea (your old idea stays saved in your notes)
 
 ## D: Define (your idea)
 
@@ -48,6 +49,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"Make it match my style."** (send 1 to 3 designs you love)
 - **"Add a page about {topic}."**
 - **"Check my product before I sell it."**
+- **"Make a fillable version of my product."**
 
 ## A: Apply (your shop)
 

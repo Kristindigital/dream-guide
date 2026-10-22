@@ -264,8 +264,9 @@ On a clear yes:
    **Built as your own PDF:** the file you handed over is the final file. Hand over the latest version again so they have it in one place. (If they moved it into Canva and edited it there, use the Canva save clicks instead.)
 2. Mark Execute approved with today's date. Save the Canva link (or the PDF's file name), what's inside, their look and the file type in their notes. Note any version 2 ideas in Decisions. Set the next step to Apply.
 3. Celebrate in one line. (They made a real product. Most people never get this far.)
-4. Show the progress card. Next step: **Apply: get it ready to sell.**
-5. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).
+4. **Offer an interactive version, once** ("An interactive version", below). If they say yes, build it now, then carry on.
+5. Show the progress card. Next step: **Apply: get it ready to sell.**
+6. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).
 
 ### Saving the final file
 
@@ -283,6 +284,43 @@ On a clear yes:
 **Before they download, rename the design** to the product name (click the title at the top of Canva). Kristin's rule: buyers see the file name, so no "Untitled design". Use hyphens instead of spaces, for example `Budget-Planner-Printable`, so it's also ready for Etsy.
 
 If what they see in Canva doesn't match these clicks, ask what they see and help from there. Canva moves things around sometimes.
+
+### An interactive version (offer it once)
+
+Right after they've saved their final file, offer one more version of the same product. It gives them a real second product without starting from scratch: something to sell with it as a bundle, or as a small add-on at checkout (Kristin, Oct 22).
+
+**What to offer:**
+
+| They made | Offer |
+|---|---|
+| A printable, planner, workbook, journal or worksheet (anything with spaces to write in) | **A fillable version:** the same pages, but buyers type right into the boxes and tick the checkboxes on their computer or tablet, no printing |
+| An ebook or guide with worksheets or fill-in spots | A fillable version of those pages |
+| A digital planner | **A printable version** of the same planner, for buyers who like paper |
+| Anything else (Canva templates, graphics kits, prompt packs, mini-courses) | Nothing: skip this |
+
+**A fillable version needs your own file-creation tools,** because the type-in boxes are added to their finished PDF. If you can't create files, skip the offer and note "Fillable version: later" in their Decisions.
+
+Ask once, in one message:
+
+> One more idea before we move on: want a **{fillable / printable} version** of your {product}? {Fillable: Same pages, but your buyers can type right into it on their computer or tablet, no printing needed. / Printable: The same planner on paper, for buyers who like to print.}
+> It gives you a second product without starting from scratch. You could sell both together as a bundle, or offer it at checkout as a small add-on (a tick box that adds it for a few dollars).
+> 1. **Yes, make it**
+> 2. **Not now**
+
+- **Not now:** write "Interactive version: not now" in their notes and move on. Don't ask again unless they bring it up.
+- **Yes:** build it now (below). How to sell it, as a bundle or an add-on, is decided in Apply, Round 6, with Kristin's add-on rules (`upsells-and-funnels.md`, part 1).
+
+**Building the fillable version:**
+1. Start from their final PDF, so the look stays exactly the same. Ask them to drop the file they just downloaded into the chat. (Built it as your own PDF? Use that file.)
+2. With your file-creation tools, add form fields on top of the pages: a type-in box on every writing line or box (one that wraps, for bigger spaces) and a checkbox on every tick box. Fields sit inside their lines or boxes and never cover the printed words. Text typed in them is at least 10 pt.
+3. Look at every page as a picture with the fields showing, and fix any field that's off its line or box.
+4. Test it yourself: type in a few fields, tick a box, save, open it again, and check that everything stayed.
+5. Name it `{Product-Name}-Fillable.pdf` and hand over the file.
+6. Their check, in one line: open it on their computer or tablet, type in a box, tick a box, save, and open it again. Their listing names only the apps they tested it in.
+
+**Building the printable version (of a digital planner):** rebuild the same pages with the same style sheet as a printable (blueprint 1 in `execute-blueprints.md`: US Letter or A4 portrait, margins for home printers, real writing space, no tabs or links). Show one page as a sneak peek, then build the rest, look at every page as a picture, and save as PDF Print.
+
+Then save it in their notes (Execute, "Interactive version": what it is, the file name, the date). In Apply it's their second product.
 
 ## If Canva won't connect
 
