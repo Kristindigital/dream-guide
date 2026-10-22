@@ -7,7 +7,7 @@ description: Use when the user types "/update", or asks what's new in their DREA
 
 *© 2026 DRDL PROPERTIES LLC (Kristin's Classroom). Licensed for the purchaser's personal use. See `LICENSE`.*
 
-**This guide is version 0.5.3.** What's new in each version: `whats-new.md`, in this folder.
+**This guide is version 0.5.4.** What's new in each version: `whats-new.md`, in this folder.
 
 Students are beginners. Keep it short and warm, in plain words.
 

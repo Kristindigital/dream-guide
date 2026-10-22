@@ -175,6 +175,7 @@ Never hand over a preview picture as if it were the page.
 - **one product, not a collage:** every page title uses the same heading font and size as the cover, and every page has the same frame, top decoration and footer as the style sheet. Fix any page that doesn't match.
 - every "fill this in" prompt has a line or box to actually write in
 - nothing too close to the edge, text big enough to read, writing spaces big enough to write in
+- **look at every page as a picture, not just the text** (export the pages as images with the Canva connector). Fix anything that overlaps, text that's cut off or spills out of its box, crooked or uneven spacing, and any page whose margins don't match the others. Pages that repeat (like weekly pages) use the same layout every time (Kristin, Oct 22)
 - the licensing points in `execute-blueprints.md`
 
 Then:
@@ -289,5 +290,5 @@ Keep them moving. Never pretend a design exists.
 1. **If you can create files,** design it yourself as a PDF, following "As your own PDF" in Round 6.
    - **For a PDF product** (printable, ebook, workbook, prompt pack, swipe file), that PDF is ready to sell.
    - **To edit it in Canva later,** follow "If they want to edit their PDF in Canva" in Round 7.
-2. **If you can't create files,** give them the full content in the chat, a few pages at a time, ready to paste. Suggest a starting design: a Template Vault design, or a Canva template they find by searching Canva for their format (for example "budget planner printable").
+2. **If you can't create files,** give them the full content in the chat, a few pages at a time, ready to paste. Suggest a starting design: a Template Vault design, or a Canva template they find by searching Canva for their own product type (for example "{their product type} printable").
 3. Offer to walk them through it one page at a time.

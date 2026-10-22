@@ -3,6 +3,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.4
+
+- **Every page checked:** before your guide shows you your product in Canva, it looks at each page as a picture and fixes anything that overlaps, gets cut off or doesn't line up, so your pages match from cover to last page.
+- **Always your topic:** your guide only builds for the niche you chose. If it can't find your niche in your notes, it asks you first.
+
 ## 0.5.3
 
 - **Fewer steps for your notes:** finished a section? Just keep going in the same chat. On free Claude, you only save your notes when you start a new chat, and your guide gives them to you right then.
