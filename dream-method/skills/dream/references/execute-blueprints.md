@@ -64,6 +64,8 @@ Habit trackers, journals, budget sheets, checklists, worksheets, meal planners.
 
 How-to PDFs, step-by-step guides, mini workbooks.
 
+- **Selling on Etsy?** Etsy doesn't allow instructions written by AI, so the steps must be in their own words (`step-execute.md`, Etsy check).
+
 - **Build in:** Canva up to about 20 pages. Longer, text-heavy guides: your own PDF.
 - **First version:** 15 to 30 pages, with 3 to 7 short chapters.
 - **Order (Kristin's mini-book):** Cover · Welcome · How to use this mini-book · Contents (if it's over 12 pages) · the chapters · a printable list or checklist · About me · What's next.
@@ -116,6 +118,8 @@ Icon sets, backgrounds, color palettes, design elements, clip art, SVGs.
 
 Ready-to-use prompts for one specific kind of person.
 
+- **Not on Etsy.** Etsy bans AI prompt packs (`storefronts.md`, Etsy). Sell them on Stan, Payhip, Gumroad, Beacons or Systeme.io.
+
 - **Build in:** your own PDF (keeps 30 to 50 prompts neat and consistent). Canva if they want to edit it there.
 - **First version:** 30 to 50 prompts in 4 to 6 categories, about 10 to 15 pages.
 - **Test every prompt yourself before it goes in.** Kristin's rule: only include ones that work. Cut or fix anything that gives a weak answer.
@@ -161,6 +165,8 @@ Interactive planners used on a tablet or phone, in apps like GoodNotes or Notabi
 Short lessons on one skill, as slides, a PDF, or video.
 
 **Read `course-building.md` first:** right-size it, outline it with them in rounds, keep their words verbatim (they only teach what they've done), add action sheets only where there's a deliverable, and follow its slide rules.
+
+- **Selling on Etsy?** The lessons must be in their own words, never written by AI (Etsy's AI rules, `storefronts.md`). Keeping their words verbatim already does this.
 
 - **Build in:** Canva (a presentation).
 - **First version:** 3 to 5 lessons, each teaching one thing, with an action step after each.

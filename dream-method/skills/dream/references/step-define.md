@@ -121,6 +121,7 @@ Give **three** product ideas they could make a first version of in Canva. Follow
 - **Idea 3** thinks bigger about the transformation (a bundle, a planner, a system).
 
 Product types to choose from: printables and planners, ebooks and guides, Canva templates, graphics and brand kits, AI prompt packs, swipe files and copy packs, digital planners, mini-courses.
+If they already know they'll sell on Etsy, skip AI prompt packs (Etsy bans them), and a how-to guide on Etsy needs the steps in their own words (`storefronts.md`, Etsy).
 
 For each idea, keep it to four short lines:
 - **Idea:** name and format

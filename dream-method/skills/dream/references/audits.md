@@ -38,6 +38,7 @@ Then go through the list for that page. These are the same rules the guide used 
 - **Tags and attributes:** all 13 tags used, from their keyword set, multi-word where possible (up to 20 characters each). Every attribute that applies is filled in.
 - **The price** matches what they approved. A sale only with a true former price.
 - **Trust:** nothing invented ("bestseller", review counts, results). Real reviews only.
+- **Etsy's AI rules** (`storefronts.md`, Etsy): an honest AI note in the description if AI helped make it; not a prompt pack; for a how-to product, the steps are in their own words; real pages shown as a preview, and no image makes it look better than the file.
 - **Marketing settings** (`market-places.md`, section 1): Share & Save enrolled, Offsite Ads decided on purpose.
 - **Delivery:** the file is attached, and **Preview** shows what a buyer gets.
 

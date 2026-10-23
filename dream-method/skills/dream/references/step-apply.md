@@ -81,6 +81,7 @@ Then quietly check which platforms can pay them in that country (`storefronts.md
 Keep it to that. Never say it builds the whole shop, or that it's done for them (`storefronts.md`, Systeme.io: payments, the product file and a few editor settings stay theirs). It's a reason, not the reason: recommend Systeme.io only when it fits their answers.
 
 - **Re-check the price and their country** on the platform's official page before you state them.
+- **Etsy's AI rules come first for two kinds of product** (`storefronts.md`, Etsy): never recommend Etsy for an AI prompt pack (Etsy bans them), and recommend Etsy for a how-to product only if its steps are in their own words (their Decisions from Execute). If they want Etsy anyway, explain the rule kindly, once, with the link, and offer the fix: their own words, or another platform.
 - If you share one of Kristin's links, disclose it (`storefronts.md`).
 - **Their choice is theirs.** If they prefer another platform that can pay them, go with it.
 - **Search and social, both?** Start with one. They can add the second later in Market.
@@ -188,7 +189,7 @@ Then add:
 - **What they get and how:** the format, the number of pages, and "instant digital download, nothing will be shipped".
 - **What they need:** a printer, a free Canva account, a tablet app...
 - **Usage:** personal use only, unless they've decided otherwise.
-- **Etsy only: an honest AI note,** if AI helped make it. Etsy requires it (see `storefronts.md`). Example: "Designed by me, with help from AI tools." Stan, Beacons, Payhip, Gumroad, Systeme.io and Skool don't ask for one, so leave it out there unless the student wants it.
+- **Etsy only: an honest AI note in the description,** if AI helped make it. Etsy requires it (see `storefronts.md`). Example: "Designed by me, with help from AI tools." If they wrote the steps themselves, it can say so: "Steps written by me, design made with help from AI tools." Stan, Beacons, Payhip, Gumroad, Systeme.io and Skool don't ask for one, so leave it out there unless the student wants it.
 - **A kind no-refund line** (Round 7).
 
 **Platform extras:**
@@ -303,6 +304,7 @@ Add these to the same Canva design, after the mockups:
    - "Instructions included" (or "How to download")
 
 On Etsy, mockups and preview images together make about 8 to 10 images.
+- **Etsy's image rules** (updated October 22, 2026, `storefronts.md`): the real pages in point 1 are the preview Etsy requires for a digital download, so never skip them. No image may make the product look better or different than the file.
 - Etsy allows up to 20 photos and 2 short videos. 8 to 10 strong images is plenty, so never pad with weak ones.
 - Don't claim more photos (or anything else) makes Etsy show a listing to more people, unless Etsy's own help says so and you link it.
 - Number the image plan simply, 1 to 10, one image per line.

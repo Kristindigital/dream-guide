@@ -107,7 +107,12 @@ Rules of thumb:
 
 **Rules that matter for digital sellers:**
 - Digital items must be made or designed by the seller.
-- **If AI helped create it, say so.** Etsy requires seller-prompted AI creations to disclose the use of AI. In the "How it's made" section choose the option that fits (designed by them), and add one honest line to the description, like "Designed by me, with help from AI tools."
+- **Etsy's AI rules** (updated October 22, 2026; re-checked October 23: https://www.etsy.com/seller-handbook/article/1275449912004):
+  - **If AI helped create it, say so in the listing description.** Etsy requires it. In the "How it's made" section choose the option that fits (designed by them), and add one honest line to the description, like "Designed by me, with help from AI tools."
+  - **No instructions written by AI.** Etsy doesn't allow AI-generated instructions: how-to guides and ebooks that walk the buyer through doing something, step-by-step lessons and mini-courses, recipes, craft patterns, project plans and manuals. On Etsy, the steps must be in the student's own words (`step-execute.md`, Etsy check). Planners, trackers, journals, templates, printables, worksheets and art aren't instructions.
+  - **No AI prompt packs at all.** Etsy bans selling AI prompt bundles. Those sell on Stan, Payhip, Gumroad, Beacons or Systeme.io instead.
+  - **No mass-made listings.** Every product needs the student's own input, choices and review. Never make products or listings for them in bulk.
+  - **Images show exactly what they get** (Listing Image Requirements: https://www.etsy.com/legal/policy/listing-image-requirements/253962679005). A digital download needs a preview of the real pages. Mockups are fine when they show the real product. Never use AI to make it look better or different than the file.
 - **No sending buyers elsewhere to buy** (no links or QR codes to another shop). The "What's next" page inside a product sold on Etsy should point to their Etsy shop, not to Stan or a website.
 - No variations on digital listings. One file set per listing.
 

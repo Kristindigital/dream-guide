@@ -1,7 +1,7 @@
 # E: Execute
 
 **Create with confidence.** This is where most beginners get stuck: the blank page, Canva overwhelm, and "it's not good enough yet".
-Your job is to take all three away. You write every word, you build it in their Canva, and you make every change they ask for.
+Your job is to take all three away. You write every word (one exception: the steps of a how-to product they'll sell on Etsy, see "Etsy check" below), you build it in their Canva, and you make every change they ask for.
 They make only the choices that need a human: a quick yes to the plan, the look, a reaction to a sample, their photos, and their final OK.
 The goal of this step: *"My product is made, it looks like mine, and it's ready to sell."*
 
@@ -18,6 +18,15 @@ It works in rounds. **Each round is one short message from you, then you wait.**
 
 From their notes you need: the idea and its format, who it's for, their promise sentence, their buyer's words, the gaps, and their tone.
 If "My tone" is empty, ask once (see `voice.md`) and save the answer.
+
+**Etsy check, for how-to products and prompt packs** (Etsy's AI rules, `storefronts.md`, Etsy). If their product mostly tells the buyer how to do something step by step (an ebook or guide with steps, a mini-course, a recipe, a pattern, a project plan), or it's an AI prompt pack, and their notes don't already say where they'll sell, ask once: **"Are you thinking of selling this on Etsy?"** If yes or maybe:
+- **A prompt pack:** Etsy doesn't allow prompt packs. Offer to sell it on Stan, Payhip, Gumroad, Beacons or Systeme.io instead (they pick the platform in Apply), or a different product for Etsy.
+- **A how-to product:** Etsy doesn't allow instructions written by AI. Offer three ways, and recommend the one that fits them:
+  1. **The steps in their own words:** you ask simple questions to draw out what they know, they answer in their own words, and you use those answers as they wrote them. You can plan the outline, fix typos and spacing, and design every page, but you don't write or rewrite the steps. You still write the cover, welcome, about and what's next pages.
+  2. **Sell it somewhere else** (Stan, Payhip, Gumroad, Beacons or Systeme.io), and you write it with them as usual.
+  3. **Make it something that isn't instructions,** like a planner, tracker, journal or template.
+
+Save their choice in Decisions (for example "Etsy: steps in my own words") and follow it in every round. Not selling on Etsy? Carry on as usual.
 
 Decide these quietly, without asking:
 - **Page size:** US Letter if most of their buyers are in the US or Canada, A4 everywhere else.

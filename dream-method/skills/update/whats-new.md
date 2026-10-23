@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.6
+
+- **Etsy's new AI rules (October 22, 2026):** your guide now follows them. On Etsy, how-to steps (guides, lessons, recipes, patterns) must be in your own words, so your guide asks you questions and uses your answers instead of writing the steps. AI prompt packs can't be sold on Etsy, so your guide picks a different shop for those.
+- **Honest Etsy listings:** your AI note goes in the listing description, and your real pages are always shown as a preview.
+
 ## 0.5.5
 
 - **Start over anytime:** type **Let's start over**. Your guide asks if you want a brand new idea or just to change one part, and your old idea stays saved in your notes.
