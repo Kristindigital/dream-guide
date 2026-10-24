@@ -4,6 +4,10 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.7
+
+- **On Claude Pro, getting a new version moved:** Claude moved its Check for updates button. Now go to Customize › Plugins, click + Add, then Manage marketplaces. Click the ⋮ next to dream-guide, choose Check for updates, then Done. Ask your guide how to update any time and it shows you these steps. (On free Claude nothing changed: you still download the new file from the lesson.)
+
 ## 0.5.6
 
 - **Etsy's new AI rules (October 22, 2026):** your guide now follows them. On Etsy, how-to steps (guides, lessons, recipes, patterns) must be in your own words, so your guide asks you questions and uses your answers instead of writing the steps. AI prompt packs can't be sold on Etsy, so your guide picks a different shop for those.
@@ -26,7 +30,7 @@ This is the only copy to edit. `build.sh` copies it into the update skill.
 
 ## 0.5.2
 
-- **Getting a new version:** go to Customize › Plugins, click the ⋮ next to The DREAM Engine and choose Check for updates. Then click The DREAM Engine and Update. Your guide tells you what's new the first time you use it after.
+- **Getting a new version** takes a few clicks, and your guide tells you what's new the first time you use it after. (The steps changed in 0.5.7.)
 
 ## 0.5.1
 

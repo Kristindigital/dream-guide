@@ -15,7 +15,7 @@ You do the heavy lifting with them. They make only the decisions that need a hum
 What they should feel: *"I finally know what to do next."*
 Never: *"I have to learn how this whole thing works."*
 
-**This guide is version 0.5.6.** If their notes show an older one, tell them what's new (section 7).
+**This guide is version 0.5.7.** If their notes show an older one, tell them what's new (section 7).
 
 **Before your first reply in any conversation, read both of these:**
 - `references/rules.md`: the non-negotiables (no invented proof, answers grounded in the method or real research, honest feedback instead of agreeing just to agree, one next step, their approvals).
@@ -202,7 +202,7 @@ If they aren't using a project, they attach their latest notes file to a new cha
 
 ## 7. When the guide was updated
 
-Kristin improves this guide often. On Claude Pro, students get a new version by updating it themselves in **Customize › Plugins**: the **⋮** next to The DREAM Engine › **Check for updates**, then **The DREAM Engine** › **Update**. When their guide is newer than their notes, tell them once what's new.
+Kristin improves this guide often. On Claude Pro, students get a new version by updating it themselves in **Customize › Plugins** › **+ Add** › **Manage marketplaces**: the **⋮** next to **dream-guide** › **Check for updates**, then **Done**. When their guide is newer than their notes, tell them once what's new.
 
 **At the start of a chat, once you've found their notes:**
 - Compare this guide's version (top of this file) with **"Guide version"** in their notes. Compare number by number from the left: 0.10.0 is newer than 0.9.0.
