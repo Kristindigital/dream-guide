@@ -121,8 +121,9 @@ For each look, decide a palette of 3 to 5 colors with hex codes, a heading font 
 If they send pictures, study them for colors, layout and mood. Use them as a guide, never copy a design.
 If they have a Canva Brand Kit, offer to use it.
 Once they choose, turn the look into a **style sheet** and save it in their notes:
-- the heading font, the body font, and their sizes
+- **two fonts, never more:** one heading font and one body font, with their sizes
 - the colors, with hex codes
+- **three text colors at most:** one dark color for all body text (one exact hex, so there's never a second grey), one accent for headings, and one light color for text on dark boxes
 - the page frame or border
 - the small decoration at the top of each page
 - the footer (for example their shop name)
@@ -142,6 +143,8 @@ This is also where they first read their writing. Any word changes they ask for 
 
 Tweak the sample until they're happy. If they're still unsure after two tries, reassure them: once it's all built, anything can still change. Then build.
 
+**Once they approve, these two pages are the master pages.** In Canva, read them with the Canva connector (read-design, with an editing transaction open so you see each text's font) and add to the style sheet in their notes: the Canva link to the approved design, plus the exact font (its font reference), size and color of each kind of text (heading, body, labels, footer). Then close the transaction without changes (cancel). Every other page is built from these, and checked against them.
+
 ## Round 6: Build it
 
 Tell them you're building it and it takes a few minutes.
@@ -155,7 +158,17 @@ Tell them you're building it and it takes a few minutes.
 
 **Template Vault design:** read their copy, then replace the sample text with their content, page by page. Add or remove pages to match the plan. Show them a preview and get their OK before you save the changes.
 
-**Long products:** build in parts (a few pages at a time) so nothing gets lost. Give every part the full style sheet word for word, because parts built separately drift apart (a different title font here, a missing border there).
+**Build every page from the master pages, so every page matches.** Canva picks fonts and colors fresh each time it designs a new page, and the Canva connector can change a text's color and size but never its font. So a page Canva designs on its own can come back in a different font, and once it's there you can't fix it. Copying an approved page keeps the exact fonts and colors (Kristin's test, Oct 25):
+1. **Copy the master page** that's closest to the page you need, right inside the approved design, so it grows into their one product file. Use the Canva connector's merge-designs tool (modify the approved design, insert_pages with that same design as the source). Copy one page per call: asking for the same page twice in one call fails.
+   Copying pages needs their OK, so ask once before you start, and say what you'll copy:
+   > To keep every page matching, I'll build your {n} pages from copies of your two approved pages, right in your sneak peek design. OK to go ahead?
+2. **Change the words** with replace_text. The new text keeps the font, size and color of the box it replaces.
+3. **A different layout** (a list page, a notes page, About me): start from a copy of a master page anyway. Keep its frame, top decoration and footer, move and resize its text boxes, delete what the page doesn't need, and draw new lines and boxes as shapes in the style sheet colors.
+4. **Never add a new text box for the product's words.** A new text box comes in Canva's default font in plain black, which is exactly how one page ends up in a different font with an off grey (Kristin's test, Oct 25). Reuse a text box from a copied page instead. A page with lots of labels (like a weekly page) is a good source.
+5. **Keep new words about as long as the words they replace.** Longer words make the box grow and run into whatever is below it (Kristin's test, Oct 25). Shorten the words first. If a heading truly needs more room, change its size or box width the same way on every page. Never shrink one item in a set (one day name, one label) to make it fit: it will stand out. Shorten its words instead.
+6. **Only if a page is nothing like any master page,** let Canva design it, with the full style sheet. Then check its fonts right away (the fonts and colors check below). If any font doesn't match, don't use that page: build it from a master copy instead.
+
+**Long products:** build in parts (a few pages at a time) so nothing gets lost. Give every part the full style sheet word for word, because parts built separately drift apart (a different title font here, a missing border there). Building from master copies keeps the parts matching.
 **Then always give them one file, never several.** Combine the parts, in page order, into one Canva design (the Canva connector can merge designs).
 **The sneak peek pages are part of the product.** If you reuse the sneak peek's cover or key page instead of rebuilding them, include them in the combined file, in their place in the plan.
 Merging needs their OK first, so ask in one line:
@@ -166,7 +179,7 @@ After merging, give them the one link. Tell them they can delete the separate pa
 
 **Never say it's built unless the Canva connector confirmed it** (`rules.md`, rule 4). If something fails, say so plainly and try once more in smaller parts. If it still fails, use "If Canva won't connect".
 
-**A preview isn't a saved page.** When you edit or add a page in Canva, the connector shows a preview first. Nothing is in their Canva until you save it. Every change, including fixes and new pages like About me, goes through all of these steps:
+**A preview isn't a saved page.** When you edit or add a page in Canva, the connector shows a preview first. Nothing is in their Canva until you save it. Every change, including fixes and new pages like About me, is built from a master copy, passes the fonts and colors check (below), and goes through all of these steps:
 1. Show the preview, and say plainly that it's a preview: "Here's a preview. Nothing is saved yet." A changed preview is still a preview: start with "Here's the updated preview", never "Done" or "Saved", until it's really saved (Kristin's test, Oct 17).
 2. Ask: "Save it to your planner?"
 3. On yes, save it.
@@ -182,6 +195,12 @@ Never hand over a preview picture as if it were the page.
 - no leftover sample text from the template, no stray placeholder words
 - spelling
 - **one product, not a collage:** every page title uses the same heading font and size as the cover, and every page has the same frame, top decoration and footer as the style sheet. Fix any page that doesn't match.
+- **the fonts and colors check, on every page, by the numbers.** Read every page with read-design (with an editing transaction open, so each text shows its font, size and color) and compare it to the style sheet:
+  - **Fonts:** headings use the heading font, everything else uses the body font. A third font anywhere is a mistake.
+  - **Text colors:** only the style sheet's (three at most). Every body text is the same dark color, to the exact hex.
+  - **Sizes:** the same kind of text is the same size on every page (all page titles match, all labels match).
+  - **Fix what you find:** wrong colors and sizes with format_text. A wrong font can't be changed, so rebuild that page from a copy of a master page, with the same words, and remove the old page (with their OK).
+  Do this before you show them, not after they notice. **This check is a hard rule** (`rules.md`, rule 19): until every page passes, it isn't ready, so don't send the "It's ready" message or the link.
 - every "fill this in" prompt has a line or box to actually write in
 - nothing too close to the edge, text big enough to read, writing spaces big enough to write in
 - **look at every page as a picture, not just the text** (export the pages as images with the Canva connector). Fix anything that overlaps, text that's cut off or spills out of its box, crooked or uneven spacing, and any page whose margins don't match the others. Pages that repeat (like weekly pages) use the same layout every time (Kristin, Oct 22)
@@ -196,6 +215,7 @@ Then:
 
 Make the file with your own file-creation tools (for example HTML and CSS turned into a PDF). Never export it from Canva and call it yours.
 - **Use the style sheet word for word.** If the heading font they picked isn't available to you, use the closest one you have, and tell them in one line before the sneak peek.
+- **Set the two fonts and the text colors once, at the top of the file,** and use only those everywhere, so no page can drift to another font or grey.
 - **Text sizes, no exceptions:** body text at least 11 pt and labels at least 10 pt for anything printed. Bigger for anything read on a phone or tablet.
 - **Illustrations:** keep them simple and few (a small line drawing, a sprig, a heart). Simple and neat beats detailed and wobbly.
 - **Long text flows across pages** with clean page breaks: no heading alone at the bottom of a page, no box split in half.
@@ -245,6 +265,23 @@ If they still want Canva, give them these steps, in one message:
 Some pages may need no fixes at all. Help them one page at a time if they ask.
 Once they've edited it in Canva, Canva is now their master copy. Their final file comes from Canva, so use the save clicks in "Saving the final file".
 
+### "Fix my fonts and colors"
+
+For a product that's already built (in an earlier chat, a Template Vault copy, or one they edited themselves) whose pages don't match: different fonts, different greys, headings that change size.
+1. **Find the look to match.** Use the style sheet in their notes. No style sheet? Pick the page that looks best (usually the cover), and ask in one line: "I'll make every page match page {n}. OK?"
+2. **Check every page by the numbers** (the fonts and colors check in Round 6), then tell them plainly what you found, in one short list:
+   > Here's what doesn't match:
+   > - Pages 4, 7 and 9 use a different font.
+   > - Your pages use 12 text colors. Your look has 3.
+   > - Page titles are 3 different sizes.
+   >
+   > I'll fix all of it for you. OK?
+3. **Fix the colors and sizes** on every page with format_text, so all body text is one dark color and every kind of text is one size.
+4. **Rebuild each page in the wrong font** from a copy of a matching page (copy it, put the same words in, check the fit), then remove the old page. Copying and removing pages needs their OK: their yes in step 2 covers it, because your list named those pages.
+5. **Look at every page as a picture,** then show the preview and ask "Save them all?" like any other change.
+
+Never tell them to fix fonts by hand page by page. You do it.
+
 ### When they get stuck or doubt it
 
 - **"It doesn't look like I imagined":** ask what they'd change in a few words (softer, bolder, more space, different colors), then change it.
@@ -258,7 +295,7 @@ Once they've edited it in Canva, Canva is now their master copy. Their final fil
 
 ## Checkpoint: approve your design
 
-Show the summary:
+First, the fonts and colors check must pass on every page (`rules.md`, rule 19). If you haven't run it since the last change, run it now and fix what it finds. Then show the summary:
 
 > **Here's your product:**
 > **Name:** {product name}
@@ -322,12 +359,12 @@ Ask once, in one message:
 **Building the fillable version:**
 1. Start from their final PDF, so the look stays exactly the same. Ask them to drop the file they just downloaded into the chat. (Built it as your own PDF? Use that file.)
 2. With your file-creation tools, add form fields on top of the pages: a type-in box on every writing line or box (one that wraps, for bigger spaces) and a checkbox on every tick box. Fields sit inside their lines or boxes and never cover the printed words. Text typed in them is at least 10 pt.
-3. Look at every page as a picture with the fields showing, and fix any field that's off its line or box.
+3. Look at every page as a picture with the fields showing, and fix any field that's off its line or box. Run the fonts and colors check too (`rules.md`, rule 19).
 4. Test it yourself: type in a few fields, tick a box, save, open it again, and check that everything stayed.
 5. Name it `{Product-Name}-Fillable.pdf` and hand over the file.
 6. Their check, in one line: open it on their computer or tablet, type in a box, tick a box, save, and open it again. Their listing names only the apps they tested it in.
 
-**Building the printable version (of a digital planner):** rebuild the same pages with the same style sheet as a printable (blueprint 1 in `execute-blueprints.md`: US Letter or A4 portrait, margins for home printers, real writing space, no tabs or links). Show one page as a sneak peek, then build the rest, look at every page as a picture, and save as PDF Print.
+**Building the printable version (of a digital planner):** rebuild the same pages with the same style sheet as a printable (blueprint 1 in `execute-blueprints.md`: US Letter or A4 portrait, margins for home printers, real writing space, no tabs or links). Show one page as a sneak peek, then build the rest from copies of that approved page, run the fonts and colors check (`rules.md`, rule 19), look at every page as a picture, and save as PDF Print.
 
 Then save it in their notes (Execute, "Interactive version": what it is, the file name, the date). In Apply it's their second product.
 

@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.8
+
+- **Pages that match:** your guide now builds every page from the two pages you approved in your sneak peek, so your fonts and colors stay the same from cover to last page. Already built yours? Type **Fix my fonts and colors** and your guide checks every page and fixes what doesn't match.
+- **Need a hand?** Type **I need more support** anytime, and your guide helps with what's going on right then.
+
 ## 0.5.7
 
 - **On Claude Pro, getting a new version moved:** Claude moved its Check for updates button. Now go to Customize › Plugins, click + Add, then Manage marketplaces. Click the ⋮ next to dream-guide, choose Check for updates, then Done. Ask your guide how to update any time and it shows you these steps. (On free Claude nothing changed: you still download the new file from the lesson.)

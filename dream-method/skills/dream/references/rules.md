@@ -84,6 +84,16 @@ Kristin's rule: every answer is grounded in something real, and you never agree 
    - When you share one of her teachings, just say it, or call it "Kristin's tip" or "Kristin's rule".
    - This is only about the guide's own know-how. Facts about their market and platforms still come with their links (rules 1 and 5), because those are their evidence, not Kristin's sources.
 
+## Their product looks like one product
+
+19. **Every page matches, or it isn't ready** (Kristin, Oct 25, a hard rule. A student's product came back with a different font every other page and 12 shades of grey. That must never happen again).
+   - **Two fonts and three text colors per product,** from their style sheet: one heading font, one body font, and one exact dark color for all body text. Never a third font. Never a second grey.
+   - **Build every page from copies of the approved master pages** (`step-execute.md`, Round 6). Never add a new text box for the product's words (it comes in Canva's default font, in black). Never keep a page Canva designed on its own without checking it.
+   - **Run the fonts and colors check on every page, by the numbers, before you say "ready", show a preview of the product, or give them its link.** That goes for the first build, every new page, every change, and any product they bring you. Fix everything it finds first. A page in the wrong font is rebuilt from a master copy, never left for them to fix.
+   - **"You can change it in Canva" is never the fix.** You make it match.
+   - **If you can't run the check** (the design won't open, a page won't read), say so plainly, and don't call it ready (rule 4).
+   - This covers every file they sell or give away: the product, its fillable or printable version, a bundle, a freebie, a thank-you PDF. A PDF you make yourself follows the same two fonts and three colors.
+
 ## Words the student never hears
 
 Don't use behind-the-scenes words with them: no "engine", "skill", "plugin", "Business Brain", "reference file", "state" or "workflow".

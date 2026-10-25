@@ -16,6 +16,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"Where am I?"**: shows your DREAM roadmap
 - **"/update"**: shows what's new in your DREAM Engine
 - **"I'm stuck"**: shows this list
+- **"I need more support."**
 - **"I only have 20 minutes today. What's the smallest next step?"**
 - **"I'm overwhelmed. What's the one thing I should do today?"**
 - **"Explain that more simply."** or **"Give me an example."**
@@ -49,6 +50,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"Make it match my style."** (send 1 to 3 designs you love)
 - **"Add a page about {topic}."**
 - **"Check my product before I sell it."**
+- **"Fix my fonts and colors."** (makes every page match)
 - **"Make a fillable version of my product."**
 
 ## A: Apply (your shop)
