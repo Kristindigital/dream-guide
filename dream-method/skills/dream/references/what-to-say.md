@@ -23,6 +23,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"My screen looks different. Here's what I see:"** (then add a screenshot)
 - **"Can we go back and change {my title / my price / my colors}?"**
 - **"Show me my business notes."**
+- **"I want to start a new chat. Can I have my notes?"**: gives you your newest notes, before a new chat or an update
 - **"Let's start over"**: a fresh start with a new idea (your old idea stays saved in your notes)
 
 ## D: Define (your idea)

@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.9
+
+- **Updating without losing your place:** before you update, type **I want to start a new chat. Can I have my notes?** in your DREAM chat, and add the file to your project. If a new chat ever seems a step behind, your guide shows you how to bring your newest notes over, so nothing gets redone.
+- **Your Etsy AI note, in your words:** your guide now writes it from how you really made your product (your idea, your words, and what AI helped with), and checks it with you first. You made your product. Your guide helped.
+
 ## 0.5.8
 
 - **Pages that match:** your guide now builds every page from the two pages you approved in your sneak peek, so your fonts and colors stay the same from cover to last page. Already built yours? Type **Fix my fonts and colors** and your guide checks every page and fixes what doesn't match.

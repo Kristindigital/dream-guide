@@ -108,7 +108,7 @@ Rules of thumb:
 **Rules that matter for digital sellers:**
 - Digital items must be made or designed by the seller.
 - **Etsy's AI rules** (updated October 22, 2026; re-checked October 23: https://www.etsy.com/seller-handbook/article/1275449912004):
-  - **If AI helped create it, say so in the listing description.** Etsy requires it. In the "How it's made" section choose the option that fits (designed by them), and add one honest line to the description, like "Designed by me, with help from AI tools."
+  - **If AI helped create it, say so in the listing description.** Etsy requires it. In the "How it's made" section choose the option that fits (designed by them), and add one honest line to the description, in their voice, that says what was theirs and what AI tools helped with (`step-apply.md`, the AI note), like "My idea and my words, organized and designed with help from AI tools." Never say AI, or their guide, created the product. Check the line with them before it goes in.
   - **No instructions written by AI.** Etsy doesn't allow AI-generated instructions: how-to guides and ebooks that walk the buyer through doing something, step-by-step lessons and mini-courses, recipes, craft patterns, project plans and manuals. On Etsy, the steps must be in the student's own words (`step-execute.md`, Etsy check). Planners, trackers, journals, templates, printables, worksheets and art aren't instructions.
   - **No AI prompt packs at all.** Etsy bans selling AI prompt bundles. Those sell on Stan, Payhip, Gumroad, Beacons or Systeme.io instead.
   - **No mass-made listings.** Every product needs the student's own input, choices and review. Never make products or listings for them in bulk.

@@ -189,7 +189,13 @@ Then add:
 - **What they get and how:** the format, the number of pages, and "instant digital download, nothing will be shipped".
 - **What they need:** a printer, a free Canva account, a tablet app...
 - **Usage:** personal use only, unless they've decided otherwise.
-- **Etsy only: an honest AI note in the description,** if AI helped make it. Etsy requires it (see `storefronts.md`). Example: "Designed by me, with help from AI tools." If they wrote the steps themselves, it can say so: "Steps written by me, design made with help from AI tools." Stan, Beacons, Payhip, Gumroad, Systeme.io and Skool don't ask for one, so leave it out there unless the student wants it.
+- **Etsy only: an honest AI note in the description,** if AI helped make it. Etsy requires it (see `storefronts.md`). **Write it from how they really made it,** in their voice: what was theirs (the idea, their choices, any words they wrote, their own tips) and what AI tools helped with (drafting the words, organizing, the design). Their notes say most of it; if they don't say who wrote the words, ask in one line. Examples:
+  - They wrote the words: "My idea and my words, organized and designed with help from AI tools."
+  - You drafted the words: "My idea and my choices, written and designed with help from AI tools."
+  - Their own steps (a how-to): "Steps written by me, design made with help from AI tools."
+
+  **Never write that AI, or you, created or made their product.** They made it, with your help (`rules.md`, rule 5). Show them the note and ask "Does this match how you made it?" before it goes in the listing (Kristin, Oct 25: a student's idea and wording were all hers, and her guide said it had created the product).
+  Stan, Beacons, Payhip, Gumroad, Systeme.io and Skool don't ask for one, so leave it out there unless the student wants it.
 - **A kind no-refund line** (Round 7).
 
 **Platform extras:**
