@@ -1,0 +1,15 @@
+{
+  "name": "kristins-classroom",
+  "description": "Kristin's Classroom: guides that help complete beginners create and sell their first digital product.",
+  "owner": {
+    "name": "Kristin Horsburgh",
+    "url": "https://www.skool.com/kristinsclassroom/about"
+  },
+  "plugins": [
+    {
+      "name": "dream-method",
+      "source": "./dream-method",
+      "description": "The DREAM Engine: go from idea to a launched digital product in 30 days, without tech skills."
+    }
+  ]
+}

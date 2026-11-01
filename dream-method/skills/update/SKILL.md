@@ -1,0 +1,60 @@
+---
+name: update
+description: Use when the user types "/update", or asks what's new in their DREAM Engine or DREAM guide (Kristin's DREAM Method), whether they have the newest version, or how to update it. Shows what's new and checks they're on the newest version.
+---
+
+# /update: what's new in the DREAM Engine
+
+*© 2026 DRDL PROPERTIES LLC (Kristin's Classroom). Licensed for the purchaser's personal use. See `LICENSE`.*
+
+**This guide is version 0.5.10.** What's new in each version: `whats-new.md`, in this folder.
+
+Students are beginners. Keep it short and warm, in plain words.
+
+**Updating takes a few clicks.** They installed it from Kristin's marketplace, which Claude calls **dream-guide**. When Kristin emails them that there's a new version, they update it themselves (there's nothing to download).
+
+**First, their newest notes** (Kristin, Oct 25: a student updated and her new chat picked up from the day before). An update needs a new chat, and a new chat only knows the notes saved in their project. If they've worked in this chat since those notes were saved, give them their newest `my-dream-business.md` before the update steps, the same way as before any new chat (the DREAM guide's `SKILL.md`, section 2), or save it yourself if you can. Then:
+1. **Customize** → **Plugins**
+2. Click **+ Add** (top right), then **Manage marketplaces**.
+3. Click the **⋮** next to **dream-guide**, then **Check for updates**. Then click **Done**.
+4. Open a **new chat** in their DREAM project and type **Keep going**.
+
+## When they type /update
+
+> ✨ **You have version {version} of your DREAM Engine.** Here's what's new in it:
+> - {the lines for this version from `whats-new.md`}
+>
+> To get Kristin's newest version later: first type **I want to start a new chat. Can I have my notes?** here, and add the file I give you to your DREAM project, replacing the old one. Then **Customize** → **Plugins** → **+ Add** → **Manage marketplaces**, then the **⋮** next to **dream-guide** → **Check for updates** → **Done**. Type **Keep going** to pick up your business.
+
+If their business notes are in this chat and their "Guide version" is older, set it to this version with your next notes save.
+
+**Have Kristin's REACH Engine too?** It has its own /update. If two show up when they type /update, the DREAM Engine one shows this guide's news, and the REACH Engine one shows its own.
+
+## If they think they're missing an update
+
+Usually it just needs a new chat. A chat that was already open may keep the version it started with.
+1. First give them their newest notes (above). Then they open a **new chat** in their DREAM project and type **Keep going**.
+2. **Still the old version?** Have them update it:
+   - **Customize** → **Plugins**
+   - click **+ Add** (top right), then **Manage marketplaces**
+   - click the **⋮** next to **dream-guide**, then **Check for updates**, then **Done**
+   - still the old version number under **Plugins** → **Yours**? Click **The DREAM Engine**, then **Update** if it shows
+   - then open a new chat in their DREAM project
+3. **Still the old version after Check for updates?** Have them remove the marketplace and add it again. Their notes and chats stay safe (Kristin's test, Oct 28).
+   - in **Manage marketplaces**, click the **⋮** next to **dream-guide**, then **Remove**. Removing it also removes The DREAM Engine; that's expected.
+   - click **+ Add** → **Add marketplace** → **Add from a repository**, paste **Kristindigital/dream-guide**, leave **Sync automatically** on (it shows once the repository is picked), then **Sync**
+   - click **Add** next to **The DREAM Engine** (adding the marketplace back doesn't reinstall it by itself)
+   - then open a new chat in their DREAM project and type **Keep going**
+4. **They can't find it, or it shows an error:** ask what they see (a screenshot helps), and help from there. Claude has moved these buttons before: in October 2026, Check for updates moved from the ⋮ next to the plugin to **+ Add** → **Manage marketplaces**.
+
+**They uploaded a zip instead of using the marketplace.** That copy never updates. Help them switch once:
+1. Remove the uploaded copy: open it in **Customize** → **Plugins** → its menu → **Remove**.
+2. Follow the install steps from Kristin's course lesson.
+
+The notes in their project stay safe throughout. Anything newer lives only in the chat, which is why they get their newest notes first.
+
+## Keep it honest
+
+- **What's new comes only from `whats-new.md`.** Never add anything.
+- **Never say an update is installed** unless the version at the top of this file shows it.
+- **Never ask them to delete their project, their notes or their chats.** Updating the guide never touches them.
