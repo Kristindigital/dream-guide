@@ -2,7 +2,7 @@
 
 **Create with confidence.** This is where most beginners get stuck: the blank page, Canva overwhelm, and "it's not good enough yet".
 Your job is to take all three away. You write every word (one exception: the steps of a how-to product they'll sell on Etsy, see "Etsy check" below), you build it in their Canva, and you make every change they ask for.
-They make only the choices that need a human: a quick yes to the plan, whether it's interactive, the look, a reaction to a sample, their photos, and their final OK.
+They make only the choices that need a human: a quick yes to the plan, the look, a reaction to a sample, their photos, their final OK, and whether it's interactive.
 The goal of this step: *"My product is made, it looks like mine, and it's ready to sell."*
 
 This step is Kristin's Execute method.
@@ -29,7 +29,7 @@ If "My tone" is empty, ask once (see `voice.md`) and save the answer.
 
 Save their choice in Decisions (for example "Etsy: steps in my own words") and follow it in every round. Not selling on Etsy? Carry on as usual.
 
-**Missing more than one of these** (their tone, the Etsy question, Round 2's question)? Ask them together, in one numbered message, each with your pick, instead of one per message.
+**Missing more than one of these** (their tone, the Etsy question, Round 2's questions)? Ask them together, in one numbered message, each with your pick, instead of one per message.
 
 Decide these quietly, without asking:
 - **Page size:** US Letter if most of their buyers are in the US or Canada, A4 everywhere else.
@@ -65,20 +65,21 @@ If they can't or don't want to connect, keep going. Use "If Canva won't connect"
 
 Then keep that promise: preview every edit before saving, and ask before combining or copying designs.
 
-## Round 2: From scratch, or a shortcut?
+## Round 2: How we'll make it, and your inspiration
 
-Kristin's rule: *you don't have to start from scratch.* Offer the ways in, recommend the first:
+Kristin's rule: *you don't have to start from scratch.* Ask both questions in one message, with your pick filled in, so one answer moves them on:
 
-> Here's how we can make it:
-> 1. **I write it and build it in your Canva.** The fastest way. Most people pick this.
-> 2. **Start from one of Kristin's Template Vault designs.** Open the template, then paste me the link to your copy, and I'll fill it with your content.
-> 3. **Use PLR content you already bought** (done-for-you content you're allowed to edit and resell).
+> Two quick things before I start:
+> 1. **How should we make it?** ⭐ **I write it and build it in your Canva.** It's the fastest way, and most people pick it. (Already bought **PLR content**, done-for-you content you're allowed to edit and resell? We can start from that instead.)
+> 2. **Got any inspiration?** If there's a product you'd love yours to feel like (one of yours, or one you've seen on Etsy or Pinterest), take a screenshot and drop it in here. Already have a **brand kit**? Drop in a screenshot of it, or tell me it's in your Canva. Nothing yet? That's completely fine. I'll suggest 3 looks for you.
 >
-> Which one?
+> Say **yes** to my pick, or tell me what you'd like and drop in anything you have.
 
-Skip this question if their notes already answer it.
-- **Template Vault:** opening a template link saves their own copy in Canva. Ask for the link to *their copy*, then read it so you can fill it in Round 7.
-- **Any other template or PLR:** first ask one thing: does its license let them edit and sell it? If they don't know, ask them to check the license before you use it. Never build on something they don't have the right to sell. Rewrite PLR content so it fits their buyer, their promise and their voice.
+Skip a question their notes already answer, and skip the round if both are answered.
+- **A screenshot of a product they love:** study it for what makes it work: the layout, the kinds of pages, the colors, the feel of the fonts, the mood. If it isn't clear what they love about it, ask in one line. Use it as a guide for the plan (Round 3) and the look (Round 4), never as a copy: no one else's words, illustrations or page designs. Theirs should look inspired by it, not copied from it.
+- **Their brand kit:** in Canva, read it with the Canva connector (list-brand-kits) and use its colors, fonts and logo. From a screenshot, take the colors (as hex codes) and the fonts.
+- **Save it** in their notes under "Inspiration": what they shared and what to take from it, so their look (Round 4) starts from it.
+- **A template or PLR they already have:** first ask one thing: does its license let them edit and sell it? If they don't know, ask them to check the license before you use it. Never build on something they don't have the right to sell. Rewrite PLR content so it fits their buyer, their promise and their voice.
 
 ## Round 3: What's inside
 
@@ -94,93 +95,11 @@ Show the plan short, one line per page or part. Then:
 If they want to change one part, change only that part.
 Save the plan in their notes under "What's inside".
 
-## Round 4: Make it interactive? (the wow moment)
-
-Interactive products are what Kristin's students are most excited about right now, and buyers love them (Kristin, Oct 27: "I want this part to be mindblowing!"). Make this round feel like a gift: warm, short and exciting. Ask it right after they say yes to the plan, before you write anything, because some picks add to the pages (a contents page, tabs, a home button, a few lines on the How to use page).
-
-**Who gets it:**
-- **Printables, planners, workbooks, journals, worksheets, trackers, ebooks, guides, mini-course workbooks, prompt packs and swipe files:** ask both questions.
-- **Digital planners:** they're interactive already, with tappable tabs (blueprint 7). Skip question 1 and go straight to question 2.
-- **Canva template packs and graphics kits:** skip this round, and say nothing about it.
-
-**Question 1: do they want it?** One message, then wait:
-
-> ✨ **Want to make it interactive?** This is the part buyers love.
-> Instead of a flat PDF, your {product} works like a little app on their iPad, tablet or computer: {2 or 3 picks that fit it, in buyer words, for example "they tap a tab to jump to any section, type right into the boxes, and tick things off as they go"}.
-> Why it's worth it:
-> - **It feels more valuable.** Next to a flat PDF, yours is the one that feels like an app.
-> - **It fits more buyers.** No printer and no ink needed{printables: ", and they can still print it"}.
-> - {Printables: **It's a real second product.** Sell both together as one bundle, so buyers get two ways to use it. / Everything else: **It's easier to use.** Everything is one tap away.}
->
-> And I build all of it for you. You don't have to learn anything new.
-> 1. ⭐ **Yes, make it interactive!** With my picks: {your ⭐ picks from the list below, 1 or 2, in buyer words, for example "type right into every box, and tick off each task"}. (My pick, because {one line on why it fits their buyer})
-> 2. **Yes, and I'd like to choose what it does**
-> 3. **Not this time**
-
-Their keyword set from Research has a word like digital, fillable, hyperlinked, editable, iPad or GoodNotes? Add one line: "Your buyers are already searching for **{that keyword}**." Only from their real keywords, never a guess.
-
-- **Yes, with your picks:** that's their whole answer, so skip Question 2 and go straight to "Then plan for it" (`rules.md`, rule 20). One yes, no more questions.
-- **Not this time:** write "Interactive: not now" in their notes and go to Round 5. Don't bring it up again. If they change their mind later, even after it's live, **"Make my product interactive"** works anytime (`what-to-say.md`).
-
-**Question 2: what should it do?** Only when they want to choose. One message, then wait. Show only the options that fit their product, 3 to 5 of them, from the list below. Put your pick first, marked ⭐ (1 or 2: the ones their buyer will use most), and always end with **Something else**:
-
-> Yay! What should your {product} do? Pick as many as you like (for example **1 and 2**).
-> 1. ⭐ **Type right in** (My pick): {what buyers get, from the list}. {why it fits their buyer, in a few words}
-> 2. **Tick it off:** {what buyers get}
-> 3. **Tap to jump:** {what buyers get}
-> 4. **Something else:** tell me your idea, and I'll tell you honestly if I can build it.
->
-> Say yes to my pick, or tell me which ones you'd like.
-
-| Option | What buyers get (say it like this) | Fits |
-|---|---|---|
-| **Tap to jump** | A clickable contents page: tap a section and land right on it, with a little home button on every page to get back. | 6 pages or more: planners, workbooks, journals, ebooks, guides, prompt packs |
-| **Type right in** | A type-in box on every writing space, so they fill it out on their computer or tablet, save it, and come back to it anytime. | Anything with spaces to write in |
-| **Tick it off** | Checkboxes that really tick, for to-dos, habits and checklists. | Anything with tick boxes |
-| **Totals that add up by themselves** | They type the numbers, and the total fills itself in. (Works in the free Adobe Acrobat Reader.) | Budgets, savings, sales or price pages, anything with sums |
-| **A linked calendar** | Year, month, week and day pages, each one tap apart, and one tap back. | Dated planners |
-| **Buttons to your links** | "Get my free gift", "Shop my other products" or "Watch the video" buttons that open your links. | Any product, for links they already have |
-| **A printable version too** | The same pages on paper, for buyers who like to print. | Digital planners |
-
-**Your ⭐ pick:**
-- Printables, workbooks, journals and worksheets: **Type right in**, plus **Tick it off** if it has tick boxes.
-- Budgets and trackers with numbers: **Type right in** and **Totals that add up by themselves**.
-- Ebooks, guides and prompt packs: **Tap to jump**.
-- Digital planners: **A linked calendar** if it's dated, **A printable version too** if it's undated.
-- More than 10 pages? **Tap to jump** is your second pick.
-
-**"Something else":** say honestly what a PDF can do, in one or two lines, then offer the closest thing you can build.
-- **Can:** links to pages, websites, videos or an email address; type-in boxes (one line or bigger); checkboxes; pick-one choices and drop-down lists; dates; totals and simple math.
-- **Can't:** a video or animation that plays inside the page (offer a **Watch the video** button that opens it instead), drag and drop, sound, or anything that syncs between devices.
-
-**Without your own file-creation tools,** the options need Claude's code setting. So when they say yes (to your picks or their own), first save their answer in their notes. If you can't save their notes yourself, hand them their notes first (`SKILL.md` section 2). Then ask them to turn the setting on. Kristin wants every student to have it on, because it's what builds their product the fastest. One message, then wait:
-> To build this for you, Claude needs one switch turned on. It's a one-time thing and takes a few seconds:
-> 1. Click your name (bottom left) → **Settings** → **Capabilities**.
-> 2. Turn on **Code execution and file creation**. It may be called **Cloud code execution and file creation**.
-> 3. Close Settings and come back to this chat, then type **Done**.
->
-> On a Team plan, the owner turns it on in **Admin settings** → **Capabilities**.
-
-- **After "Done", you can make files:** carry on with "Then plan for it".
-- **Still no file tools after "Done":** ask them to start a new chat in their DREAM project and type **Keep going**.
-- **They can't turn it on** (for example, a work account that blocks it) **or would rather not:** only links can be added, and they're made in Canva. Offer only **Tap to jump** and **Buttons to your links**, and note the others as "later" in their Decisions ("Making it interactive", in the Checkpoint).
-
-**Then plan for it, quietly** (no more questions):
-- **Tap to jump:** a contents page with every section (add it to the plan if it isn't there), and a small home button in the same corner of the master pages. Planners also get tabs down the side (blueprint 7).
-- **Type right in:** writing lines and boxes roomy enough to type in. If they're roomy enough to write in by hand, they are.
-- **Totals:** a clear total line at the end of each column.
-- **A linked calendar:** year → month → week → day pages, with each page's title as its link back up.
-- **Buttons to your links:** a button on the What's next page for each link. Ask for the links in one line now. A link they don't have yet (their shop, their free gift) can go in later: they just ask. Selling on Etsy, or might be? Then a shop button goes to their Etsy shop only: no links or QR codes to buy somewhere else, and no discount for buying elsewhere (`storefronts.md`, Etsy).
-- **The How to use page** gets 2 or 3 lines about the interactive parts: tap the contents to jump, type in the boxes and save, and the best free app (Adobe Acrobat Reader, on every device).
-- **Save it:** their picks go in their notes under "Interactive", and any extra pages under "What's inside".
-
-Then go to Round 5. In the sneak peek (Round 6), point out the interactive spots in one line: "These tabs will be tappable, and you'll type right into these boxes, in your finished file."
-
-## Round 5: Write it all, then pick the look
+## Round 4: Write it all, then pick the look
 
 **The first thing they see of their product must be designed, never a plain draft.**
 A bare Word document or a page of plain text looks unfinished, and it's exactly the moment beginners decide "this looks terrible" and give up.
-So write everything behind the scenes, and let them meet their words already designed, in the sneak peek (Round 6).
+So write everything behind the scenes, and let them meet their words already designed, in the sneak peek (Round 5).
 
 Do the writing. All of it. They shouldn't have to prompt you page by page.
 - Write in **their tone** (their notes), with **their buyer's words** (Research).
@@ -203,8 +122,8 @@ Then ask for the look. **Choose the look before the build**, because changing co
 
 Build the three looks from their buyer, their tone and the products they saw in Research. Make them truly different (for example soft, bright, and clean).
 For each look, decide a palette of 3 to 5 colors with hex codes, a heading font and an easy-to-read body font.
-If they send pictures, study them for colors, layout and mood. Use them as a guide, never copy a design.
-If they have a Canva Brand Kit, offer to use it.
+**They shared inspiration or a brand kit in Round 2?** Build look one from it and mark it ⭐ (their brand kit's colors and fonts, or the feel of the product they love, made their own), make the other two different, and leave out the last line asking for pictures.
+If they send pictures now, study them for colors, layout and mood. Use them as a guide, never copy a design.
 Once they choose, turn the look into a **style sheet** and save it in their notes:
 - **two fonts, never more:** one heading font and one body font, with their sizes
 - the colors, with hex codes
@@ -216,7 +135,7 @@ Once they choose, turn the look into a **style sheet** and save it in their note
 Every page and every build part uses this exact style sheet. That's what makes 10 pages look like one product.
 Kristin's tip, once: keep a folder of designs you love. It slowly becomes your own style guide.
 
-## Round 6: A sneak peek first
+## Round 5: A sneak peek first
 
 Before building everything, build just **two pages in their look**: the cover and one key inside page (the page buyers will care about most).
 Building a PDF? Show the two pages as pictures in the chat.
@@ -224,7 +143,7 @@ Building a PDF? Show the two pages as pictures in the chat.
 > Here's a sneak peek, with your real words: {link or pictures}
 > Love it? Say **build it**, and I'll build all {n} pages from copies of these two, so every page matches. {In Canva: I'll put them together into one Canva file and delete any leftover pages, so you get one clean file.} Or tell me everything you'd like changed (softer, bolder, more space, different colors, different words...), and I'll do it all at once.
 
-Their **build it** is their OK for everything you named: copying the pages, combining the parts and deleting leftovers (`rules.md`, rule 20). Don't ask for those again in Round 7.
+Their **build it** is their OK for everything you named: copying the pages, combining the parts and deleting leftovers (`rules.md`, rule 20). Don't ask for those again in Round 6.
 
 This is also where they first read their writing. Any word changes they ask for now (or later) are made right on the designed pages.
 
@@ -232,7 +151,7 @@ Tweak the sample until they're happy, making all the changes they ask for in one
 
 **Once they approve, these two pages are the master pages.** In Canva, read them with the Canva connector (read-design, with an editing transaction open so you see each text's font) and add to the style sheet in their notes: the Canva link to the approved design, plus the exact font (its font reference), size and color of each kind of text (heading, body, labels, footer). Then close the transaction without changes (cancel). Every other page is built from these, and checked against them.
 
-## Round 7: Build it
+## Round 6: Build it
 
 Tell them you're building it and it takes a few minutes.
 
@@ -243,11 +162,9 @@ Tell them you're building it and it takes a few minutes.
 - Every heading, label, fill-in line and text box is its own editable element, so they can change anything.
 - A clearly marked **photo spot** wherever a photo belongs, and a small spot for their name or logo.
 
-**Template Vault design:** read their copy, then replace the sample text with their content, page by page. Add or remove pages to match the plan. Show them a preview and get their OK before you save the changes.
-
 **Build every page from the master pages, so every page matches.** Canva picks fonts and colors fresh each time it designs a new page, and the Canva connector can change a text's color and size but never its font. So a page Canva designs on its own can come back in a different font, and once it's there you can't fix it. Copying an approved page keeps the exact fonts and colors (Kristin's test, Oct 25):
 1. **Copy the master page** that's closest to the page you need, right inside the approved design, so it grows into their one product file. Use the Canva connector's merge-designs tool (modify the approved design, insert_pages with that same design as the source). Copy one page per call: asking for the same page twice in one call fails.
-   Copying pages needs their OK. Their **build it** in Round 6 gave it. If they approved the sneak peek some other way, ask once, naming all three steps together:
+   Copying pages needs their OK. Their **build it** in Round 5 gave it. If they approved the sneak peek some other way, ask once, naming all three steps together:
    > To keep every page matching, I'll build your {n} pages from copies of your two approved pages, right in your sneak peek design, put them together into one file and delete any leftover pages. OK to go ahead?
 2. **Change the words** with replace_text. The new text keeps the font, size and color of the box it replaces.
 3. **A different layout** (a list page, a notes page, About me): start from a copy of a master page anyway. Keep its frame, top decoration and footer, move and resize its text boxes, delete what the page doesn't need, and draw new lines and boxes as shapes in the style sheet colors.
@@ -313,7 +230,7 @@ Then show them pictures of the first pages, and hand over the file:
 > It's ready! Here's a peek at the first pages, and here's your file: {file}
 > Have a look through it. Next we'll add your personal touches.
 
-## Round 8: Make it yours
+## Round 7: Make it yours
 
 > Two personal touches, and it's done:
 > 1. **Your photos or logo** (optional): in Canva, click **Uploads**, upload your photo, then drag it onto a photo spot.
@@ -353,9 +270,9 @@ Once they've edited it in Canva, Canva is now their master copy. Their final fil
 
 ### "Fix my fonts and colors"
 
-For a product that's already built (in an earlier chat, a Template Vault copy, or one they edited themselves) whose pages don't match: different fonts, different greys, headings that change size.
+For a product that's already built (in an earlier chat, from a template, or one they edited themselves) whose pages don't match: different fonts, different greys, headings that change size.
 1. **Find the look to match.** Use the style sheet in their notes. No style sheet? Pick the page that looks best (usually the cover), and ask in one line: "I'll make every page match page {n}. OK?"
-2. **Check every page by the numbers** (the fonts and colors check in Round 7), then tell them plainly what you found, in one short list:
+2. **Check every page by the numbers** (the fonts and colors check in Round 6), then tell them plainly what you found, in one short list:
    > Here's what doesn't match:
    > - Pages 4, 7 and 9 use a different font.
    > - Your pages use 12 text colors. Your look has 3.
@@ -388,18 +305,104 @@ First, the fonts and colors check must pass on every page (`rules.md`, rule 19).
 > **What's inside:** {the parts, in one line}
 > **Made for:** {who it's for}
 > **It promises:** {promise sentence}
-> **Interactive:** {what it does, if they picked anything in Round 4}
 >
-> Does it feel like yours? Say yes and I'll show you how to save the final file, or tell me what to change.
+> Does it feel like yours? Say yes and we'll get your final file ready, or tell me what to change.
 
 On a clear yes:
-1. **Built in Canva:** give the save clicks for their product type (below), with one line on why that format. Template packs also need their access PDF (blueprint 3).
+1. Mark Execute approved with today's date. Save the Canva link (or the PDF's file name), what's inside and their look in their notes. Note any version 2 ideas in Decisions.
+2. **Celebrate, and ask the last question in the same message: make it interactive?** ("Make it interactive?", below). Canva template packs and graphics kits skip the question: celebrate in one line, then go to step 3.
+3. **Their final file.** **Built in Canva:** give the save clicks for their product type ("Saving the final file", below), with one line on why that format. Template packs also need their access PDF (blueprint 3).
    **Built as your own PDF:** the file you handed over is the final file. Hand over the latest version again so they have it in one place. (If they moved it into Canva and edited it there, use the Canva save clicks instead.)
-2. Mark Execute approved with today's date. Save the Canva link (or the PDF's file name), what's inside, their look and the file type in their notes. Note any version 2 ideas in Decisions. Set the next step to Apply.
-3. Celebrate in one line. (They made a real product. Most people never get this far.)
-4. **Make it interactive,** if they picked anything in Round 4 ("Making it interactive", below). Build it now, then carry on.
-5. Show the progress card. Next step: **Apply: get it ready to sell.**
+   Said yes to interactive? This comes once its additions are saved, in the same message that asks for the PDF to build on ("Get it ready, in one go", below).
+4. **Make it interactive,** if they said yes ("Building the interactive parts", below). Build it, then carry on.
+5. Save the file type in their notes and set the next step to Apply. Show the progress card. Next step: **Apply: get it ready to sell.**
 6. Their notes (saved, or the keep-going note if you can't save them), then the next-step handoff (SKILL.md, section 6).
+
+### Make it interactive? (the wow moment)
+
+Interactive products are what Kristin's students are most excited about right now, and buyers love them (Kristin, Oct 27: "I want this part to be mindblowing!"). Make it feel like a gift: warm, short and exciting. Ask it at the end, right after they approve their product, in the same message as the celebration (Kristin, Nov 2): it's the finishing touch.
+
+**Who gets it:**
+- **Printables, planners, workbooks, journals, worksheets, trackers, ebooks, guides, mini-course workbooks, prompt packs and swipe files:** ask both questions.
+- **Digital planners:** they're interactive already, with tappable tabs (blueprint 7). Skip question 1 and go straight to question 2, starting it with the celebration line.
+- **Canva template packs and graphics kits:** skip it, and say nothing about it.
+
+**Question 1: do they want it?** One message, then wait:
+
+> {One line celebrating them: they made a real product, and most people never get this far.}
+>
+> ✨ **One last thing: want to make it interactive?** This is the part buyers love.
+> Instead of a flat PDF, your {product} works like a little app on their iPad, tablet or computer: {2 or 3 picks that fit it, in buyer words, for example "they tap a tab to jump to any section, type right into the boxes, and tick things off as they go"}.
+> Why it's worth it:
+> - **It feels more valuable.** Next to a flat PDF, yours is the one that feels like an app.
+> - **It fits more buyers.** No printer and no ink needed{printables: ", and they can still print it"}.
+> - {Printables: **It's a real second product.** Sell both together as one bundle, so buyers get two ways to use it. / Everything else: **It's easier to use.** Everything is one tap away.}
+>
+> And I build all of it for you. You don't have to learn anything new.
+> 1. ⭐ **Yes, make it interactive!** With my picks: {your ⭐ picks from the list below, 1 or 2, in buyer words, for example "type right into every box, and tick off each task"}. (My pick, because {one line on why it fits their buyer})
+> 2. **Yes, and I'd like to choose what it does**
+> 3. **Not this time**
+
+Their keyword set from Research has a word like digital, fillable, hyperlinked, editable, iPad or GoodNotes? Add one line: "Your buyers are already searching for **{that keyword}**." Only from their real keywords, never a guess.
+
+- **Yes, with your picks:** that's their whole answer, so skip Question 2 and go straight to "Get it ready, in one go" (`rules.md`, rule 20). One yes, no more questions.
+- **Not this time:** write "Interactive: not now" in their notes and go on to their final file (Checkpoint, step 3). Don't bring it up again. If they change their mind later, even after it's live, **"Make my product interactive"** works anytime (`what-to-say.md`).
+
+**Question 2: what should it do?** Only when they want to choose. One message, then wait. Show only the options that fit their product, 3 to 5 of them, from the list below. Put your pick first, marked ⭐ (1 or 2: the ones their buyer will use most), and always end with **Something else**:
+
+> Yay! What should your {product} do? Pick as many as you like (for example **1 and 2**).
+> 1. ⭐ **Type right in** (My pick): {what buyers get, from the list}. {why it fits their buyer, in a few words}
+> 2. **Tick it off:** {what buyers get}
+> 3. **Tap to jump:** {what buyers get}
+> 4. **Something else:** tell me your idea, and I'll tell you honestly if I can build it.
+>
+> Say yes to my pick, or tell me which ones you'd like.
+
+| Option | What buyers get (say it like this) | Fits |
+|---|---|---|
+| **Tap to jump** | A clickable contents page: tap a section and land right on it, with a little home button on every page to get back. | 6 pages or more: planners, workbooks, journals, ebooks, guides, prompt packs |
+| **Type right in** | A type-in box on every writing space, so they fill it out on their computer or tablet, save it, and come back to it anytime. | Anything with spaces to write in |
+| **Tick it off** | Checkboxes that really tick, for to-dos, habits and checklists. | Anything with tick boxes |
+| **Totals that add up by themselves** | They type the numbers, and the total fills itself in. (Works in the free Adobe Acrobat Reader.) | Budgets, savings, sales or price pages, anything with sums |
+| **A linked calendar** | Year, month, week and day pages, each one tap apart, and one tap back. | Dated planners |
+| **Buttons to your links** | "Get my free gift", "Shop my other products" or "Watch the video" buttons that open your links. | Any product, for links they already have |
+| **A printable version too** | The same pages on paper, for buyers who like to print. | Digital planners |
+
+**Your ⭐ pick:**
+- Printables, workbooks, journals and worksheets: **Type right in**, plus **Tick it off** if it has tick boxes.
+- Budgets and trackers with numbers: **Type right in** and **Totals that add up by themselves**.
+- Ebooks, guides and prompt packs: **Tap to jump**.
+- Digital planners: **A linked calendar** if it's dated, **A printable version too** if it's undated.
+- More than 10 pages? **Tap to jump** is your second pick.
+
+**"Something else":** say honestly what a PDF can do, in one or two lines, then offer the closest thing you can build.
+- **Can:** links to pages, websites, videos or an email address; type-in boxes (one line or bigger); checkboxes; pick-one choices and drop-down lists; dates; totals and simple math.
+- **Can't:** a video or animation that plays inside the page (offer a **Watch the video** button that opens it instead), drag and drop, sound, or anything that syncs between devices.
+
+**Without your own file-creation tools,** the options need Claude's code setting. So when they say yes (to your picks or their own), first save their answer in their notes. If you can't save their notes yourself, hand them their notes first (`SKILL.md` section 2). Then ask them to turn the setting on. Kristin wants every student to have it on, because it's what builds their product the fastest. One message, then wait:
+> To build this for you, Claude needs one switch turned on. It's a one-time thing and takes a few seconds:
+> 1. Click your name (bottom left) → **Settings** → **Capabilities**.
+> 2. Turn on **Code execution and file creation**. It may be called **Cloud code execution and file creation**.
+> 3. Close Settings and come back to this chat, then type **Done**.
+>
+> On a Team plan, the owner turns it on in **Admin settings** → **Capabilities**.
+
+- **After "Done", you can make files:** carry on with "Get it ready, in one go".
+- **Still no file tools after "Done":** ask them to start a new chat in their DREAM project and type **Keep going**.
+- **They can't turn it on** (for example, a work account that blocks it) **or would rather not:** only links can be added, and they're made in Canva. Offer only **Tap to jump** and **Buttons to your links**, and note the others as "later" in their Decisions ("Building the interactive parts", below).
+
+**Get it ready, in one go** (no more questions). Some picks need a small addition to the product. Make them all together, the Round 6 way: from copies of the master pages, the fonts and colors check on every page you touched, one preview and one "Save them all?" ("A preview isn't a saved page"). Nothing to add? Go straight to their final file.
+- **Tap to jump:** a contents page with every section, right after "How to use this" (if there isn't one yet), and a small home button in the same corner of every page. Planners also get tabs down the side (blueprint 7).
+- **Type right in:** nothing to add, if the writing lines and boxes are roomy enough to write in by hand. Make any that aren't bigger.
+- **Totals:** a clear total line at the end of each column, if there isn't one.
+- **A linked calendar:** nothing to add. Each page's title becomes its link back up.
+- **Buttons to your links:** a button on the What's next page for each link. Ask for the links in the preview message. A link they don't have yet (their shop, their free gift) can go in later: they just ask. Selling on Etsy, or might be? Then a shop button goes to their Etsy shop only: no links or QR codes to buy somewhere else, and no discount for buying elsewhere (`storefronts.md`, Etsy).
+- **The How to use page** gets 2 or 3 lines about the interactive parts, written so they make sense on paper too ("Using the interactive version? Tap the contents to jump, type in the boxes, then save."), plus the best free app (Adobe Acrobat Reader, on every device).
+- **Built as your own PDF:** make the same additions in your file, and show the changed pages as pictures before you remake it.
+- **Save it:** their picks go in their notes under "Interactive", and any extra pages under "What's inside".
+
+Once it's saved, send their final file message (Checkpoint, step 3) and, in the same message, ask for the PDF to build on: "Then download it once more as **PDF Standard** (Share → Download → PDF Standard: it's made for screens, and it keeps links) and drop it in here, and I'll make it interactive." When their final file already is PDF Standard (ebooks, guides, prompt packs, swipe files, digital planners), one download does both. Built as your own PDF? Use your own file.
+
 
 ### Saving the final file
 
@@ -418,16 +421,16 @@ On a clear yes:
 
 If what they see in Canva doesn't match these clicks, ask what they see and help from there. Canva moves things around sometimes.
 
-### Making it interactive (what they picked in Round 4)
+### Building the interactive parts
 
-Only if they picked something in Round 4. Right after they've saved their final file, add the interactive parts on top of it, so the look stays exactly the same. This is the moment they've been waiting for, so make the handover feel like magic.
+Only if they said yes to "Make it interactive?". Once their final file is saved and they've dropped in the PDF Standard copy, add the interactive parts on top of it, so the look stays exactly the same. This is the moment they've been waiting for, so make the handover feel like magic.
 
 **Which file:**
 - **Printables, planners, workbooks, journals, worksheets and trackers:** the interactive one is a second file, for screens: `{Product-Name}-Interactive.pdf`. Their print file stays as it is. That's their second product. How to sell the two together is decided at the start of Apply's title and description (Round 3). Kristin's pick: both in one listing, delivered in a thank-you PDF with a download button for each (`delivery.md`, "Bundles, step by step").
 - **Ebooks, guides, mini-course workbooks, prompt packs, swipe files and digital planners:** the interactive parts go right into the product, in the same file. It's still one product.
 
 **Building it, with your own file-creation tools:**
-1. **Get the PDF.** Ask them to download it as **PDF Standard** (Share → Download → PDF Standard: it's made for screens, and it keeps links) and drop it into the chat. Built it as your own PDF? Use that file.
+1. **Get the PDF:** the PDF Standard copy they dropped in. Built it as your own PDF? Use that file.
 2. **Add what they picked, on top of the pages.** Never change or cover the printed words.
    - **Tap to jump:** find each section's name on the contents page and on each tab (read the words' positions in the PDF), put a link right over it to the first page of that section, and link the home button on every page back to the contents.
    - **Type right in:** a type-in box on every writing line or box (one that wraps, for bigger spaces), sitting inside its lines, with text at least 10 pt, in their body text color.
@@ -448,7 +451,7 @@ Only if they picked something in Round 4. Right after they've saved their final 
 
 **Changed something in Canva later?** The interactive parts sit on the PDF, so a new download from Canva won't have them. Tell them once: "Send me the new PDF, and I'll add the interactive parts again."
 
-**Without your own file-creation tools:** first ask them to turn on the code setting, with the same message and steps as in Round 4 ("Without your own file-creation tools"). Skip this if their notes say they can't turn it on or would rather not. If it stays off, add links only, made in Canva:
+**Without your own file-creation tools:** first ask them to turn on the code setting, with the same message and steps as in "Make it interactive?" ("Without your own file-creation tools"). Skip this if their notes say they can't turn it on or would rather not. If it stays off, add links only, made in Canva:
 - **Buttons to your links:** put the link on each button's words with the Canva connector (edit-design, `format_text` with a `link`).
 - **Tap to jump:** walk them through it in Canva, a few tabs per message: click the tab's words → **Link** (the chain icon, or Ctrl/Cmd + K) → pick the page from the list → **Done**. Then the home button on each page, linked to the contents page.
 - Links made in Canva stay in **PDF Standard**. If what they see doesn't match, ask what they see.
@@ -460,8 +463,8 @@ Then save it in their notes (Execute, "Interactive": what it does, the file name
 ## If Canva won't connect
 
 Keep them moving. Never pretend a design exists.
-1. **If you can create files,** design it yourself as a PDF, following "As your own PDF" in Round 7.
+1. **If you can create files,** design it yourself as a PDF, following "As your own PDF" in Round 6.
    - **For a PDF product** (printable, ebook, workbook, prompt pack, swipe file), that PDF is ready to sell.
-   - **To edit it in Canva later,** follow "If they want to edit their PDF in Canva" in Round 8.
-2. **If you can't create files,** give them the full content in the chat, a few pages at a time, ready to paste. Suggest a starting design: a Template Vault design, or a Canva template they find by searching Canva for their own product type (for example "{their product type} printable").
+   - **To edit it in Canva later,** follow "If they want to edit their PDF in Canva" in Round 7.
+2. **If you can't create files,** give them the full content in the chat, a few pages at a time, ready to paste. Suggest a starting design: a Canva template they find by searching Canva for their own product type (for example "{their product type} printable").
 3. Offer to walk them through it one page at a time.

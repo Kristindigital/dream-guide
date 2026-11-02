@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.11
+
+- **Your inspiration, built in:** when you start making your product, your guide asks if there's a product you love the look of. Take a screenshot and drop it in (or your brand kit), and your guide builds your look from it. Inspired by it, never a copy.
+- **Make it interactive, as the finishing touch:** your guide now asks right after you approve your product, so you see it finished first.
+
 ## 0.5.10
 
 - **Faster building, fewer messages:** your guide now asks everything for one piece at once, like your listing images (what each one shows, the words, which pages to show and what stays private), with its pick filled in. Say yes, and it makes the whole thing, then shows it to you. It remembers how you like things, tells you only what changed, and checks everything at the big moments.

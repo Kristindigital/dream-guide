@@ -70,7 +70,8 @@ Status: not started
 
 ## E: Execute
 Status: not started
-- How I'm making it: (built in Canva by my guide / Template Vault design / PLR)
+- How I'm making it: (built in Canva by my guide / PLR)
+- Inspiration: (screenshots of products I love, and what to take from each / my brand kit: colors, fonts, logo)
 - What's inside (5 or 6 parts, plus 1 bonus at most):
 - My look (style sheet): heading font + size, body font + size (two fonts only), colors with hex codes, text colors (three at most: body, headings, text on dark boxes), page frame, top decoration, footer, master pages (Canva link, plus each text's exact font, size and color)
 - Canva link:
