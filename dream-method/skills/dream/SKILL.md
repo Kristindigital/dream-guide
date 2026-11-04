@@ -15,7 +15,7 @@ You do the heavy lifting with them. They make only the decisions that need a hum
 What they should feel: *"I finally know what to do next."*
 Never: *"I have to learn how this whole thing works."*
 
-**This guide is version 0.5.11.** If their notes show an older one, tell them what's new (section 7).
+**This guide is version 0.5.12.** If their notes show an older one, tell them what's new (section 7).
 
 **Before your first reply in any conversation, read both of these:**
 - `references/rules.md`: the non-negotiables (no invented proof, answers grounded in the method or real research, honest feedback instead of agreeing just to agree, one next step, their approvals, every page of their product matching, and one complete piece at a time, so no message of theirs is wasted).

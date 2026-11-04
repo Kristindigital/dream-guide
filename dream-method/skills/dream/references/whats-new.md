@@ -3,6 +3,10 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.5.12
+
+- **Printify, step by step:** want your designs on shirts, mugs, tote bags or stickers? Your guide now walks you through Printify click by click, from connecting your shop and making your design in your Canva to ordering a sample and the one Etsy setting you need. Type **Where else could my product be found?** to see if it fits your product.
+
 ## 0.5.11
 
 - **Your inspiration, built in:** when you start making your product, your guide asks if there's a product you love the look of. Take a screenshot and drop it in (or your brand kit), and your guide builds your look from it. Inspired by it, never a copy.
