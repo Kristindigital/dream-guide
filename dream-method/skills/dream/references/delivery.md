@@ -20,6 +20,7 @@ Facts were checked on each platform's own pages in October 2026. Screens change:
 | **Skool** | Route A: a resource file in a classroom lesson (`skool.md`, Step 4). | Route E: the link inside the lesson. |
 | **Systeme.io (sold in a funnel)** | Route B (a Google Drive link) or Route D (a Systeme.io course). | Route E: the link on the thank-you page and in the delivery email. |
 | **A bundle or several items, anywhere** | Route C: a thank-you PDF ("Bundles, step by step"). | Route C: a thank-you PDF ("Bundles, step by step"). |
+| **A game or tracker (playable version), anywhere** | Route F: a play link in a thank-you PDF, with the file as a backup. | Route F. |
 
 ## 2. Get it ready
 
@@ -138,15 +139,25 @@ It's easiest on a computer. Their steps (Google's own help: https://support.goog
    - a Google Drive link to a PDF (Route B)
    - a Canva template link
    - a "make a copy" link to a Google Sheet
+   - a play link to their game or tracker (Route F)
 3. Export it as **PDF Standard,** so the buttons stay clickable.
 4. Upload that PDF itself to their platform (Route A).
 5. Check every button in a signed-out or private window.
+
+## Route F: a play link (a game or tracking tool)
+
+**For:** a playable version (`games-and-tools.md`). It's a web page, so buyers open it with a link: Etsy doesn't accept web page files, and a page opened from a phone's Files app often won't play its sounds or taps.
+1. **Put it online free with Netlify:** follow `games-and-tools.md`, section 8, "Put it online", one step at a time. Signed in first, then the folder dropped on **app.netlify.com/drop**, **Make public** if it's private, a nice project name, and the link tested on their phone.
+2. **The backup file:** put `{Product-Name}-Playable.zip` on Google Drive (Route B: "Anyone with the link: **Viewer**").
+3. **The thank-you PDF** (Route C), with a **"Play now"** button (the Netlify link) and its line, "Opens in your web browser on any phone, tablet or computer. Tap the screen once to turn on the sound.", plus a **"Download the game file"** button (the zip) and its line, "A backup copy. Unzip it and open index.html in your web browser." With its printable, that's a bundle: follow "Bundles, step by step" below.
+4. **On Etsy:** upload the thank-you PDF and the printable PDF as the listing's files. The play link goes to the product they bought, which is fine on Etsy.
+5. **Check it like a buyer:** open the thank-you PDF in a private window, tap **Play now** on a phone, and play a few turns with the sound on.
 
 ---
 
 ## Bundles, step by step
 
-**For:** any two or more products sold together: their printable with its interactive version (Execute, "Making it interactive"), a digital planner with its printable version, a planner with a matching tracker pack, a starter bundle of 3. Also whenever they ask to bundle anything (Kristin, Oct 27: "guide them through the process of bundling anything together"). Do every part you can for them, and walk them through the rest, 3 to 5 steps per message.
+**For:** any two or more products sold together: their printable with its interactive version (Execute, "Making it interactive"), their printable with its playable version (Route F), a digital planner with its printable version, a planner with a matching tracker pack, a starter bundle of 3. Also whenever they ask to bundle anything (Kristin, Oct 27: "guide them through the process of bundling anything together"). Do every part you can for them, and walk them through the rest, 3 to 5 steps per message.
 
 **1. Choose what goes in.** Only products that already exist, help the same buyer, and belong together (`upsells-and-funnels.md`, part 1). 2 or 3 items is plenty.
 - **Their product plus its other version** (interactive or printable): Kristin's pick is **both in one**: one listing, "{product}: Printable + Interactive". Buyers get both ways to use it (print it, or use it on a tablet or computer), and the student sets up just one listing. The other way, on platforms with add-ons at checkout, is the second version as an add-on (`upsells-and-funnels.md`, part 1). Etsy has no add-ons at checkout.

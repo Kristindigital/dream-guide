@@ -1,6 +1,6 @@
 # Execute blueprints: how to build each product
 
-One blueprint for each of Kristin's 8 product types.
+One blueprint for each of Kristin's 9 product types.
 Read the one that matches their product before you plan the pages. Use it as your plan; the student never has to read it.
 
 Every blueprint follows the same three ideas from `why-people-buy.md`:
@@ -176,3 +176,22 @@ Short lessons on one skill, as slides, a PDF, or video.
 - **Design:** one idea per slide, key words highlighted, the same banner or header on every slide.
 - **Canva format:** Presentation (16:9).
 - **Save as:** PDF Standard for buyers, PowerPoint if they'll present it live, MP4 if they record it.
+
+## 9. Games and tracking tools
+
+Games kids and families play on a phone or iPad (a path board game, memory match, bingo, a party card game, a learning game), and trackers that tick, count and save (a chore or reward chart, a habit or reading tracker, a savings challenge, a countdown).
+
+**Read `games-and-tools.md` first.** It covers what fits, keeping the game their own (never a copy of a brand), the brief, building the playable version, checking it and getting it to buyers.
+
+- **Kristin's pick: printable + playable.** Build the printable in Canva first, through the usual rounds. At the checkpoint, the playable version is built from that same art (`step-execute.md`, "Make it interactive?": playable products skip straight to the brief). They sell both together as one bundle.
+- **Build in:** Canva (the printable), then the playable version with your file-creation tools.
+- **First version:** one game with one way to play, or one tracker with one job.
+- **Printable game kit order:** Cover · How to play (setup, a turn, special spaces, how to win, ages and number of players) · the board · the cards · the pieces · About me · What's next.
+- **Printable tracker order:** Cover · How to use this (with a filled-in example) · the chart pages · a reward or "I did it" page if it fits · About me · What's next.
+- **Design, so it's easy to make playable:**
+  - Bold, flat art with clear outlines. Characters, icons and stickers on a plain background, with space around each one.
+  - Path spaces in solid, clearly different colors (no faded or two-tone spaces), with a small gap between spaces. The path runs from START to FINISH in one line, and FINISH sits at the end of the path.
+  - Shortcuts start and end on a space, and each picture-card spot sits right beside one space.
+  - The same printable rules as blueprint 1: big text, margins for home printers, kind to ink.
+- **Canva format:** a board in US Letter or A4 landscape; cards, pieces and charts in US Letter or A4.
+- **Save as:** PDF Print (the printable). For the playable version: PNG, all pages (`games-and-tools.md`, section 4).

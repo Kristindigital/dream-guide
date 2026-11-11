@@ -53,6 +53,7 @@ Kristin also gives students this list as a printable, so the wording here matche
 - **"Check my product before I sell it."**
 - **"Fix my fonts and colors."** (makes every page match)
 - **"Make my product interactive."**
+- **"Make my product playable."** (a game or tracker that plays on a phone or iPad)
 
 ## A: Apply (your shop)
 

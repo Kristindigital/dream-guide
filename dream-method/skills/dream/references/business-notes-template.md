@@ -77,6 +77,7 @@ Status: not started
 - Canva link:
 - Saved as: (PDF Print / PDF Standard / template link / PNG / JPG / SVG / PPTX)
 - Interactive: (not now / what it does: tap to jump, type right in, tick it off, totals, linked calendar, link buttons, printable version): file name, apps tested, made on ___
+- Playable version: (not now / game or tracker: how it plays, read out loud, sounds, the win or reward, saving): file name, Netlify link, devices tested, made on ___
 - Approved on:
 
 ## A: Apply

@@ -169,10 +169,10 @@ Only then mark Shop setup ✓, and say in one line: "Your shop is ready. Now let
 
 ## Round 3: Package it (the title and description)
 
-**Made a second file in Execute** (an interactive version of their printable, or a printable version of their digital planner, in their notes)? Before you write anything, ask how they'll sell the two together, because it changes the title, the photos and the price. One message, then wait:
+**Made a second file in Execute** (an interactive or playable version of their printable, or a printable version of their digital planner, in their notes)? Before you write anything, ask how they'll sell the two together, because it changes the title, the photos and the price. One message, then wait:
 
-> Your {product} comes in two versions now, printable and interactive! Here's how I'd sell them. My pick is (a).
-> - **(a) Both in one** ⭐ (my pick): one listing, "{product}: Printable + Interactive". Buyers get both ways to use it, and you set up just one listing. Both arrive together in one PDF, with a download button for each.
+> Your {product} comes in two versions now, printable and {interactive / playable}! Here's how I'd sell them. My pick is (a).
+> - **(a) Both in one** ⭐ (my pick): one listing, "{product}: Printable + {Interactive / Playable}". Buyers get both ways to use it, and you set up just one listing. Both arrive together in one PDF, with a {download button / button} for each.
 > - **(b) The interactive one as an add-on:** buyers tick a box at checkout to add it for a few dollars. {On Etsy: Etsy has no add-ons at checkout, so there it would be its own listing.}
 >
 > Which one would you like?
@@ -203,6 +203,7 @@ Then add:
 - **What they get and how:** the format, the number of pages, and "instant digital download, nothing will be shipped".
 - **What they need:** a printer, a free Canva account, a tablet app...
 - **Interactive?** (their notes, Execute, "Interactive"): say what it does in buyer words ("tap the contents to jump to any section", "type right in and save"), and name only the apps they tested it in.
+- **Playable?** (their notes, Execute, "Playable version"): say what it does in buyer words ("tap the deck and your piece hops along the path", "reads every card out loud", "tap to add a star"), plus "plays in your web browser on any phone, tablet or computer, no app to download". Name only the devices they tested. Trackers: "Your progress saves on this device." Never call it an app from the App Store (`games-and-tools.md`, section 8).
 - **Usage:** personal use only, unless they've decided otherwise.
 - **Etsy only: an honest AI note in the description,** if AI helped make it. Etsy requires it (see `storefronts.md`). **Write it from how they really made it,** in their voice: what was theirs (the idea, their choices, any words they wrote, their own tips) and what AI tools helped with (drafting the words, organizing, the design). Their notes say most of it; if they don't say who wrote the words, ask in one line. Examples:
   - They wrote the words: "My idea and my words, organized and designed with help from AI tools."
@@ -416,11 +417,13 @@ Kristin's three, plus one Etsy check. Make every change for them, all together: 
 | **Canva template link** | Their own editable copy; the original stays protected | Canva template packs, editable planners and worksheets | Needs Canva Pro. Deliver it inside an access PDF, or as the redirect link on Stan or Beacons. |
 | **Thank-you PDF (and bundles)** | A one-page PDF with one clear button per item | Bundles, several files, anything delivered by links | The buyer has one simple place to go. |
 | **PDF + Google Drive** | A Drive link to the file or a folder, shared as "Anyone with the link: **Viewer**" | Big files, bundles over the platform's limits, Systeme.io funnels | Works together with the thank-you PDF: the PDF is the delivery page, Drive is the storage. |
+| **A play link (games and trackers)** | A free Netlify link that opens the game or tracker in any web browser, inside a thank-you PDF, with the file as a backup | Playable versions (`games-and-tools.md`) | Etsy doesn't accept web page files, and phones often won't play one opened from Files, so a link is the way. Anyone with the link can open it. |
 
 **How to recommend:**
 - **A printable to print at home:** the file itself.
 - **A template pack:** a template link.
 - **A bundle** (including their product with its interactive version): a thank-you PDF, built with `delivery.md`, "Bundles, step by step".
+- **A playable version** (with its printable): a play link in a thank-you PDF (`delivery.md`, Route F, then "Bundles, step by step").
 - **Something they'll keep updating:** a view link can work well.
 
 **Show the options, one line each, with your pick first.** Only the ones that work on their platform (`delivery.md`, section 1). For example, a printable on Stan:

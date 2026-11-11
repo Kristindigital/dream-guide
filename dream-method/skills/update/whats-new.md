@@ -4,6 +4,12 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.6.0
+
+- **Games and tracking tools:** your guide can now make your product playable. Kids tap to draw a card and watch their piece hop along your own board, with the cards read out loud, little sounds and confetti for the winner. Or a chore chart, habit tracker or savings challenge they tap, that cheers and saves. It's built from your own Canva art, so you can sell the printable and the playable version together. Type **Make my product playable** anytime.
+- **Putting it online, free:** your guide walks you through putting your game or tracker online with a free Netlify account, so buyers get a link that plays on any phone, tablet or computer, inside a thank-you PDF.
+- **New setting name:** Claude renamed the setting your guide uses to make your files. It's now called **Create and edit files** (in Settings, then Capabilities), and your guide now uses the new name.
+
 ## 0.5.12
 
 - **Printify, step by step:** want your designs on shirts, mugs, tote bags or stickers? Your guide now walks you through Printify click by click, from connecting your shop and making your design in your Canva to ordering a sample and the one Etsy setting you need. Type **Where else could my product be found?** to see if it fits your product.
@@ -17,7 +23,7 @@ This is the only copy to edit. `build.sh` copies it into the update skill.
 
 - **Faster building, fewer messages:** your guide now asks everything for one piece at once, like your listing images (what each one shows, the words, which pages to show and what stays private), with its pick filled in. Say yes, and it makes the whole thing, then shows it to you. It remembers how you like things, tells you only what changed, and checks everything at the big moments.
 - **Growing on social media:** say you'd like to market on social media, and your guide points you straight to Kristin's REACH Engine, her social media add-on, made just for that. If you already have it, your guide hands you right over to it.
-- **Make it interactive:** when you plan your product, your guide now asks if you'd like it interactive: tap to jump to any section, type right into the boxes, tick things off, and more. Pick what you'd like, and your guide builds it for you. It uses Claude's **Code execution and file creation** setting, so if that's off, your guide shows you the one switch to turn it on.
+- **Make it interactive:** when you plan your product, your guide now asks if you'd like it interactive: tap to jump to any section, type right into the boxes, tick things off, and more. Pick what you'd like, and your guide builds it for you. It uses Claude's **Create and edit files** setting, so if that's off, your guide shows you the one switch to turn it on.
 - **Bundles, step by step:** selling your product with its interactive version, or any products together? Your guide walks you through it, from the name and price to a thank-you PDF with a download button for each. Type **Help me bundle my products** anytime.
 
 ## 0.5.9

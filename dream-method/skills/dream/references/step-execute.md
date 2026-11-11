@@ -310,7 +310,7 @@ First, the fonts and colors check must pass on every page (`rules.md`, rule 19).
 
 On a clear yes:
 1. Mark Execute approved with today's date. Save the Canva link (or the PDF's file name), what's inside and their look in their notes. Note any version 2 ideas in Decisions.
-2. **Celebrate, and ask the last question in the same message: make it interactive?** ("Make it interactive?", below). Canva template packs and graphics kits skip the question: celebrate in one line, then go to step 3.
+2. **Celebrate, and ask the last question in the same message: make it interactive?** ("Make it interactive?", below). Canva template packs and graphics kits skip the question: celebrate in one line, then go to step 3. Games and tracking tools (blueprint 9) skip it too: celebrate, then send the playable brief (`games-and-tools.md`, section 3) in the same message.
 3. **Their final file.** **Built in Canva:** give the save clicks for their product type ("Saving the final file", below), with one line on why that format. Template packs also need their access PDF (blueprint 3).
    **Built as your own PDF:** the file you handed over is the final file. Hand over the latest version again so they have it in one place. (If they moved it into Canva and edited it there, use the Canva save clicks instead.)
    Said yes to interactive? This comes once its additions are saved, in the same message that asks for the PDF to build on ("Get it ready, in one go", below).
@@ -323,9 +323,18 @@ On a clear yes:
 Interactive products are what Kristin's students are most excited about right now, and buyers love them (Kristin, Oct 27: "I want this part to be mindblowing!"). Make it feel like a gift: warm, short and exciting. Ask it at the end, right after they approve their product, in the same message as the celebration (Kristin, Nov 2): it's the finishing touch.
 
 **Who gets it:**
+- **Games and tracking tools (blueprint 9):** the playable version is the point, so skip both questions. In the celebration message, go straight to the playable brief (`games-and-tools.md`, section 3).
+- **Printables that are games or trackers** (a board or card game, bingo, a chore, reward, habit, reading or savings chart, a countdown): ask question 1 with **Make it playable** as your ⭐ pick (below).
 - **Printables, planners, workbooks, journals, worksheets, trackers, ebooks, guides, mini-course workbooks, prompt packs and swipe files:** ask both questions.
 - **Digital planners:** they're interactive already, with tappable tabs (blueprint 7). Skip question 1 and go straight to question 2, starting it with the celebration line.
 - **Canva template packs and graphics kits:** skip it, and say nothing about it.
+
+**Make it playable** (games and trackers): a version that plays in any web browser on a phone or iPad, with taps, sounds and celebrations, built from their own Canva art. For a printable game or tracker, question 1's options become:
+> 1. ⭐ **Yes, make it playable!** {a game: "Kids play it on a phone or iPad: tap to draw a card, watch their piece hop along your board, with the cards read out loud" / a tracker: "Tap to add a star, and it saves and cheers"}. (My pick, because {one line})
+> 2. **Yes, as an interactive PDF:** {type right in, tick it off}.
+> 3. **Not this time**
+
+On **Make it playable,** follow `games-and-tools.md` from section 3 (the brief) to section 7 (the handover). It's their second product, sold with the printable as a bundle (Apply, Round 3).
 
 **Question 1: do they want it?** One message, then wait:
 
@@ -378,11 +387,12 @@ Their keyword set from Research has a word like digital, fillable, hyperlinked, 
 **"Something else":** say honestly what a PDF can do, in one or two lines, then offer the closest thing you can build.
 - **Can:** links to pages, websites, videos or an email address; type-in boxes (one line or bigger); checkboxes; pick-one choices and drop-down lists; dates; totals and simple math.
 - **Can't:** a video or animation that plays inside the page (offer a **Watch the video** button that opens it instead), drag and drop, sound, or anything that syncs between devices.
+- **Want a game, sounds, animation or stars that add up?** That's a playable version, not a PDF: offer it (`games-and-tools.md`).
 
 **Without your own file-creation tools,** the options need Claude's code setting. So when they say yes (to your picks or their own), first save their answer in their notes. If you can't save their notes yourself, hand them their notes first (`SKILL.md` section 2). Then ask them to turn the setting on. Kristin wants every student to have it on, because it's what builds their product the fastest. One message, then wait:
 > To build this for you, Claude needs one switch turned on. It's a one-time thing and takes a few seconds:
 > 1. Click your name (bottom left) → **Settings** → **Capabilities**.
-> 2. Turn on **Code execution and file creation**. It may be called **Cloud code execution and file creation**.
+> 2. Turn on **Create and edit files**. On some accounts it's called **Code execution and file creation** (or **Cloud code execution and file creation**).
 > 3. Close Settings and come back to this chat, then type **Done**.
 >
 > On a Team plan, the owner turns it on in **Admin settings** → **Capabilities**.
@@ -422,6 +432,8 @@ Once it's saved, send their final file message (Checkpoint, step 3) and, in the 
 If what they see in Canva doesn't match these clicks, ask what they see and help from there. Canva moves things around sometimes.
 
 ### Building the interactive parts
+
+**A playable version** (a game or tracker): follow `games-and-tools.md`, sections 4 to 7, instead of this section. Their final printable is still saved first (Checkpoint, step 3), and the PNG download it needs goes in that same message.
 
 Only if they said yes to "Make it interactive?". Once their final file is saved and they've dropped in the PDF Standard copy, add the interactive parts on top of it, so the look stays exactly the same. This is the moment they've been waiting for, so make the handover feel like magic.
 
