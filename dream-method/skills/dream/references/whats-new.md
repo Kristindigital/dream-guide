@@ -3,6 +3,10 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.6.1
+
+- **A new name:** Kristin's membership in her Classroom is now called **Premium** (it used to be VIP). If you ever ask your guide for more support, it now uses the new name.
+
 ## 0.6.0
 
 - **Games and tracking tools:** your guide can now make your product playable. Kids tap to draw a card and watch their piece hop along your own board, with the cards read out loud, little sounds and confetti for the winner. Or a chore chart, habit tracker or savings challenge they tap, that cheers and saves. It's built from your own Canva art, so you can sell the printable and the playable version together. Type **Make my product playable** anytime.
