@@ -4,6 +4,10 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.6.2
+
+- **Kristin's 25,000 check is back:** in Research, your guide now asks you for one quick WordStream screenshot of your broad topic, then reads the number and tells you if it clears 25,000 searches.
+
 ## 0.6.1
 
 - **A new name:** Kristin's membership in her Classroom is now called **Premium** (it used to be VIP). If you ever ask your guide for more support, it now uses the new name.

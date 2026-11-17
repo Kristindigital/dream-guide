@@ -70,7 +70,7 @@ Then boil it down to their **keyword set**, which every title, page, image and p
 - **3 to 5 supporting phrases:** close variations buyers type
 - **The buyer's phrases:** how buyers describe the problem in their own words
 
-**Never attach a search volume or "monthly searches" number** unless a real tool showed you that number. Say "phrases buyers use", not "high-volume keywords".
+**Never attach a search volume or "monthly searches" number** unless a real tool showed you that number (like their WordStream screenshot, part 6). Say "phrases buyers use", not "high-volume keywords".
 
 ### 5. Price
 
@@ -80,6 +80,15 @@ Base it on the real prices you found. Then recommend:
 
 Kristin's pricing beats: underpricing hurts (it lowers the value people see and attracts the wrong buyers). Most first products sit somewhere around $7 to $47. $9 feels easier than $10. Bundling and adding value lets them charge more with confidence.
 Use their country's currency.
+
+### 6. Is the broad topic big enough? (Kristin's 25,000 check)
+
+Kristin's rule from her Classroom: the **broad topic** should have **25,000 or more searches** in WordStream's free keyword tool. The broad topic is the big subject their product sits inside, in 1 to 3 words, without the buyer or the details ("meal planner", not "lunchbox planner for picky eaters").
+- **It's one part of the research, not the verdict.** Whatever the number, carry on with the other parts and trips, and decide only once all the research is in ("The verdict" below).
+- You can't open WordStream, so it's always a trip (the WordStream trip below). Only report the number you read in their screenshot. Never guess it or estimate it.
+- **25,000 or more:** the topic is big enough. It's good news, but it isn't proof people buy. That still comes from the products you found (part 1).
+- **Under 25,000:** don't change their idea yet. Pick one bigger broad topic their product still fits inside ("meal planner" instead of "lunchbox planner") and ask for one more WordStream screenshot (two checks in all, never more). Note both numbers, then carry on with the rest of the research.
+- **Their own, more specific phrases will show much smaller numbers, and that's fine.** The 25,000 is for the broad topic only. Never widen their product to chase a bigger number: *you stand out by doing something specific.*
 
 ## Research trips (their eyes, where you can't look)
 
@@ -94,7 +103,11 @@ How trips work:
 - **If they'd rather skip one,** that's fine. Carry on, and say in the report which part is thinner because of it.
 - **On free Claude,** screenshots use up the usage limit quickly. Ask for the 2 or 3 most important trips first, and save the rest for after a pause (`free-plan.md`).
 
-**The trips, most important first** (pick only what fills a gap):
+**The WordStream trip, for every student** (Kristin's 25,000 check, part 6). Ask for it early: right after the Etsy trip, or first if you don't need that one.
+   > Go to **https://www.wordstream.com/keywords**, type **"{broad topic}"** in the box, click **Find my keywords**, and screenshot the results.
+   Read the search volume on the row for that exact topic. Don't add rows together or round the number. If that row isn't in the screenshot, or the number is cut off, say so and ask for it. If they already checked it themselves, ask for that screenshot (or the number they saw) instead of sending them again. Whatever the number, move on to the next trip. If they skip it, the verdict can still be Go on proof of buying, but say in the report that the 25,000 check wasn't done.
+
+**The other trips, most important first** (pick only what fills a gap):
 1. **Etsy search results** (proof of buying matters most):
    > Search Etsy for **"{exact phrase}"**, take a screenshot of the first page of results, and drop it in here. Then scroll down and screenshot the next row too.
    A second search with a different phrase (the buyer's version) often finds 5 more products.
@@ -122,10 +135,15 @@ Reading their screenshots:
 
 ## The verdict
 
-Decide one, honestly:
+Decide only once all the research is in (parts 1 to 6, and the trips they took), weighing it all together. Then pick one, honestly:
 - **Go:** there's real proof people buy products like this, and a clear way for them to be more specific or more useful.
 - **Tweak:** people buy this, but it's crowded or too broad. Say *exactly* what to change (a narrower person, a sharper problem, a different format).
 - **Rethink:** you found little sign that anyone pays for this. Say what you checked, then offer to research their idea #2 from Define instead. Never call it a failure. Finding this out now saved them weeks.
+
+**Weigh the 25,000 check with everything else** (Kristin, Nov 17):
+- **Neither broad topic reached 25,000, but the proof of buying is strong** (many of the products you found show real signs of sales): it can still be Go. Say plainly in the report that the topic is under Kristin's 25,000 bar, so it's a smaller market and they should keep it specific.
+- **Under 25,000 and thin proof of buying too:** Tweak or Rethink, whichever the rest of the research points to.
+- Never ask for more WordStream checks at the verdict.
 
 Also sharpen three things from Define using what you found (and say what changed):
 - Their **niche statement**, still in Kristin's format: *I help ___ with ___ so they can ___.* If you add the buyer's own words, they must come from a quote you linked.
@@ -140,6 +158,7 @@ The full detail goes in their notes. What they read stays short:
 >
 > **What I found**
 > - I looked at **{number} similar products** on {places}, from {lowest price} to {highest price}. Say **Show my examples** for the full list.
+> - Your broad topic, **"{broad topic}"**, has **{number from their screenshot}** searches on WordStream (your screenshot, {date}). Kristin's bar is 25,000. {If you checked a bigger topic too: "{bigger topic}" has {its number}.}
 > - {evidence, linked}
 > - {evidence, linked}
 > - {evidence, linked}

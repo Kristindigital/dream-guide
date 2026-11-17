@@ -48,6 +48,7 @@ Status: not started
 Status: not started
 - Verdict: (Go / Tweak / Rethink) and why
 - Proof people buy this (10 to 15 similar products: title, where, price, signs of sales, link):
+- My broad topic and its WordStream searches (Kristin's 25,000 check, from my screenshot, with the date, plus the bigger topic if I checked one):
 - My buyer in their own words (real quotes, with links):
 - Their struggles:
 - What they want:
