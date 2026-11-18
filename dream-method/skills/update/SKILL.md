@@ -7,7 +7,7 @@ description: Use when the user types "/update", or asks what's new in their DREA
 
 *© 2026 DRDL PROPERTIES LLC (Kristin's Classroom). Licensed for the purchaser's personal use. See `LICENSE`.*
 
-**This guide is version 0.6.2.** What's new in each version: `whats-new.md`, in this folder.
+**This guide is version 0.6.3.** What's new in each version: `whats-new.md`, in this folder.
 
 Students are beginners. Keep it short and warm, in plain words.
 
@@ -19,12 +19,16 @@ Students are beginners. Keep it short and warm, in plain words.
 3. Click the **⋮** next to **dream-guide**, then **Check for updates**. Then click **Done**.
 4. Open a **new chat** in their DREAM project and type **Keep going**.
 
+**In Claude Code** (the **Code** tab in the Claude app): their notes are already saved in their folder, so skip the notes step. After the update, they click **+ New** in Claude Code, click **Choose a folder to work in** (under the message box), choose **Documents › My DREAM Business**, and type **Keep going**.
+
 ## When they type /update
 
 > ✨ **You have version {version} of your DREAM Engine.** Here's what's new in it:
 > - {the lines for this version from `whats-new.md`}
 >
 > To get Kristin's newest version later: first type **I want to start a new chat. Can I have my notes?** here, and add the file I give you to your DREAM project, replacing the old one. Then **Customize** → **Plugins** → **+ Add** → **Manage marketplaces**, then the **⋮** next to **dream-guide** → **Check for updates** → **Done**. Type **Keep going** to pick up your business.
+
+(In Claude Code, leave out the notes part: their notes are already saved in their folder. The last step is **+ New** in Claude Code, with **Documents › My DREAM Business** chosen under **Choose a folder to work in**, then **Keep going**.)
 
 If their business notes are in this chat and their "Guide version" is older, set it to this version with your next notes save.
 

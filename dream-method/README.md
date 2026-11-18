@@ -12,6 +12,7 @@ Your guide asks a few simple questions, does the research and the drafting for y
 Everything you decide is kept in one file, `my-dream-business.md`, so you never have to repeat yourself.
 - In a Claude project, your guide keeps it up to date in the project's Context for you.
 - In Cowork, it's saved in the folder you work in.
+- In Claude Code (the Code tab in the Claude app, on Claude Pro or higher), it's saved in **Documents › My DREAM Business**. Already working in a project? Type **Move me to Claude Code**, and your guide walks you through moving.
 
 ## Updates
 

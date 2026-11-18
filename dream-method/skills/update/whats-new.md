@@ -4,6 +4,11 @@
 Newest version first. Written for students: plain words, 2 to 4 lines per version.
 This is the only copy to edit. `build.sh` copies it into the update skill.
 
+## 0.6.3
+
+- **Claude Code, on Claude Pro or higher:** your DREAM can now live in Claude Code, the **</>** button at the top left of the Claude app on your computer. Your guide saves your notes for you after every decision, and any new chat picks up with **Keep going**, so there's no more copying your notes. To move, type **Move me to Claude Code**, and your guide walks you through it one step at a time.
+- **Starting in Claude Code:** click **</>** at the top left of the Claude app, then **+ New** without choosing a folder, type **Let's start my DREAM**, and your guide makes a **My DREAM Business** folder in your Documents to keep your notes safe.
+
 ## 0.6.2
 
 - **Kristin's 25,000 check is back:** in Research, your guide now asks you for one quick WordStream screenshot of your broad topic, then reads the number and tells you if it clears 25,000 searches.
